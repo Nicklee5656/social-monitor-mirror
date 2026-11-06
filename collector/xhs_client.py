@@ -30,6 +30,7 @@ def _tb(limit=3):
 
 INDEX_URI = "https://edith.xiaohongshu.com/api/sns/web/v1/user_posted"
 ME_URI = "https://edith.xiaohongshu.com/api/sns/web/v2/user/me"
+FEED_URI = "https://edith.xiaohongshu.com/api/sns/web/v1/feed"
 
 _client = Xhshow()
 
@@ -154,7 +155,19 @@ def _pick_video_url(video):
 
 
 def fetch_detail(cookies, note_id, xsec_token=None, retries=2):
-    """抓单篇详情。返回与源库单篇同构的字段（不含 completeness/mirror，由构建脚本补齐）。"""
+    """抓单篇详情。优先 feed API（对数据中心 IP 可用），失败再回退笔记页 SSR。
+
+    返回与源库单篇同构的字段（不含 completeness/mirror，由构建脚本补齐）。
+    """
+    # ---- 链路 1：签名 feed API ----
+    try:
+        return fetch_detail_api(cookies, note_id, xsec_token, retries=retries)
+    except LoginExpired:
+        raise
+    except Exception as e:
+        _warn(f"feed api failed for {note_id}: {type(e).__name__}: {str(e)[:160]}; fallback to SSR")
+
+    # ---- 链路 2：笔记页 SSR ----
     session = _session(cookies)
     url = f"https://www.xiaohongshu.com/explore/{note_id}"
     if xsec_token:
@@ -192,6 +205,111 @@ def fetch_detail(cookies, note_id, xsec_token=None, retries=2):
             if attempt < retries:
                 time.sleep(2 + attempt * 3)
     raise FetchError(f"detail failed: {type(last_err).__name__}: {last_err}")
+
+
+def fetch_detail_api(cookies, note_id, xsec_token=None, retries=2):
+    """POST /api/sns/web/v1/feed，返回与 SSR 版本同构的字段。"""
+    session = _session(cookies)
+    body = {
+        "source_note_id": note_id,
+        "image_formats": "jpg",
+        "extra": {"need_body_topic": 1},
+        "xsec_source": "pc_feed",
+        "xsec_token": xsec_token or "",
+    }
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            headers = {
+                "Accept": "application/json, text/plain, */*",
+                "Origin": "https://www.xiaohongshu.com",
+                "Referer": "https://www.xiaohongshu.com/",
+                "Content-Type": "application/json;charset=UTF-8",
+                **_client.sign_headers_post(uri=FEED_URI, cookies=cookies, payload=body),
+            }
+            r = session.post(FEED_URI, json=body, headers=headers, timeout=30)
+            r.raise_for_status()
+            b = r.json()
+            if b.get("code") not in (0, None):
+                msg = json.dumps(b, ensure_ascii=False)[:200]
+                if b.get("code") in (300011, 300012, -100):
+                    raise LoginExpired(f"feed rejected: {msg}")
+                raise FetchError(f"feed api error: {msg}")
+            items = (b.get("data") or {}).get("items") or []
+            card = None
+            for it in items:
+                if (it.get("id") == note_id or it.get("note_id") == note_id) and it.get("note_card"):
+                    card = it["note_card"]
+                    break
+            if card is None and items:
+                card = items[0].get("note_card")
+            if not card:
+                raise FetchError("feed_empty_items")
+            return _normalize_feed(card, note_id, xsec_token)
+        except LoginExpired:
+            raise
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                time.sleep(2 + attempt * 3)
+    raise FetchError(f"feed api failed: {type(last_err).__name__}: {last_err}")
+
+
+def _normalize_feed(card, note_id, xsec_token):
+    """note_card（蛇形命名）→ 源库单篇字段。"""
+    imgs = []
+    for i, im in enumerate(card.get("image_list") or [], start=1):
+        u = im.get("url_default") or im.get("url") or im.get("url_pre")
+        imgs.append(
+            {
+                "position": i,
+                "source_url": u.replace("http://", "https://") if u else None,
+                "width": im.get("width"),
+                "height": im.get("height"),
+                "extracted_text": None,
+                "extraction_status": "pending" if u else "source_unavailable",
+            }
+        )
+
+    video = card.get("video") or {}
+    vurl = None
+    stream = ((video.get("media") or {}).get("stream") or {})
+    for codec in ("h264", "h265", "av1"):
+        for item in stream.get(codec) or []:
+            if item.get("master_url"):
+                vurl = item["master_url"]
+                break
+        if vurl:
+            break
+    is_video = card.get("type") == "video" or bool(video)
+
+    ts = card.get("time")
+    published_at = None
+    date_text = None
+    if isinstance(ts, (int, float)) and ts > 0:
+        dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc).astimezone()
+        published_at = dt.isoformat(timespec="seconds")
+        date_text = dt.strftime("%Y-%m-%d")
+
+    interact = card.get("interact_info") or {}
+    return {
+        "note_id": note_id,
+        "title": (card.get("title") or "").strip() or None,
+        "body_text": (card.get("desc") or "").strip() or None,
+        "content_type": "video" if is_video else "image",
+        "published_at": published_at,
+        "date_text": date_text,
+        "images": imgs,
+        "video_url": vurl,
+        "video_poster": None,
+        "metrics": {
+            "likes": interact.get("liked_count") or None,
+            "favorites": interact.get("collected_count") or None,
+            "comments": interact.get("comment_count") or None,
+        },
+        "author": (card.get("user") or {}).get("nickname") or (card.get("user") or {}).get("nick_name"),
+        "xsec_token": xsec_token,
+    }
 
 
 def _normalize(note, note_id, xsec_token):
