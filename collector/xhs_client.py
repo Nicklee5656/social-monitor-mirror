@@ -7,7 +7,9 @@
 # 不点赞、不关注、不发布，不绕过任何验证码或风控。
 import json
 import re
+import sys
 import time
+import traceback
 from datetime import datetime, timezone
 
 import requests
@@ -17,6 +19,14 @@ UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/155.0.0.0 Safari/537.36"
 )
+
+
+def _warn(msg):
+    print(msg, file=sys.stderr, flush=True)
+
+
+def _tb(limit=3):
+    return "".join(traceback.format_exc(limit=limit)).replace("\n", " | ")[-400:]
 
 INDEX_URI = "https://edith.xiaohongshu.com/api/sns/web/v1/user_posted"
 ME_URI = "https://edith.xiaohongshu.com/api/sns/web/v2/user/me"
@@ -83,7 +93,7 @@ def fetch_index(cookies, user_id, max_pages=40, delay=1.2):
         except Exception as e:
             if notes:
                 break  # 已拿到部分索引，保留并返回，由上层判定 partial
-            raise FetchError(f"index page {page} failed: {type(e).__name__}") from e
+            raise FetchError(f"index page {page} failed: {type(e).__name__}: {e} :: {_tb()}") from e
 
         if body.get("code") not in (0, None):
             msg = json.dumps(body, ensure_ascii=False)[:200]
