@@ -5,7 +5,7 @@
   "post_id": "6ae0954f00000000190306ae",
   "url": "https://www.xiaohongshu.com/explore/6ae0954f00000000190306ae",
   "title": "12个2027年独立站蓝海品类，你在牌桌上吗？",
-  "published_at": null,
+  "published_at": "2026-10-27T20:13:03+08:00",
   "content_type": "video",
   "body_text": "整理了12个更具体的产品方向，同一个大行业，拆到具体人群和使用场景，还能找到很多不同的切入点，看看这些里面有没有你正在关注的。\n\t\n这12个方向，你更看好哪一个？或者你正在做的行业，也可以在评论区聊聊。\n如果你已经在做 Shopify 独立站，想梳理产品卖点、找到激发购买需求的切入点，我们也整理了一份 CRO 检查清单，需要可以留言「CRO」。\n\t\n#kikstartecom #shopify #独立站 #跨境电商 #品牌出海",
   "images": [
@@ -42,7 +42,9 @@
     "index_xsec_token": "ABN21X99e7sjx0zRA43A3p0frFR7Oi3IlVMvBgyYvIYCk=",
     "index_type": "video",
     "index_likes": null,
-    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文",
+    "previous_published_at": null,
+    "last_metadata_sync": "run-20261106T182603"
   },
   "completeness": {
     "level": "text_only",
@@ -65,14 +67,13 @@
       "note": "视频语音转录未执行"
     },
     "published_at": {
-      "status": "missing",
+      "status": "present",
       "note": "网页端仅提供相对/编辑时间，原文见 date_text",
       "date_text": "编辑于 6天前 加拿大"
     },
     "all_materials_complete": false,
     "gaps": [
       "image_text",
-      "published_at",
       "video_transcript"
     ]
   },
@@ -80,12 +81,11 @@
   "all_materials_complete": false,
   "gaps": [
     "image_text",
-    "published_at",
     "video_transcript"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-3",
-    "content_fingerprint": "7efe2600d986",
+    "dataset_version": "2026.11.06-4",
+    "content_fingerprint": "3881fc328fa8",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae0954f00000000190306ae.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae0954f00000000190306ae.json"
   }

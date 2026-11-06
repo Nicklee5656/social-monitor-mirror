@@ -5,9 +5,9 @@
   "account_id": "6245580f000000001000fce7",
   "account_label": "Kikstart Ecom 凯客数智",
   "profile_url": "https://www.xiaohongshu.com/user/profile/6245580f000000001000fce7",
-  "dataset_version": "2026.11.06-3",
-  "content_fingerprint": "7efe2600d986",
-  "generated_at": "2026-11-06T17:31:14+08:00",
+  "dataset_version": "2026.11.06-4",
+  "content_fingerprint": "3881fc328fa8",
+  "generated_at": "2026-11-06T18:26:41+08:00",
   "mirror_mode": "full",
   "access": {
     "login_required": false,
@@ -25,7 +25,7 @@
     },
     "gap_counts": {
       "image_text": 127,
-      "published_at": 166,
+      "published_at": 154,
       "video_transcript": 54,
       "video_url": 6
     },
@@ -64,8 +64,7 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "image_text",
-        "published_at"
+        "image_text"
       ],
       "path": "posts/6393d342000000001c005310.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6393d342000000001c005310.json",
@@ -2154,8 +2153,7 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "image_text",
-        "published_at"
+        "image_text"
       ],
       "path": "posts/6a3a70d0000000000f031f6f.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a3a70d0000000000f031f6f.json",
@@ -2249,8 +2247,7 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "image_text",
-        "published_at"
+        "image_text"
       ],
       "path": "posts/6a4ca12e000000000803d00a.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4ca12e000000000803d00a.json",
@@ -2972,7 +2969,6 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "published_at",
         "video_transcript"
       ],
       "path": "posts/6acc7e630000000014012067.json",
@@ -2991,7 +2987,6 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "published_at",
         "video_transcript",
         "video_url"
       ],
@@ -3070,8 +3065,7 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "image_text",
-        "published_at"
+        "image_text"
       ],
       "path": "posts/6ad1c07c00000000140101ee.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad1c07c00000000140101ee.json",
@@ -3089,8 +3083,7 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "image_text",
-        "published_at"
+        "image_text"
       ],
       "path": "posts/6ad59dd900000000190241fc.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad59dd900000000190241fc.json",
@@ -3164,7 +3157,6 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "published_at",
         "video_transcript",
         "video_url"
       ],
@@ -3202,7 +3194,6 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "published_at",
         "video_transcript",
         "video_url"
       ],
@@ -3222,7 +3213,6 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "published_at",
         "video_transcript",
         "video_url"
       ],
@@ -3243,7 +3233,6 @@
       "all_materials_complete": false,
       "gaps": [
         "image_text",
-        "published_at",
         "video_transcript"
       ],
       "path": "posts/6ae0954f00000000190306ae.json",
@@ -3300,8 +3289,7 @@
       "completeness_level": "text_only",
       "all_materials_complete": false,
       "gaps": [
-        "image_text",
-        "published_at"
+        "image_text"
       ],
       "path": "posts/6ae862fc00000000190398b8.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae862fc00000000190398b8.json",

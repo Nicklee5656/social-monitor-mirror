@@ -1,9 +1,9 @@
 # social-monitor 数据集全部可读地址（无需任何参数）
-# dataset_version: 2026.11.06-3  fingerprint: 7efe2600d986
+# dataset_version: 2026.11.06-4  fingerprint: 3881fc328fa8
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/version.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/manifest.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts.json
-https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-7efe2600d986.json
+https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-3881fc328fa8.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/index.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/updates.json
 

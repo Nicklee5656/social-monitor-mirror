@@ -5,7 +5,7 @@
   "post_id": "6acc7e630000000014012067",
   "url": "https://www.xiaohongshu.com/explore/6acc7e630000000014012067",
   "title": "Shopify转化率+27%，Offer发挥旺季优势",
-  "published_at": null,
+  "published_at": "2026-10-12T14:29:55+08:00",
   "content_type": "video",
   "body_text": "我们整理了一份《Shopify Offer 优化手册》，包含：\n-17 种 Shopify 促销玩法\n-具体 Offer 案例参考\n-不同场景下的 CRO 优化建议\n-Offer 上线检查清单\n评论区留言「Offer」，获取领取方式。\n#kikstartecom #shopify #独立站 #黑五 #旺季营销 #运营干货",
   "images": [],
@@ -35,7 +35,9 @@
     "index_xsec_token": "ABGJAEzLFFcUdVENcKMb9HMKTrKEKgPHzYyt7hbxCcfwI=",
     "index_type": "video",
     "index_likes": null,
-    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文",
+    "previous_published_at": null,
+    "last_metadata_sync": "run-20261106T182603"
   },
   "completeness": {
     "level": "text_only",
@@ -57,25 +59,23 @@
       "note": "视频语音转录未执行"
     },
     "published_at": {
-      "status": "missing",
+      "status": "present",
       "note": "网页端仅提供相对/编辑时间，原文见 date_text",
       "date_text": "10-12 加拿大"
     },
     "all_materials_complete": false,
     "gaps": [
-      "published_at",
       "video_transcript"
     ]
   },
   "completeness_level": "text_only",
   "all_materials_complete": false,
   "gaps": [
-    "published_at",
     "video_transcript"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-3",
-    "content_fingerprint": "7efe2600d986",
+    "dataset_version": "2026.11.06-4",
+    "content_fingerprint": "3881fc328fa8",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6acc7e630000000014012067.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6acc7e630000000014012067.json"
   }

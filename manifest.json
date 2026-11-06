@@ -3,10 +3,10 @@
   "dataset": "social-monitor",
   "platform": "xiaohongshu",
   "mirror_mode": "full",
-  "dataset_version": "2026.11.06-3",
-  "revision": 3,
-  "content_fingerprint": "7efe2600d986",
-  "updated_at": "2026-11-06T17:31:14+08:00",
+  "dataset_version": "2026.11.06-4",
+  "revision": 4,
+  "content_fingerprint": "3881fc328fa8",
+  "updated_at": "2026-11-06T18:26:41+08:00",
   "access": {
     "login_required": false,
     "cookie_required": false,
@@ -41,7 +41,7 @@
     },
     "gap_counts": {
       "image_text": 127,
-      "published_at": 166,
+      "published_at": 154,
       "video_transcript": 54,
       "video_url": 6
     },
@@ -57,7 +57,7 @@
   "entrypoints": {
     "version_probe": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/version.json",
     "single_file_everything": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts.json",
-    "single_file_frozen": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-7efe2600d986.json",
+    "single_file_frozen": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-3881fc328fa8.json",
     "index": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/index.json",
     "updates": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/updates.json",
     "one_post_example": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/638c1939000000001f00d6fa.json",
@@ -79,7 +79,7 @@
       "data/updates.json"
     ],
     "immutable_files": [
-      "data/posts-7efe2600d986.json"
+      "data/posts-3881fc328fa8.json"
     ],
     "note": "jsDelivr 会缓存 @main 上的可变文件；用带指纹的文件名可彻底避开旧缓存"
   },
@@ -100,7 +100,7 @@
     "manifest": "manifest.json",
     "version": "data/version.json",
     "posts": "data/posts.json",
-    "posts_frozen": "data/posts-7efe2600d986.json",
+    "posts_frozen": "data/posts-3881fc328fa8.json",
     "index": "data/index.json",
     "updates": "data/updates.json"
   }

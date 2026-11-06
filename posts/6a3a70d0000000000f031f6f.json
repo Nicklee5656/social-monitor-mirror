@@ -5,7 +5,7 @@
   "post_id": "6a3a70d0000000000f031f6f",
   "url": "https://www.xiaohongshu.com/explore/6a3a70d0000000000f031f6f",
   "title": "不搞虚的，12个适合Shopify的Claude Skill",
-  "published_at": null,
+  "published_at": "2026-06-23T19:41:04+08:00",
   "content_type": "image",
   "body_text": "安装Claude Skill 的过程并不复杂。你可以把它理解成：先下载一个已经写好规则的 .md 文件，再上传到 Claude，之后 Claude 就会按照这个 Skill 里的框架来完成分析。\n\t\n而对于深耕 Shopify 生态的品牌而言，品牌能否将日常运营中高频、繁杂的分析任务，沉淀为一套可被持续调用的标准化 AI 工作流。\n\t\n那么今天，咱们就分享12个适合Shopify独立站的Claude Skill，直接复制就能用\n#kikstartecom #claude #skill #aiskill #shopify #dtc #独立站 #品牌出海",
   "images": [
@@ -107,7 +107,9 @@
     "index_xsec_token": "ABYqetZ3CU3HW0K5MiPtWXqJIc0aHJqqCYxkTcRa2cGRM=",
     "index_type": "normal",
     "index_likes": null,
-    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文",
+    "previous_published_at": null,
+    "last_metadata_sync": "run-20261106T182603"
   },
   "completeness": {
     "level": "text_only",
@@ -129,25 +131,23 @@
       "status": "not_applicable"
     },
     "published_at": {
-      "status": "missing",
+      "status": "present",
       "note": "网页端仅提供相对/编辑时间，原文见 date_text",
       "date_text": "编辑于 06-25"
     },
     "all_materials_complete": false,
     "gaps": [
-      "image_text",
-      "published_at"
+      "image_text"
     ]
   },
   "completeness_level": "text_only",
   "all_materials_complete": false,
   "gaps": [
-    "image_text",
-    "published_at"
+    "image_text"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-3",
-    "content_fingerprint": "7efe2600d986",
+    "dataset_version": "2026.11.06-4",
+    "content_fingerprint": "3881fc328fa8",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a3a70d0000000000f031f6f.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a3a70d0000000000f031f6f.json"
   }

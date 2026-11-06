@@ -1,44 +1,126 @@
 {
   "schema_version": "1.0",
   "dataset": "social-monitor",
-  "dataset_version": "2026.11.06-3",
-  "content_fingerprint": "7efe2600d986",
-  "generated_at": "2026-11-06T17:31:14+08:00",
-  "task_id": "run-20261106T173053",
-  "task_status": "partial",
-  "started_at": "2026-11-06T17:30:53+08:00",
-  "finished_at": "2026-11-06T17:31:14+08:00",
+  "dataset_version": "2026.11.06-4",
+  "content_fingerprint": "3881fc328fa8",
+  "generated_at": "2026-11-06T18:26:41+08:00",
+  "task_id": "run-20261106T182603",
+  "task_status": "success",
+  "started_at": "2026-11-06T18:26:03+08:00",
+  "finished_at": "2026-11-06T18:26:41+08:00",
   "accounts_monitored": [
     "6245580f000000001000fce7"
   ],
   "new_posts": [],
-  "updated_posts": [
-    "6a01a73e0000000036030173",
-    "6aec4d11000000001a01ee08",
-    "6ae863cb000000001400dc9b",
-    "6ae46f23000000000d020cc1",
-    "6ae1c8360000000019024b14",
-    "6ad9ec5500000000190249a3",
-    "6ad85e67000000000d028170",
-    "6ad73a27000000000d020060"
+  "updated_posts": [],
+  "content_updated_posts": [],
+  "metadata_updated_posts": [
+    "6393d342000000001c005310",
+    "6a3a70d0000000000f031f6f",
+    "6a4ca12e000000000803d00a",
+    "6acc7e630000000014012067",
+    "6accb56c000000001901e054",
+    "6ad1c07c00000000140101ee",
+    "6ad59dd900000000190241fc",
+    "6ad9abd2000000001a01de48",
+    "6adae2a60000000019032f3f",
+    "6adf2f600000000019032a84",
+    "6ae0954f00000000190306ae",
+    "6ae862fc00000000190398b8"
   ],
-  "unchanged_posts_count": 154,
+  "unchanged_posts_count": 162,
   "known_posts_skipped_count": 154,
   "partial_posts": [],
   "failed_posts": [],
   "deleted_or_unavailable": [],
-  "errors": [
-    "index_missing_notes: 12 篇未出现在本次索引，已保留原数据待人工确认"
+  "index_missing_but_accessible": [
+    {
+      "post_id": "6393d342000000001c005310",
+      "verified_at": "2026-11-06T18:26:13+08:00",
+      "content_type": "image",
+      "published_at": "2022-12-10T08:30:58+08:00",
+      "body_length": 988
+    },
+    {
+      "post_id": "6a3a70d0000000000f031f6f",
+      "verified_at": "2026-11-06T18:26:15+08:00",
+      "content_type": "image",
+      "published_at": "2026-06-23T19:41:04+08:00",
+      "body_length": 323
+    },
+    {
+      "post_id": "6a4ca12e000000000803d00a",
+      "verified_at": "2026-11-06T18:26:16+08:00",
+      "content_type": "image",
+      "published_at": "2026-07-07T14:48:14+08:00",
+      "body_length": 723
+    },
+    {
+      "post_id": "6acc7e630000000014012067",
+      "verified_at": "2026-11-06T18:26:18+08:00",
+      "content_type": "video",
+      "published_at": "2026-10-12T14:29:55+08:00",
+      "body_length": 191
+    },
+    {
+      "post_id": "6accb56c000000001901e054",
+      "verified_at": "2026-11-06T18:26:19+08:00",
+      "content_type": "video",
+      "published_at": "2026-10-12T18:24:44+08:00",
+      "body_length": 637
+    },
+    {
+      "post_id": "6ad1c07c00000000140101ee",
+      "verified_at": "2026-11-06T18:26:21+08:00",
+      "content_type": "image",
+      "published_at": "2026-10-16T14:13:16+08:00",
+      "body_length": 1023
+    },
+    {
+      "post_id": "6ad59dd900000000190241fc",
+      "verified_at": "2026-11-06T18:26:22+08:00",
+      "content_type": "image",
+      "published_at": "2026-10-19T12:34:33+08:00",
+      "body_length": 971
+    },
+    {
+      "post_id": "6ad9abd2000000001a01de48",
+      "verified_at": "2026-11-06T18:26:24+08:00",
+      "content_type": "video",
+      "published_at": "2026-10-22T14:23:14+08:00",
+      "body_length": 454
+    },
+    {
+      "post_id": "6adae2a60000000019032f3f",
+      "verified_at": "2026-11-06T18:26:25+08:00",
+      "content_type": "video",
+      "published_at": "2026-10-23T12:29:26+08:00",
+      "body_length": 401
+    },
+    {
+      "post_id": "6adf2f600000000019032a84",
+      "verified_at": "2026-11-06T18:26:27+08:00",
+      "content_type": "video",
+      "published_at": "2026-10-26T18:45:52+08:00",
+      "body_length": 763
+    },
+    {
+      "post_id": "6ae0954f00000000190306ae",
+      "verified_at": "2026-11-06T18:26:28+08:00",
+      "content_type": "video",
+      "published_at": "2026-10-27T20:13:03+08:00",
+      "body_length": 240
+    },
+    {
+      "post_id": "6ae862fc00000000190398b8",
+      "verified_at": "2026-11-06T18:26:30+08:00",
+      "content_type": "image",
+      "published_at": "2026-11-02T18:16:28+08:00",
+      "body_length": 665
+    }
   ],
-  "post_urls": {
-    "6a01a73e0000000036030173": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a01a73e0000000036030173.json",
-    "6aec4d11000000001a01ee08": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aec4d11000000001a01ee08.json",
-    "6ae863cb000000001400dc9b": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae863cb000000001400dc9b.json",
-    "6ae46f23000000000d020cc1": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae46f23000000000d020cc1.json",
-    "6ae1c8360000000019024b14": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae1c8360000000019024b14.json",
-    "6ad9ec5500000000190249a3": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad9ec5500000000190249a3.json",
-    "6ad85e67000000000d028170": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad85e67000000000d028170.json",
-    "6ad73a27000000000d020060": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad73a27000000000d020060.json"
-  },
-  "note": "new_posts / updated_posts 为空表示本次未发现新笔记或内容变化"
+  "possibly_missing": [],
+  "errors": [],
+  "post_urls": {},
+  "note": "new_posts / updated_posts 为空表示本次未发现新笔记或内容变化；content_updated_posts = 正文/图片/视频实际变化；metadata_updated_posts = 仅发布时间补全或互动数刷新；index_missing_but_accessible = 不在平台索引但详情仍可访问的笔记（未删除，数据保留）"
 }

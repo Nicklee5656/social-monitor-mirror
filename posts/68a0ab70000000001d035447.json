@@ -74,8 +74,8 @@
     "video_transcript"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-3",
-    "content_fingerprint": "7efe2600d986",
+    "dataset_version": "2026.11.06-4",
+    "content_fingerprint": "3881fc328fa8",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a0ab70000000001d035447.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a0ab70000000001d035447.json"
   }

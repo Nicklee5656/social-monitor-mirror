@@ -5,7 +5,7 @@
   "post_id": "6ae862fc00000000190398b8",
   "url": "https://www.xiaohongshu.com/explore/6ae862fc00000000190398b8",
   "title": "旺季独立站转化率：改这3处，减少下单顾虑",
-  "published_at": null,
+  "published_at": "2026-11-02T18:16:28+08:00",
   "content_type": "image",
   "body_text": "一个品牌进入海外市场，独立站往往是用户认识它的第一站。\n用户可能是从广告或社媒点进来的。他们不熟悉品牌，也不会花太多时间猜测：这款产品适不适合我？页面里的卖点有什么实际用处？付款之后，配送、安装和售后怎么办？\n所以我们做独立站设计时，会先把这三个问题理清：\n① 让品牌值得被了解。 首页要让人迅速看懂品牌卖什么、产品面向谁、为什么值得继续看。视觉建立第一印象，清楚的信息才能让用户留下来。\n② 让产品容易被选择。 对于有多个型号和功能的产品，只堆参数还不够。用户需要看懂差别，也需要知道这些功能会怎样影响自己的使用体验。\n③ 让购买过程更安心。 规格、安装、配送、保修等信息，应该在用户需要时容易找到。疑问得到回答，下单才更有把握。\n今天分享的这个电竞椅独立站就是我们处理这类问题的一个案例。\n做 AutoFull 独立站时，我们围绕这三个问题梳理页面：\n① 帮用户选款。 首页先用电竞场景建立品牌印象，再通过 M6 系列进入具体产品；详情页把型号选择放在容易找到的位置。\n② 把功能讲明白。 腰部支撑、按摩、坐垫温控和扶手，不只列在参数里，也用产品特写与使用场景呈现。\n③ 回应购买后的疑问。 安装指南、规格、保修说明和 FAQ，让用户在下单前就能查到需要的信息。\n所以，\n让用户从认识品牌，到理解功能、选择产品，都能找到下一步需要的答案。\n我们整理了一份独立站转化率提升资料，如有需要，评论区：CRO\n#kikstartecom #shopify #独立站 #黑五 #品牌案例",
   "images": [
@@ -119,7 +119,9 @@
     "index_xsec_token": "AB2VVx6U9kaK08lqtqak2pEx5k33pULmC68tvGVYdKSPs=",
     "index_type": "normal",
     "index_likes": null,
-    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文",
+    "previous_published_at": null,
+    "last_metadata_sync": "run-20261106T182603"
   },
   "completeness": {
     "level": "text_only",
@@ -141,25 +143,23 @@
       "status": "not_applicable"
     },
     "published_at": {
-      "status": "missing",
+      "status": "present",
       "note": "网页端仅提供相对/编辑时间，原文见 date_text",
       "date_text": "编辑于 昨天 18:16 加拿大"
     },
     "all_materials_complete": false,
     "gaps": [
-      "image_text",
-      "published_at"
+      "image_text"
     ]
   },
   "completeness_level": "text_only",
   "all_materials_complete": false,
   "gaps": [
-    "image_text",
-    "published_at"
+    "image_text"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-3",
-    "content_fingerprint": "7efe2600d986",
+    "dataset_version": "2026.11.06-4",
+    "content_fingerprint": "3881fc328fa8",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae862fc00000000190398b8.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae862fc00000000190398b8.json"
   }

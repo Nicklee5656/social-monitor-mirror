@@ -5,7 +5,7 @@
   "post_id": "6ad1c07c00000000140101ee",
   "url": "https://www.xiaohongshu.com/explore/6ad1c07c00000000140101ee",
   "title": "7步产品图优化，为啥别人的Shopify更易出单",
-  "published_at": null,
+  "published_at": "2026-10-16T14:13:16+08:00",
   "content_type": "image",
   "body_text": "同样的产品、差不多的价格，为什么有些 Shopify 独立站就是更容易出单？\n一个很容易被忽略的细节：产品详情页的图片顺序。\n\t\n很多品牌习惯把产品图、细节图、场景图全部上传到 PDP，让用户自己慢慢看。\n但其实，产品图也可以按照销售漏斗（Sales Funnel）的逻辑来设计，让每张图片都有明确的转化任务。\n\t\n分享一套值得参考的 7步产品图优化框架👇\n① Main Image｜主图 第一眼抓住注意力，清晰传达产品的核心卖点。\n② Lifestyle Image｜场景图 展示真实使用场景，让用户快速代入自己的生活。\n③ Social Proof｜社会证明 通过真实评价、使用前后对比，建立信任感。\n④ Value Add｜价值加成 展示赠品、额外服务等，让用户感受到更多购买价值。\n⑤ How to Use｜使用教程 用简单直观的图片或视频，降低用户的理解和使用门槛。\n⑥ Objection Handling｜消除顾虑 提前回答用户关心的问题，例如产品是否适用、使用是否方便、清洁是否容易。\n⑦ Product In-Use｜使用效果 展示产品实际使用过程与效果，进一步增强购买信心。\n💡 核心思路：把产品图当成一套销售漏斗。\n\t\n吸引注意力 → 建立信任 → 展示价值 → 消除顾虑 → 推动下单\n\t\n当然，这7步并不是所有产品都必须照搬的固定顺序。不同品类、客单价和用户需求，适合的图片结构也会不同。\n建议 Shopify 商家先检查现有 PDP 图片是否覆盖了这些信息，再通过 A/B Testing 验证调整效果。\n\t\n我们整理了一份 <Shopify CRO Checklist>，从首页、PDP、购物车到结账前流程，梳理了影响转化率的常见问题和检查项。如果你想自己先给网站做一轮基础排查，系统检查自己的 Shopify 独立站，我们整理了一套 Shopify CRO 实战资料包，帮助你从页面结构、用户心理、客单价和优秀品牌案例几个维度，找到更具体的转化优化机会。\n\t\n资料包包含：\nShopify CRO Checklist\nShopify CRO 心理学手册\nShopify AOV 优化手册\n93 个 8-9 位数营收品牌的转化优化设计参考\n\t\n领取方式：CRO\n#kikstartecom #shopify #独立站 #品牌独立站 #品牌出海 #转化率提升",
   "images": [
@@ -59,7 +59,9 @@
     "index_xsec_token": "AB7ByEsiCAbOaIRuWpvlN9u77WEvLi_wSjIa2sxdQDVZg=",
     "index_type": "normal",
     "index_likes": null,
-    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文",
+    "previous_published_at": null,
+    "last_metadata_sync": "run-20261106T182603"
   },
   "completeness": {
     "level": "text_only",
@@ -81,25 +83,23 @@
       "status": "not_applicable"
     },
     "published_at": {
-      "status": "missing",
+      "status": "present",
       "note": "网页端仅提供相对/编辑时间，原文见 date_text",
       "date_text": "编辑于 10-19 广东"
     },
     "all_materials_complete": false,
     "gaps": [
-      "image_text",
-      "published_at"
+      "image_text"
     ]
   },
   "completeness_level": "text_only",
   "all_materials_complete": false,
   "gaps": [
-    "image_text",
-    "published_at"
+    "image_text"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-3",
-    "content_fingerprint": "7efe2600d986",
+    "dataset_version": "2026.11.06-4",
+    "content_fingerprint": "3881fc328fa8",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad1c07c00000000140101ee.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad1c07c00000000140101ee.json"
   }

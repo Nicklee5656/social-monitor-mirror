@@ -1,12 +1,12 @@
 {
   "dataset": "social-monitor",
-  "dataset_version": "2026.11.06-3",
-  "revision": 3,
-  "content_fingerprint": "7efe2600d986",
-  "updated_at": "2026-11-06T17:31:14+08:00",
+  "dataset_version": "2026.11.06-4",
+  "revision": 4,
+  "content_fingerprint": "3881fc328fa8",
+  "updated_at": "2026-11-06T18:26:41+08:00",
   "posts": 174,
-  "posts_frozen_file": "data/posts-7efe2600d986.json",
-  "posts_frozen_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-7efe2600d986.json",
-  "posts_json_sha256": "df68b1de5ce0a9719d96e6e685ff08d323bb5d6b01520358a97a32080115182c",
+  "posts_frozen_file": "data/posts-3881fc328fa8.json",
+  "posts_frozen_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-3881fc328fa8.json",
+  "posts_json_sha256": "1fff86c43f4962491673b869bf0535fb5b074315386e69d96a3d0bc7c5ab493f",
   "note": "先读本文件取 content_fingerprint，再读 posts-<指纹>.json，可确保不受 CDN 旧缓存影响"
 }
