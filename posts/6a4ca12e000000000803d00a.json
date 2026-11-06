@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a4ca12e000000000803d00a",
+  "url": "https://www.xiaohongshu.com/explore/6a4ca12e000000000803d00a",
+  "title": "Shopify月访不到30万，别乱做A/B Test",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "很多 Shopify 品牌一做 CRO，就会想到A/B测试\n但 A/B Test 不是上线两个版本，就一定能跑出答案。\n它真正需要的是：足够大的样本量。\n如果样本量不够，测试结果很可能只是波动，不是结论。\n对很多独立站来说，一个小改动如果只带来 3%-5% 的相对提升，可能需要非常大的流量才能验证出来。\n测试周期一旦被拉长，就会出现两个问题：\n1、上线太慢；\n2、结果容易被季节性、促销节点、流量结构变化影响。\n所以流量不够时，更不能随便测。\n但也不是不测试，你要测的，不应该是没有研究支撑的随机微优化。\n而应该是那些真正可能影响用户决策的关键改动。\n比如：\n-产品页首屏信息结构；\n-加购前的信任感设计；\n-价格与优惠呈现方式；\n-购物车抽屉里的免邮门槛；\n-结账前的阻力点\n这也是 Shopify Rollouts 更现实的使用方式：\n不是拿来测试每一个小想法，\n而是用来控制高风险改版，或者验证高影响假设。\nA/B Test 的重点，不是“什么都测”。\n而是先分析用户旅程里，真正影响转化的关键节点。\n从随机微优化，转向高影响阶段优化。\n这才是更适合多数 Shopify 品牌的 CRO 思路。\n小 Tips：\n想判断一个测试到底需不需要这么大流量，可以先打开 Evan Miller 的 A/B Test Sample Size Calculator。\n如果你想领取这个 Calculator 和中文版使用指南，可以关注并在评论区留言【AB测试】，我们会发送给你。\n#kikstartecom #ab测试 #cro #转化率提升 #shopify #dtc #独立站",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/cab2a7130f8e50d6fe44f6e88dc8fc55/spectrum/1040g0k0322agpcarn0005oi5b07k1v77au2p0l0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/cab2a7130f8e50d6fe44f6e88dc8fc55/spectrum/1040g0k0322agpcarn0005oi5b07k1v77au2p0l0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/cab2a7130f8e50d6fe44f6e88dc8fc55/spectrum/1040g0k0322agpcarn0005oi5b07k1v77au2p0l0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "8",
+    "favorites": "4",
+    "comments": "8"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "88941049d0c500e42a89fb3f7f443bddb8cd22a1a07aaf1a1b9b9318513e536f",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 07-07",
+    "index_xsec_token": "ABi9WoEsLU0R18UU_wVi7J9vovK8mLCGauILYEuqf0Pu0=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 07-07"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4ca12e000000000803d00a.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4ca12e000000000803d00a.json"
+  }
+}

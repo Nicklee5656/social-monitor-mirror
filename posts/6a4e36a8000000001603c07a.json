@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a4e36a8000000001603c07a",
+  "url": "https://www.xiaohongshu.com/explore/6a4e36a8000000001603c07a",
+  "title": "Shopify运营注意，产品页这5个细节在漏单",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "我们翻了一遍页面，发现这个做云台的站的产品力其实很能打，但问题出在\"表达 + 转化逻辑\"。\n我们从CRO转化率优化角度做了一版Before/After，核心5点:\n-卖点从\"参数\"翻译成\"结果\"，只留最能打的 4 条\n-What's in the Box 做成可视化模块,别只放一个文字链\n-信任信息前置，紧贴Add to Cart\n-补相机兼容性，消除\"能不能配我机身\"的疑虑\n-加真实用户 UGC，补足社会认同\n\t\n别小看这些细节，它们决定的不是页面好不好看，而是用户到底加不加购。一个字母、一个位置、一张图,差的可能就是一单。\n\t\n你的 PDP 不妨也照着捋一遍。\n#kikstartecom #shopify #dtc #pdp #转化率提升 #uiux",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/4838e0d37bf3b653605c9e2930ee7549/spectrum/1040g34o322c29tv26u5g5oi5b07k1v77diei9c8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/c878ec56fdb42acd306345b2a0ba0ad7/spectrum/1040g34o322c29tv26u405oi5b07k1v77fd9ojh8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/3820bbdd7e64f5b2d09f100fcfc1a707/spectrum/1040g34o322c29tv26u4g5oi5b07k1v77u192s2g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/ab0ca11cba69db0aa470fc1c7497e7b5/spectrum/1040g34o322c29tv26u505oi5b07k1v7761p0k0o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/4838e0d37bf3b653605c9e2930ee7549/spectrum/1040g34o322c29tv26u5g5oi5b07k1v77diei9c8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/c878ec56fdb42acd306345b2a0ba0ad7/spectrum/1040g34o322c29tv26u405oi5b07k1v77fd9ojh8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "20",
+    "favorites": "21",
+    "comments": "5"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "1b9f070a3e037be902b8e148f07adf02ed9e103cafb659c11719cb7db77d20e2",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 07-14",
+    "index_xsec_token": "ABi39brwT06-P89DzIzZ8FDoGNBarT9ao4LAQUmYbRJiM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 6,
+      "captured": 6,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 07-14"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4e36a8000000001603c07a.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4e36a8000000001603c07a.json"
+  }
+}

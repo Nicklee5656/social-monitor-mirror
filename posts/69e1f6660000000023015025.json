@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69e1f6660000000023015025",
+  "url": "https://www.xiaohongshu.com/explore/69e1f6660000000023015025",
+  "title": "扒了一个珠宝页，发现8个被忽略的转化细节",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "完成珠宝品牌的官网全站审查后，Kik团队基于CRO优化经验，对于产品页面，梳理了8项可提升的具体细节\n\t\n大家也可以对照自己的商品页，也许会有一些新的优化灵感\n我们整理了一份Shopify CRO Checklist，从首页、PDP、购物车到结账前流程，梳理了影响转化率的常见问题和检查项。\n\t\n适合给自己来做一轮网站的基础排查。\n#Shopify独立站 #shopify #设计技巧 #提升转化率 #转化率优化 #CRO #kikstartecom #kikcromethod #独立站 #网站设计",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/9612424919911fa303d03d4e377886d9/spectrum/1040g0k0324309ojhgm005oi5b07k1v77p6tnnq8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/742defc4d0a752063c72243f20d913cb/spectrum/1040g34o31v23c6d8is205oi5b07k1v77l44ib38!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/039004950e656a05e729702e87848aee/spectrum/1040g34o31v23c6d8is2g5oi5b07k1v772sfncgo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/892e0fedc2ab31cb5c4187f789563c61/spectrum/1040g34o31v23c6d8is305oi5b07k1v77l7aqbi0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/e25c56dd3c32c215c82ca71047354e30/spectrum/1040g34o31v23c6d8is3g5oi5b07k1v77o560i68!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/9612424919911fa303d03d4e377886d9/spectrum/1040g0k0324309ojhgm005oi5b07k1v77p6tnnq8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/742defc4d0a752063c72243f20d913cb/spectrum/1040g34o31v23c6d8is205oi5b07k1v77l44ib38!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "51",
+    "favorites": "52",
+    "comments": "9"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "f919b78561a2c7c6860db0fb66a5543cca9f22ce1fd71d4dd0e8f7e318bc4d7f",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 08-20",
+    "index_xsec_token": "ABxQMzaLM79W8z0ooKnQPxxgVH9dL60w0PCbFPzNTAoIM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 08-20"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e1f6660000000023015025.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e1f6660000000023015025.json"
+  }
+}

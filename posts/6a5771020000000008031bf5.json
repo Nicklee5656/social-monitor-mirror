@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a5771020000000008031bf5",
+  "url": "https://www.xiaohongshu.com/explore/6a5771020000000008031bf5",
+  "title": "人体工学椅独立站产品页，5大亮点优化拆解",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "半价有时候不是卖点，而是疑点。\n一把 SIHOO 人体工学椅，原价 $559，现在卖 $269。\n折扣够狠，但如果页面只甩出一个大数字，用户反而会想：\n原价是不是虚高？它真的值这个价吗？便宜这么多，会不会有问题？\n我们拆这个 PDP 时发现，发现从 CRO 角度看，这把椅子可以重点改 5 个地方：\n首屏卖点利益前置\n用 3–4 条“功能 → 利益”，让用户不用滚动就知道它解决什么问题。\n规格选项帮用户决策\n每个版本加一句“谁最适合”，减少选择困难。\nCTA 区补安心感，把送达、免运、退换、质保放在加购按钮附近。\n大件家具的转化并不容易，但有时候折扣就算再狠也打动不了客户的心\n我们更多时候需要提前回答用户心里的问题：\n-值不值？\n-质量好不好\n折扣仅仅是负责吸引注意力，但真正推动下单的，必定是价值感和安全感。\n#kikstartecom #shopify #shopify独立站 #dtc #转化率提升",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031106/26191241ab78099528383655f4a74a22/spectrum/1040g0k0322l2nbtl6s005oi5b07k1v77lbg5el0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031106/9ac82b14877c2497ab6c34c11e715148/spectrum/1040g0k0322l2n21jn2005oi5b07k1v77o5ij9do!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031106/f1daaf5a10110eca5103f8f160891ecf/spectrum/1040g0k0322l2n85lmu005oi5b07k1v77ia38jvg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031106/72206cda8a79b65d0e5894869e9b6bd5/spectrum/1040g34o322l2na1amu105oi5b07k1v77h3qvdng!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031106/26191241ab78099528383655f4a74a22/spectrum/1040g0k0322l2nbtl6s005oi5b07k1v77lbg5el0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031106/9ac82b14877c2497ab6c34c11e715148/spectrum/1040g0k0322l2n21jn2005oi5b07k1v77o5ij9do!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "10",
+    "favorites": "9",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "1565ef5a3ea9dc23d72e9991f95374c5aa497757e5e156cec398a8984ae6608f",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 07-16",
+    "index_xsec_token": "ABqielKDMoCHq1Huczw57GHWRUprYnSGumh1VMrE-clcs=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 6,
+      "captured": 6,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 07-16"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a5771020000000008031bf5.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a5771020000000008031bf5.json"
+  }
+}

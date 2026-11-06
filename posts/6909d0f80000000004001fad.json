@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6909d0f80000000004001fad",
+  "url": "https://www.xiaohongshu.com/explore/6909d0f80000000004001fad",
+  "title": "后悔没早点发现那么好用的建站工具！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "过去，搭建一个 Shopify 独立站往往意味着漫长的筹备周期：从模板挑选、页面设计、素材准备，到支付配置、功能测试，每一步都需要大量人力与时间。对初创品牌来说，这常常成为跨入独立站领域的最大门槛。\n\t\n而如今，AI正在重塑这一过程。Lovable与Shopify的深度集成，让建站变得前所未有地轻量。用户只需输入几句prompt，系统就能自动生成包含首页、产品页、集合页在内的完整站点框架，并同步生成产品文案与视觉素材。从构想到可运行的网站，过去需要数周、数人的协作，如今一个人一两天即可完成。\n\t\n与传统建站工具不同，Lovable 并非简单地“自动生成页面”，而是将 AI 生成逻辑、沙盒验证机制与 Shopify 的商业系统深度融合，形成了一套覆盖从搭建到上线再到优化的完整闭环。\n\t\n其中包含：\n1️⃣AI自动生成商店和产品页\n2️⃣沙盒测试环境\n3️⃣一键认领与快速上线\n4️⃣后续优化和迭代\n\t\n#Shopify独立站 #独立站 #AI设计 #网站制作 #kikcromethod #lovable #shopify #kikstartecom #网站建设",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/efeb231b0103dc05548898bc1299be96/spectrum/1040g34o31of8rir2l25g5oi5b07k1v77gds4ac0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/880be6cdde31cd9fe0c992550b05f75c/spectrum/1040g34o31of8rir2l2305oi5b07k1v774jan8co!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/aa41534db3a18e7ceecf2514de67bfa8/spectrum/1040g34o31of8rir2l23g5oi5b07k1v77a863jv8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/e5cf1509a5023882924c6d595cfbf1f4/spectrum/1040g34o31of8rir2l2405oi5b07k1v77asstkvg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/03759698819c85b0f47ede64084ff777/spectrum/1040g34o31of8rir2l24g5oi5b07k1v77ms0n6jo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/4e87c53908db340cbe8c95ca17bfd102/spectrum/1040g34o31of8rir2l2505oi5b07k1v771j448io!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/efeb231b0103dc05548898bc1299be96/spectrum/1040g34o31of8rir2l25g5oi5b07k1v77gds4ac0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/880be6cdde31cd9fe0c992550b05f75c/spectrum/1040g34o31of8rir2l2305oi5b07k1v774jan8co!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "12",
+    "favorites": "11",
+    "comments": "3"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "095ffdfa2e4b344c8e2225a8540eee82043a627eec425c4d464470e5e0a116da",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-04",
+    "index_xsec_token": "ABj-aZM8gJ9c_dpQ1JnOK0YXeStFCO0QitywQDaIc8rHQ=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-04"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6909d0f80000000004001fad.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6909d0f80000000004001fad.json"
+  }
+}

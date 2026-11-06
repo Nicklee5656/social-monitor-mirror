@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "dataset": "social-monitor",
+  "platform": "xiaohongshu",
+  "mirror_mode": "full",
+  "dataset_version": "2026.11.06-1",
+  "revision": 1,
+  "content_fingerprint": "8e7edb363d58",
+  "updated_at": "2026-11-06T14:32:50+08:00",
+  "access": {
+    "login_required": false,
+    "cookie_required": false,
+    "sharecode_required": false,
+    "auth_note": "静态镜像：匿名 HTTPS GET 即可读取，无需任何查询参数、Cookie 或登录"
+  },
+  "account": {
+    "account_id": "6245580f000000001000fce7",
+    "label": "Kikstart Ecom 凯客数智",
+    "profile_url": "https://www.xiaohongshu.com/user/profile/6245580f000000001000fce7"
+  },
+  "accounts": [
+    {
+      "account_id": "6245580f000000001000fce7",
+      "label": "Kikstart Ecom 凯客数智",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/6245580f000000001000fce7"
+    }
+  ],
+  "counts": {
+    "posts": 173,
+    "total_collected": 173,
+    "image_posts": 120,
+    "video_posts": 53,
+    "with_body_text": 173,
+    "with_video_url": 44,
+    "images_total": 1022,
+    "images_with_url": 1022
+  },
+  "completeness_summary": {
+    "levels": {
+      "text_only": 173
+    },
+    "gap_counts": {
+      "image_text": 124,
+      "published_at": 173,
+      "video_transcript": 53,
+      "video_url": 9
+    },
+    "all_materials_complete_posts": 0,
+    "definition": {
+      "all_materials": "正文 + 图片地址 + 图片文字 OCR + 视频流 + 视频转录 + 绝对发布时间 全部具备",
+      "text_only": "正文完整、图片地址已抓取，但缺少图片文字 OCR 或视频转录或绝对发布时间",
+      "partial": "正文缺失或图片地址抓取不全",
+      "failed": "采集失败"
+    },
+    "warning": "本数据集当前没有任何一篇达到 all_materials：图片 OCR 与视频转录未执行，published_at 平台不提供"
+  },
+  "entrypoints": {
+    "version_probe": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/version.json",
+    "single_file_everything": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts.json",
+    "single_file_frozen": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-8e7edb363d58.json",
+    "index": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/index.json",
+    "updates": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/updates.json",
+    "one_post_example": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/638c1939000000001f00d6fa.json",
+    "all_urls_plaintext": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/urls.txt",
+    "same_via_pages": "https://nicklee5656.github.io/social-monitor-mirror/data/posts.json",
+    "same_via_raw_github": "https://raw.githubusercontent.com/Nicklee5656/social-monitor-mirror/main/data/posts.json"
+  },
+  "cache_policy": {
+    "read_order": [
+      "1) GET data/version.json（约 300B，读 dataset_version 与 content_fingerprint）",
+      "2) GET data/posts-<content_fingerprint>.json（文件名含指纹，内容永不变，CDN 缓存安全）",
+      "3) 若需最新可变文件，改用 GitHub Pages 地址校验"
+    ],
+    "mutable_files": [
+      "manifest.json",
+      "data/version.json",
+      "data/posts.json",
+      "data/index.json",
+      "data/updates.json"
+    ],
+    "immutable_files": [
+      "data/posts-8e7edb363d58.json"
+    ],
+    "note": "jsDelivr 会缓存 @main 上的可变文件；用带指纹的文件名可彻底避开旧缓存"
+  },
+  "how_to_read": [
+    "最省事：直接 GET data/posts.json —— 一个文件拿到全部笔记标题+正文+互动数",
+    "需要逐篇细节：先 GET data/index.json，每条记录的 url 字段是完整可读地址",
+    "所有地址都不需要加任何查询参数",
+    "判断是否最新：读 data/version.json 的 content_fingerprint，与 posts-<指纹>.json 的文件名比对"
+  ],
+  "known_limitations": [
+    "published_at 为 null：网页端只提供相对时间或编辑时间，原文保留在 date_text",
+    "图片文字 OCR 未执行：images[].extracted_text 为 null，extraction_status=pending",
+    "视频语音转录与字幕未执行：video.transcript 为 null，transcript_status=missing",
+    "视频流地址为带签名的 CDN 链接，会过期",
+    "counts.posts 是本系统实际收录数，不等于账号在平台上的全部笔记数"
+  ],
+  "files": {
+    "manifest": "manifest.json",
+    "version": "data/version.json",
+    "posts": "data/posts.json",
+    "posts_frozen": "data/posts-8e7edb363d58.json",
+    "index": "data/index.json",
+    "updates": "data/updates.json"
+  }
+}

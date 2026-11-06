@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69bd0ce40000000023004f48",
+  "url": "https://www.xiaohongshu.com/explore/69bd0ce40000000023004f48",
+  "title": "结帐方式变天，plus商家快自查",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Shopify 官方宣布，将 Scripts 的失效期限延长至2026 年 6 月 30 日。对于 Shopify Plus 商家而言，这一调整提供了更充裕的时间来处理复杂的基础架构迁移。\n\t\n在Kik协助客户评估系统时，我们发现简单的平移可能行不通，商家在迁移过程中通常会面临以下挑战：\n\t\n历史代码缺乏维护文档：许多目前运行的Scripts 是由早期开发团队部署的。这些代码长期缺乏和文档维护记录，后台到底在执行哪些促销活动或Filter。盲目迁移极易导致结账流程中断。\n\t\n增量规则的重构，是最核心的技术难点：旧版Scripts 具有全局视野，可以读取所有上下文的上下文；而功能之间相互独立，无法直接读取其他功能已应用的逻辑。如果您的店铺依赖增量规则（例如：阶梯定价+买赠+会员专享分配），这些逻辑在功能架构下极易发生冲突，必须由专业开发者重新规划算法。\n\t\n对转化率（CRO）的潜在冲击：结算页是消费者信任建立的最后一环。任何未充分测试的后台逻辑变更，都可能导致前端金额计算错误或加载延迟。消费者在前期的认知负担一旦增加，弃单率就会显著上升。\n\t\n需要先跟着流程进行自查\n#Shopify独立站 #CRO #shopify #电商干货 #scripts #shopify #SOP框架课代表 #提高转化率 #独立站 #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/57e64b67232b88d5995326e021a63a54/spectrum/1040g34o31tu9khrp184g5oi5b07k1v773of2n3o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/06bb5429073019ddbe3c851f80967457/spectrum/1040g34o31tu9khrp182g5oi5b07k1v77fj12aug!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/c29dd453e4e00aec646a82b8cf13c481/spectrum/1040g34o31tu9khrp18305oi5b07k1v77giojbv0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/973b4c6c09f96f9e96eafd75461801e6/spectrum/1040g34o31tu9khrp183g5oi5b07k1v77sq2oag0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/01f768168fddd53dc10f80610edd64f7/spectrum/1040g34o31tu9khrp18405oi5b07k1v772m4m4mg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/57e64b67232b88d5995326e021a63a54/spectrum/1040g34o31tu9khrp184g5oi5b07k1v773of2n3o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/06bb5429073019ddbe3c851f80967457/spectrum/1040g34o31tu9khrp182g5oi5b07k1v77fj12aug!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "7",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "09f24913c8c7de07e021ef77b8b0eaba3ff68354c5bf226f55c3027ff541eb13",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "03-20",
+    "index_xsec_token": "ABoqHZBq7K8fobj2yD9xN9vHjGSMrpTsw7YPTYJm2Hytw=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "03-20"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69bd0ce40000000023004f48.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69bd0ce40000000023004f48.json"
+  }
+}

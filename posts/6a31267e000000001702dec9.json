@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a31267e000000001702dec9",
+  "url": "https://www.xiaohongshu.com/explore/6a31267e000000001702dec9",
+  "title": "很多坑，只有真正开始做了才会遇到。",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "很多坑，只有真正开始做了才会遇到。\n\t\n很多人刚开始做独立站时，都会对自然流量有很高期待。Vivian 在穿戴甲创业初期，也曾经把很多希望放在自然流量上。她原本以为，自己既懂 DTC 独立站，又能投广告，再加上团队本身有内容基因，两条线一起跑，应该很快就能杀出一条路。但真正开始做之后才发现，自然流量的爆点没有想象中来得那么快。创业早期更现实的做法，是把流量、广告、素材、产品和落地页一起验证，快速判断问题到底出在哪里。\n\t\n#shopify #独立站 #dtc #kikstartecom #创业 #品牌出海",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/3041/01ea311847427350010370019ed001cd0d_3041.m4s?sign=e721d620b6f0e82185e54aabd64176e0&t=6aedf1c7",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "29",
+    "favorites": "20",
+    "comments": "2"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "5d528a7250927f6a14b9f04ae161937bfa830897ee6f7e570651fd84df8e561f",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "06-16",
+    "index_xsec_token": "ABzL-nBt7edHgu-ZXjtawfkeXWvTluf6HkLXhiRI8CPsg=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "06-16"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a31267e000000001702dec9.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a31267e000000001702dec9.json"
+  }
+}

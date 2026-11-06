@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6411c0590000000013031a72",
+  "url": "https://www.xiaohongshu.com/explore/6411c0590000000013031a72",
+  "title": "ColourPop美妆，独立站经验分享📖成功启示录",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "📌品牌故事\nColourPop成立于2014年，总部位于美国加利福尼亚州。该品牌专注于推出高品质、价格实惠的彩妆产品，因其质量、多样化和创新而备受赞誉，迅速成为许多美妆爱好者的最爱。ColourPop产品线已经扩展到了亚洲市场，备受消费者青睐。该品牌也不断通过社交媒体平台与消费者互动，建立了庞大的粉丝群体。\n\t\n📌引流渠道\n✔️浏览数超过400万/月🔝\n✔️客群年龄：18-24岁36%、25-34岁29%\n✔️用户女性占比：68.7%🧍🏻‍♀️\n✔️主要获客方式源于Direct channel和Organic search\n✔️Instagram上积累了1011万粉丝\n✔️其他获客渠道：谷歌及社交軟件广告\n\t\n📌品牌亮點\n💡ColourPop创始人兄妹劳拉(Laura)和约翰(John)一开始便决定通过社交媒体主攻千禧世代客群。视频博主凯瑟琳·莱茵(Kathleen Lights)便是早期采用该品牌并在其频道上谈论该品牌的红人。\n💡现在ColourPop依然通过Instagram、TikTok 和 YouTube 来接触他们的目标受众。他们与美妆红人和化妆师合作，以在其产品周围制造话题，并通过用户反馈活动和赠品与其粉丝互动。\n\t\n#独立站 #案例分析 #ColourPop #美妆品牌 #社交媒体 #美妆红人 #粉丝群体 #彩妆产品 #千禧世代 #获客方式 #Instagram #TikTok #YouTube #Shopify",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/dd2c5f6e627ceb2b6144192773ea6519/1000g00826k3se8ofm01g5oi5b07k1v77hsaqipg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/aaebf7e2aa043b2ca1f22e67e995a1ad/1000g00826k3se8ofm0005oi5b07k1v7733isn00!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/1a2bf6a91c33e17ee783986cb6ccbdd0/1000g00826k3se8ofm00g5oi5b07k1v772io3h20!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/9cc8916e7101f87515e805be244402a6/1000g00826k3se8ofm0105oi5b07k1v7779hj7io!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/dd2c5f6e627ceb2b6144192773ea6519/1000g00826k3se8ofm01g5oi5b07k1v77hsaqipg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/aaebf7e2aa043b2ca1f22e67e995a1ad/1000g00826k3se8ofm0005oi5b07k1v7733isn00!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "12",
+    "favorites": "9",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "27cdd1fd4568e413c78467281b3524191e3451ede9835be5cd58c8287da00584",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2023-03-15",
+    "index_xsec_token": "ABsNUYwh-FnzDd-tg81-ECIA2lA7dGvue5T0KX4DDnCLs=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 6,
+      "captured": 6,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2023-03-15"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6411c0590000000013031a72.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6411c0590000000013031a72.json"
+  }
+}

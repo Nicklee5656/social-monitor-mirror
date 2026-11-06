@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a6b288800000000320323a5",
+  "url": "https://www.xiaohongshu.com/explore/6a6b288800000000320323a5",
+  "title": "独立站别乱用横向栏，3类信息影响下单",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "很多 Shopify 产品页，都喜欢把信息做成横向\n看起来很清爽，但从用户体验角度看，这种布局不一定友好。\n\t\nBaymard 曾提到，横向 Tab 可能会带来两个问题：\n一是用户更难找到信息；\n二是用户容易在页面里迷失方向。\n因为大多数用户浏览产品页时，默认是一路往下滑。\n他们会预期重要信息按纵向顺序出现。\n但横向 Tab 会打断这个习惯。\n如果用户没有注意到 Tab 栏，就可能错过里面的信息。\n有些用户甚至会来回上下滑好几次，才发现原来内容被藏在另一个标签里。\n\t\n移动端问题会更明显。\n因为屏幕宽度有限，Tab 标题一长，就可能放不下。\n这时候部分标签会被隐藏到横向滑动区域里。\n但很多用户根本不会意识到：\n这个 Tab 还可以左右滑。\n结果就是：\n用户错过关键信息；\n找不到配送、退换、材质、尺寸；\n下单前的疑虑没有被解决；\n最后直接离开页面。\n\t\n这对 PDP 来说，影响的不只是浏览体验。\n它可能直接影响转化和收入。\n当然，横向 Tab 不是完全不能用。\n如果用户已经明确进入了某个核心模块，比如 Features 功能区，那么在这个模块内部，用 Tab 展示二级内容是可以的。\n因为用户已经知道自己在看什么，也更容易理解这里还有更多信息可以切换。\n但如果是 PDP 里的核心购买信息，就不建议全部藏进横向 Tab。\n更好的做法是：\n用纵向折叠栏。\n比如：\nDescription\nFeatures\nShipping\nReturns\nWarranty\n用户顺着页面往下滑，就能自然看到每一类信息。\n如果有些信息特别关键，也不要完全藏起来。\n可以先露出一部分，再让用户点击展开。\n比如 Shipping 里有免运费，就不要只藏在折叠栏里。\n可以直接写出来：\nShipping\nFree shipping on all orders\n再把更详细的配送时间、地区限制、退换规则放到展开内容里。\n\t\nPDP 信息结构的重点，不是把页面做得最短。\n而是让用户在想找答案的时候，不需要费力去找。\n用户越快找到答案，犹豫越少。\n犹豫越少，转化机会才越高。\n\t\n#kikstartecom #shopify #品牌出海 #独立站 #转化率提升",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://fe-platform.xhscdn.com/platform/104101l03241scdup0o06ftel2030k000000000cs6egji",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031105/45122aace56a8be7f2cf9b8c2c38904c/spectrum/1040g0k03238asi8g6u005oi5b07k1v777fir0u8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031105/45122aace56a8be7f2cf9b8c2c38904c/spectrum/1040g0k03238asi8g6u005oi5b07k1v777fir0u8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031105/45122aace56a8be7f2cf9b8c2c38904c/spectrum/1040g0k03238asi8g6u005oi5b07k1v777fir0u8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "5",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "1cd3db2912161aaee838138ab1fc97e1058bdc72027880339bd28720acb954e3",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 07-30",
+    "index_xsec_token": "ABZM7iJhtjICh6zh2y_l5XPx1TL_s-oadyoEh9yideEB0=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 4,
+      "captured": 4,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 07-30"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a6b288800000000320323a5.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a6b288800000000320323a5.json"
+  }
+}

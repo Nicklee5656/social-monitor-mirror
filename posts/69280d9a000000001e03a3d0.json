@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69280d9a000000001e03a3d0",
+  "url": "https://www.xiaohongshu.com/explore/69280d9a000000001e03a3d0",
+  "title": "产品页布局升级，加购率提升50%🆙",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "今天分享一个电动冲浪板的详情页优化案例。此类产品客单价高、技术参数多，用户的购买链路往往较长，而 Add-to-Cart 区域的清晰度和可理解性，直接影响转化。\n\t\n👉 Before：用户完全“看不懂”的设计\n旧版的 SKU 区域是典型的“只有自己懂”的产品页面：\n\t\n- 所有选项均为纯文字，例如 “Inverter Charger”“2300Wh Battery”\n- 无图片、无解释、无差异提示\n- 用户必须自己理解型号区别、性能差异。\n❌以上这种做法的信息成本极高，会让用户在关键节点犹豫甚至直接离开。\n\t\n👉 After：基于用户决策路径重构的高效详情页\n新版设计围绕用户在选择型号时的真实思考过程进行了系统优化，主要体现在以下四点：\n\t\n1️⃣ 图形化呈现（直观识别）\n将所有产品选项改为“缩略图 + 标题”的视觉结构，Lite 与 Pro 的差异不再需要推测，第一眼就能理解。\n\t\n2️⃣ 解释型文案（降低理解门槛）\n复杂的技术参数被替换成用户能直接感知的效果描述，例如将续航表现写成 “Ride up to 135 minutes”，让用户明白“买了能带来什么”。\n\t\n3️⃣ 透明化升级成本（清晰定价）\n例如 “+ $400 for Extended Battery”，让用户清楚知道升级意味着什么，做决策时更安心，降低价格不确定性，同时推动高利润型号。\n\t\n4️⃣用户导向标签（更快做决策）\n加入 “For Beginners / For Intermediate” 标签，让不同水平的用户能迅速找到适合自己的型号。\n\t\n这些优化看似是界面的小调整，但实质上遵循了一套完整的 CRO 逻辑：\n降低认知负担 → 强化理解 → 提升信任 → 推动加购。\n如果你的产品定价较高、选项较多、依赖对比或解释，这种 Add-to-Cart 区域的优化会直接影响最终转化。\n觉得这个改版怎么样的？评论区聊聊！👇",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/37763c4b31e7131d8ed8f05bf1e4bd52/spectrum/1040g34o31pcngbt0i4105oi5b07k1v77qjmfhl0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/37763c4b31e7131d8ed8f05bf1e4bd52/spectrum/1040g34o31pcngbt0i4105oi5b07k1v77qjmfhl0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/37763c4b31e7131d8ed8f05bf1e4bd52/spectrum/1040g34o31pcngbt0i4105oi5b07k1v77qjmfhl0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "81c1fd77248296245b0a07941764068b3be583962a09d1c25d0e6cdbb7d1acfa",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-27",
+    "index_xsec_token": "ABQedYsdNUDRSkmns81bhqBqPJXRVwQEtSgnL8vioIo0c=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-27"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69280d9a000000001e03a3d0.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69280d9a000000001e03a3d0.json"
+  }
+}

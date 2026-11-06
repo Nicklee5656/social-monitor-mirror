@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68f9ff01000000000700ed0c",
+  "url": "https://www.xiaohongshu.com/explore/68f9ff01000000000700ed0c",
+  "title": "我们正式升级为Shopify Premier伙伴了！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "经过 Shopify 官方严格评估与合作积累，Kikstart Ecom 已正式获得 Shopify Premier Partner（首席合作伙伴）资格认证（Partner ID: 1687931）！\n\t\n在 Shopify 全球生态体系中，Premier Partner 是目前官方授予的较高等级认证资质，代表的是合作伙伴在服务质量、技术实力、客户成功与增长能力等维度的全面领先。\n\t\n为什么Premier Partner含金量如此高\n▶️ 官方严选认证，仅限头部合作商\nShopify 对 Premier Partner 的认证标准极为严苛，从技术交付、项目成果、客户GMV增长、服务满意度到留存率，全方位评估合作商的实力和可持续服务力。\n\t\n▶️ 全国仅 12 家拥有此资质\n截至2025年Q4，中国大陆地区仅有 12 家机构获得 Shopify Premier Partner 认证。能够跻身其中，意味着 Kikstart Ecom 在跨境 DTC 赛道上，已成为 Shopify 官方重点认可与推荐的优质合作伙伴之一。\n\t\n▶️ 企业级客户的首选合作对象\nPremier Partner 通常是 Shopify 向中大型品牌推荐的首选服务商，具备为复杂业务场景提供定制化解决方案与全链路增长陪跑能力的专业资质。\n\t\n▶️ 长期稳定、深度合作的信任机制\nPremier Partner 不只是技术标杆，更是 Shopify 官方战略级生态伙伴。我们将享有技术优先测试权、产品联合打磨、商机线索共享（Lead Sharing）、GTM资源协同等官方支持。\n\t\n我们是谁？\n作为一家作为一家成立于加拿大温哥华、深耕跨境电商的数字营销机构\n借助自主研发的增长方法论 Kik CRO Method®，我们已成功为 50+ 个 Shopify Plus 品牌（年营收 7～9 位数）实现：\n🔝 平均 20%～50% 的转化率提升\n💰 25% 以上的客单价增长\n\t\n我们专注的核心能力\n作为 Shopify 官方认证的 Premier Partner，我们擅长通过：\n☑️ 以转化率优化为核心的独立站 UI/UX 重构；\n☑️ 基于 A/B 测试和数据驱动的持续优化；\n☑️ 定制开发与营销自动化集成。\n\t\n#kikstartecom #kikcromethod #Shopify独立站 #CRO #shopify #品牌出海 #网站优化",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/efca89a5dff9779e277223456d5e1315/spectrum/1040g0k031nvqghlaku005oi5b07k1v77mr4ejqg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/efca89a5dff9779e277223456d5e1315/spectrum/1040g0k031nvqghlaku005oi5b07k1v77mr4ejqg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/efca89a5dff9779e277223456d5e1315/spectrum/1040g0k031nvqghlaku005oi5b07k1v77mr4ejqg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "d8a41be2a4d42703ee59ae812774e1883083d02bfb853ee9f96b6f599bcfbd91",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-10-23",
+    "index_xsec_token": "ABREAd6hjDtllia0b9qTF5x9zRz3s1h8fI11JgsUi4vng=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-10-23"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68f9ff01000000000700ed0c.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68f9ff01000000000700ed0c.json"
+  }
+}

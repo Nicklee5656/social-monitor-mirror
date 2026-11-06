@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a50d1060000000008003b71",
+  "url": "https://www.xiaohongshu.com/explore/6a50d1060000000008003b71",
+  "title": "Shopify改一个按钮，就让长PDP收入+4.3%",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "一个 Shopify 品牌，把 PDP 浏览用户收入提升了 4.3%。\n改动很小：把 announcement bar 的文案，替换成了一个：\n“Back to Top” 返回顶部按钮\n为什么这个小改动会有效？\n因为很多 Shopify 产品页都很长。\n用户一路往下看完卖点、评价、FAQ、材质说明之后，可能已经有购买意向了。\n但这时候，他们往往离加购按钮很远。\n如果还要手动滑回顶部，路径就变长了。\n很多品牌会选择加 sticky ATC。\n但 sticky ATC 也有一个问题：\n它会长期占据页面空间，尤其在移动端，可能会影响内容浏览和页面干净度。\n相比之下，Back to Top 按钮更轻。\n它不是额外增加一个模块，\n而是在用户已经看过 announcement bar 内容之后，复用这个位置。\n用户想买时，可以更快回到顶部加购。\n页面不拥挤，路径也更短。\n对长 PDP 来说，有时候提升转化的关键，不是再加内容。而是让用户在想买的那一刻，更快走到加购按钮。\n\t\n#shopify #dtc #kikstartecom #ab测试 #转化率 #品牌出海",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/258/01ea50d04c5866144f0370019f4bb09e50_258.mp4?sign=c2a4973958e91d282e940332677a6d43&t=6aedf1db",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "18",
+    "favorites": "19",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "337a95f9322eba8e544850a39f5fdeea3286ab1e664d73215a92c01da050f081",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "07-10",
+    "index_xsec_token": "ABqIE8u6esyCoDEM-JBXkh77Hhys6P0tw834QLlQwui4g=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "07-10"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a50d1060000000008003b71.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a50d1060000000008003b71.json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a3cb5fb000000000f029af9",
+  "url": "https://www.xiaohongshu.com/explore/6a3cb5fb000000000f029af9",
+  "title": "独立站Annoucement Bar一键复制优惠码，转化提升6.2%！",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "独立站Annoucement Bar一键复制优惠码，转化提升6.2%！\n\t\n一个很小的 Shopify CRO 细节，但可能会影响转化：\n在 announcement bar 的优惠码旁边，增加一个 “复制优惠码 / Copy Code” 按钮。\n比如：\nBFCM 15% OFF｜Code: BFCM15｜复制优惠码\n\t\n看起来只是一个很小的交互，但它背后的逻辑很简单：\n当用户看到优惠时，兴趣已经被激活。如果他进一步点击“复制优惠码”，这个动作会让他离购买更近一步。因为复制优惠码本身就是一种轻量承诺。\n用户不只是“看到一个折扣”，而是已经开始为使用这个折扣做准备。\n\t\n这个动作越顺手，后面的结账路径就越少摩擦。尤其是在 BFCM、周年庆、限时促销这类活动中，announcement bar 往往是用户进入网站后最早看到的优惠信息。如果优惠码只是被动展示，用户可能看过就忘；但如果旁边有一个清晰的复制按钮，优惠信息会更容易被带到购物车和结账流程里。\n这个优化不复杂，也不一定需要大改设计。\n更适合作为一个 A/B Test 来验证：\n-A 版本：只展示优惠码\n-B 版本：展示优惠码 + Copy Code 按钮\n\t\n重点观察：\n-优惠码使用率是否提升\n-加购率是否变化\n-Checkout completion 是否改善\n-整体 CR 是否有提升\n很多时候，转化率优化不一定来自大幅改版，而是来自这些更接近用户决策路径的小动作。\n如果你的 Shopify 店铺正在准备 BFCM 活动，可以把这个细节加入测试清单。\n#shopify #cro #转化率提升 #dtc #独立站 #品牌出海 #kikstartecom #独立站设计 #干货",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/3041/01ea3cb12a09e6d4010370019efd27604a_3041.m4s?sign=0e7294add7ca0a68ed35cd290cb702b3&t=6aedf1ce",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "10",
+    "favorites": "8",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "13fa7a6a07c314d80aed95269b9300e283efe2766050f344f26039c7114610f0",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 06-25",
+    "index_xsec_token": "ABf7LkKU-6zVl9onAxa1Oe744TQuNPhjdfHuzp5Pq7F9o=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 06-25"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a3cb5fb000000000f029af9.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a3cb5fb000000000f029af9.json"
+  }
+}

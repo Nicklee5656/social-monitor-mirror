@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "672c79d2000000001b028f97",
+  "url": "https://www.xiaohongshu.com/explore/672c79d2000000001b028f97",
+  "title": "黑五来临，如何快速提升网站转化率",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "💡之前已经给大家科普过网站转化率的重要性，黑五来临之际，给大家整理了3 个小技巧，帮助大家能够快速优化网站：\n\t\n💰按预算展示折扣专区：不同折扣分区，按规则折扣，方便顾客按预算找。\n🎯通过测验推荐合适产品：Quiz 形式结合不同对象推荐，帮助客人减少点击页面，快速找到合适产品。\n🔍优化搜索引擎关键词：黑五关键词竞争大，利用去年页面、反向链接，优化内容提排名，聚焦长尾关键词增加细分市场曝光。\n\t\n#跨境电商创业 #品牌出海 #跨境品牌出海 #shopify #shopify独立站",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/86faff275677342b64d9824fd632bf48/1040g2sg319t43l5bniag5oi5b07k1v77bg74pv8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/380a003181141b5574681d0b67193f8b/1040g2sg319t43l5bnid05oi5b07k1v77pf2k5fg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/4af77994ad2c6d4948bf5c2f098e0044/1040g2sg319t43l5bnicg5oi5b07k1v77eoe26gg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/cca2224a6f4a5b55c499d751ec549fd2/1040g2sg319t43l5bnidg5oi5b07k1v776ol26n8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/12ed454a50c960e1b3becdf39a213d06/1040g2sg319t43l5bnia05oi5b07k1v777v14s58!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/86faff275677342b64d9824fd632bf48/1040g2sg319t43l5bniag5oi5b07k1v77bg74pv8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/380a003181141b5574681d0b67193f8b/1040g2sg319t43l5bnid05oi5b07k1v77pf2k5fg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "c8ce86b20e7f22f25c5b97704bf1daf71ec2771fe76c1f1043f40c07fd2d244a",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2024-11-07",
+    "index_xsec_token": "ABvNbHuLqEUn-gWgYkThgi5vp3aLw-bTHaMDPRWYw_VdY=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2024-11-07"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/672c79d2000000001b028f97.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/672c79d2000000001b028f97.json"
+  }
+}

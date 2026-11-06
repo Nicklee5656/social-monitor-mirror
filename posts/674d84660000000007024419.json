@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "674d84660000000007024419",
+  "url": "https://www.xiaohongshu.com/explore/674d84660000000007024419",
+  "title": "Shopify独立运营-A/B测试实操流程！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "作为提升转化率的重要运营工具，它的效果离不开科学的实施流程和对关键细节的关注，流程的设计和执行可能会直接影响到实验结果的准确性。\n实现流程：\n1⃣️提出假设，设置对照组（A）和实验组（B）\n2⃣️确定变体：确定并控制变量，避免多个变量同时变动。\n3⃣️选择关键指标：如转化率/停留时长/完播率等，测试的指标应与业务目标紧密相关。\n4⃣️圈选人群：尽可能随机，当样本数量大时，如观察表现为正向表现，可以缩短观察周期，当样本数量少时，可以稍微延长观察周期。\n5⃣️样本量参考值：确定有足够的样本测试量，建议一组至少有1000个样本。\n6⃣️确定观察周期：确保测试周期涵盖不同的时间段（如周末、大促、工作日），以便观察结果更具代表性。\n测试的成功并不仅仅依赖于流程的规范性，更加需要的是深刻的客户洞察和对产品的理解，每一次的测试调整和优化，都应该服务于为用户创造更优质的体验，同时帮助品牌实现更大的增长空间。\n#shopify #shopify独立站 ﻿#abtest﻿ #跨境电商 #独立站 #DTC品牌出海 #黑五 #网站优化 ﻿#ab测试﻿ #品牌出海 #kikstartecom #增长技巧 #网站运营 #转化率 ﻿#运营干货",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/abe5d0e9f8f5ef9ff256b152dd5e1bf5/1040g00831atckvjg6u405oi5b07k1v773odbhuo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/e6c07e278baa5a59d9e2892ad096fe77/1040g00831atckvjg6u605oi5b07k1v77ko02q4o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/05d3993815b28a2bcefaac06b282d3af/1040g00831atckvjg6u505oi5b07k1v77fq5drh0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/b7cadfe59cb12c4798bd0505f6ad5a6b/1040g00831atckvjg6u4g5oi5b07k1v773a179a0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/fffc830582ee705c30ad5026b1f951e1/1040g00831atckvjg6u6g5oi5b07k1v77b191fng!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/1a211defe44e5a46b49384cec66cfd80/1040g00831atckvjg6u2g5oi5b07k1v77p6mrua0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/abe5d0e9f8f5ef9ff256b152dd5e1bf5/1040g00831atckvjg6u405oi5b07k1v773odbhuo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/e6c07e278baa5a59d9e2892ad096fe77/1040g00831atckvjg6u605oi5b07k1v77ko02q4o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "8",
+    "favorites": "7",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "854200f8b547df215edb3efe58f4790e166f4e12d3b2c4e0d574daa6367b0c17",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2024-12-02",
+    "index_xsec_token": "ABqRh0Duz4s8i__rKPz3HgbfgaAjEZ8PA1FJSn56L49o8=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2024-12-02"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/674d84660000000007024419.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/674d84660000000007024419.json"
+  }
+}

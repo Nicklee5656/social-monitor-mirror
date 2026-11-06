@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a19695b0000000008030222",
+  "url": "https://www.xiaohongshu.com/explore/6a19695b0000000008030222",
+  "title": "Shopify新功能Rollouts：让独立站改版更稳",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "最近看到 Shopify 推出的 Rollouts，我第一反应是： 这个功能虽然看起来不复杂，但对很多正在做网站优化的品牌来说，其实挺实用的。\n因为很多时候，品牌不是不想优化网站，而是不敢轻易改。\n\t\n比如我们常见的这些调整，其实都很适合用 Rollouts 先测试：\n首页首屏信息是否更清晰；\n产品页卖点顺序是否更适合转化；\n信任背书模块是否应该提前；\n促销页面是否更好理解；\n某个 market 是否需要更本地化的页面表达。\n\t\n而且它还有一个我觉得很实用的点：可以设置定时发布。\n也就是说，品牌不一定要手动盯着时间切换 theme，而是可以提前规划好测试开始时间、测试持续多久、测试哪个 market，以及测试结束后要切换到哪个版本。\n这对跨时区运营、海外市场活动、节日大促前的网站更新来说，其实会方便很多。\n\t\n不过也要注意，Rollouts 目前不是那种会自动帮你判断赢家的工具。 它会展示相关 KPI，但最终哪个版本更值得保留，还是需要团队自己结合测试目标和数据结果来判断。\n\t\n所以我会更建议品牌在使用之前，先想清楚这次测试到底想验证什么：\n是想提高转化率？ 还是想降低跳出率？ 是想提升加购？ 还是想看看某个国家市场对新版页面的接受度？\n\t\n如果只是随便放两个版本上去跑，其实意义不大。 但如果一开始就带着明确假设去测，Rollouts 就会变成一个很好的 CRO 工具。尤其是当品牌已经有一定流量基础，正在考虑网站改版、市场本地化、产品页优化时，Rollouts 可以帮助你用更稳妥的方式验证。\n\t\n#kikstartecom #Shopify独立站 #rollouts #ab测试 #abtest",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/c7e6ffd8fe54db9f563a3b5ebe958a3a/spectrum/1040g34o320oesjql6qa05oi5b07k1v77ctgmhd0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/87ae20673b2968ab6c40fd1952276720/spectrum/1040g0k0320oesh80mo005oi5b07k1v775uie4u8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/da4ef167773efb02309929df02e597a3/spectrum/1040g34o320oesjql6q705oi5b07k1v77f6p33t0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/d55b8a9a3ad838dcfcecc816bffa3127/spectrum/1040g34o320oesjql6q7g5oi5b07k1v77i8blj50!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/a94927e6f1fd2100a112df5f40a06972/spectrum/1040g34o320oesjql6q805oi5b07k1v77cs8jhj0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/670eb2b193256357dc94c39b59e30e19/spectrum/1040g34o320oesjql6q8g5oi5b07k1v77mjltff0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/ced63f5fe0d9608969daf20eed8508f5/spectrum/1040g34o320oesjql6q905oi5b07k1v77aau4fkg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/65dc15dfad963aa48eceb6b4815279be/spectrum/1040g34o320oesjql6q9g5oi5b07k1v774ijv73o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/c7e6ffd8fe54db9f563a3b5ebe958a3a/spectrum/1040g34o320oesjql6qa05oi5b07k1v77ctgmhd0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 10,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/87ae20673b2968ab6c40fd1952276720/spectrum/1040g0k0320oesh80mo005oi5b07k1v775uie4u8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "5ae30932d02fbb229894e16b117b5afb68a9b68199d68c6f1580f299736f494e",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 06-10",
+    "index_xsec_token": "ABDL7_O7MxIUvDv0F_WwDV_iegLJFExXYafkuxmDlUql8=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 10,
+      "captured": 10,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 06-10"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a19695b0000000008030222.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a19695b0000000008030222.json"
+  }
+}

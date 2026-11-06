@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6984177a000000002103d962",
+  "url": "https://www.xiaohongshu.com/explore/6984177a000000002103d962",
+  "title": "EDM邮件弹窗（下）热门常见的类型分享",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "之前我们分享过高效 Email Popup 的核心构成——从标题中的价值表达、视觉层级与输入字段设计，到触发逻辑与用户心理预期。\n但在实际应用中，新的问题往往会出现：当你真正开始配置弹窗时，会发现可选类型远不止一种。Entry Popup、Exit Intent、Scroll Popup、Gamified Popup……它们各自解决的问题不同，也并非对所有品牌都同样有效。因为，弹窗不是选一个就好，而是要匹配我们当下的用户状态与增长目标。\n弹窗不是越多越好，而是——用对场景\n许多卖家想直接照搬大品牌的弹窗样式，却忽略了品类差异、客单价、用户决策周期等因素。导致结果是，有时候不如人意：\n弹窗弹了，但没人留邮箱\n折扣给了，却吸引来一堆低质量用户\n列表在涨，转化和复购却没有同步提升\n本质原因在于：Popup 类型一开始就选错了，而在本期内容中，我们将重点把三件事讲清楚，帮助你从根源上解决这个问题：\n1️⃣ 最常见的 7 种 Email Popup 类型\n2️⃣ 不同品类该怎么选？\n3️⃣ 一个简单判断公式：你现在该用哪种 Popup？\n#kikstartecom #Shopify独立站 #shopify #EDM #品牌出海 #独立站运营 #独立站运营干货 #kikcromethod",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/33d2f7e7bb44eacbfcb2c4dd70cb9848/spectrum/1040g34o31s6lmqdn5a7g5oi5b07k1v77rqlueq8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/60fb66d3e6fb3c934f18cc8029d5db4f/spectrum/1040g34o31s6lmqdn5a405oi5b07k1v77ngifg80!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/13181e18b955444da5e9b0edf78ff234/spectrum/1040g34o31s6lmqdn5a4g5oi5b07k1v77o29bee8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/5d17a76405cad6d41c2259fd8be5869c/spectrum/1040g34o31s6lmqdn5a505oi5b07k1v77idhloug!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/66475a28596b0803c06a491087db3c97/spectrum/1040g34o31s6lmqdn5a5g5oi5b07k1v77rn3924g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/e2702f9726aeb8053fbdefab7bf1fbba/spectrum/1040g34o31s6lmqdn5a605oi5b07k1v77ad95600!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/aa41aee738e2f024b4bc3b73fe4e1e8f/spectrum/1040g34o31s6lmqdn5a6g5oi5b07k1v77pfjh3go!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/486ba2769a328bf90284fa4f8c0655fe/spectrum/1040g34o31s6lmqdn5a705oi5b07k1v7719rfm80!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/33d2f7e7bb44eacbfcb2c4dd70cb9848/spectrum/1040g34o31s6lmqdn5a7g5oi5b07k1v77rqlueq8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 10,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/60fb66d3e6fb3c934f18cc8029d5db4f/spectrum/1040g34o31s6lmqdn5a405oi5b07k1v77ngifg80!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "17",
+    "favorites": "21",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "32b1c1476c4f08c6a6ae4a9ab9d987e3263b2b0650754bee396b476212691d2f",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "02-05",
+    "index_xsec_token": "ABjJH2BRzVYNqxGPFktGktBr7VUXRKA36Bwa4OVNoEmh8=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 10,
+      "captured": 10,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "02-05"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6984177a000000002103d962.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6984177a000000002103d962.json"
+  }
+}

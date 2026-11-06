@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "674597bf0000000007024a6f",
+  "url": "https://www.xiaohongshu.com/explore/674597bf0000000007024a6f",
+  "title": "终于搞懂什么是A/B Test了！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "很多小伙伴在优化网站的过程中，不知道优化的方向七个是否能够提高转化率，这个时候了解A/B测试就格外重要\n\t\nA/B测试的关键点在于以小的改动形成大的改变，且具有长期可持续优化的性质\n\t\n本质上来说就是一个测试，用于测试哪个变体对CTR（转化率）的效果更好﻿﻿\n\t\n在实际应用层面的好处可不少：\n﻿﻿✅帮助团队进行科学决策\n✅提升用户体验\n✅增加转化率\n✅降低改动的成本和风险\n✅支持持续优化\n\t\nA/B测试适用于网站上或应用上的任何图形或文本元素，常见的应用场景有：\n页面布局、颜色选择、 icon按钮、结账页面等、文案测试、广告测试、个性化推荐和搜索等。\n\t\n#shopify #shopify独立站 #跨境电商 #独立站 #DTC品牌出海 #黑五  ﻿ #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/a0980a7e3eaa9caa10613eb6c10d74c8/1040g2sg31all0hen6m9g5oi5b07k1v77f2ignr0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/aed6b466ad557ddeecf78d94a93d9434/1040g2sg31all0hen6mcg5oi5b07k1v7720fvevg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/ba3f0a2a23405fe7318030dceaac125f/1040g2sg31all0hen6mbg5oi5b07k1v779fho260!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/86126335aa38df293486539ee01b429e/1040g2sg31all0hen6md05oi5b07k1v773ivoln0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/8d7f6d00049f3c32201730dc2d508c7b/1040g2sg31all0hen6ma05oi5b07k1v77fr3ogt0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/2a58b522e96f9d248a9b0880d2399ab0/1040g2sg31all0hen6mdg5oi5b07k1v77igso300!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/a0980a7e3eaa9caa10613eb6c10d74c8/1040g2sg31all0hen6m9g5oi5b07k1v77f2ignr0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031121/aed6b466ad557ddeecf78d94a93d9434/1040g2sg31all0hen6mcg5oi5b07k1v7720fvevg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "8bfc51c0823faf16186a9cc5145eb57438451f8d4dd1f58f7eebf27ca8fed3c9",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2024-11-26",
+    "index_xsec_token": "AB6H_2NJcN-4t3rT_oVk9ook65rl6CH3LlWSd1owMdxhM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2024-11-26"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/674597bf0000000007024a6f.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/674597bf0000000007024a6f.json"
+  }
+}

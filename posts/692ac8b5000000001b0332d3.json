@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "692ac8b5000000001b0332d3",
+  "url": "https://www.xiaohongshu.com/explore/692ac8b5000000001b0332d3",
+  "title": "太能打了。。两款超适合独立站用的AI",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "测试最近超火的AI-Nano Banana Pro 3 感觉生成出来的图片真的很合外国审美，另外结合Shopify内部的App-Pebblely，一个搞定场景素材，一个搞定品牌统一感\n#kikstartecom #独立站 #shopify #ai #ai教程 #文生图 #kikcromethod   #nanobananna #gemini #ai设计",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e92ac6c8167367010370019acf20abc4_258.mp4?sign=f2ccd9226f3bc7a447c40bef77d3cc0d&t=6aedf186",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "3518d1641aee1ae97dc2e43ecab76d7e3cd8750f1124435da8b7c1c8be187c1d",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-29",
+    "index_xsec_token": "ABHewPk-wn6o7_DnZS8HI_LCZFOAtYj1ThxK0XUHzJW9s=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-29"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/692ac8b5000000001b0332d3.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/692ac8b5000000001b0332d3.json"
+  }
+}

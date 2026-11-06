@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69e5ebb40000000021010524",
+  "url": "https://www.xiaohongshu.com/explore/69e5ebb40000000021010524",
+  "title": "Shopify部分B2B功能开放，非Plus也可以用！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "近日Shopify宣布，无论是Basic、Grow 还是 Advanced 计划的商家，都可以直接使用B2B这些强大功能来管理来，而这些功能以前只针对Shopify Plus 用户开放#Shopify独立站 #shopify #品牌出海 #网站建设 #网站制作 #跨境电商  #转化率 #提升转化率 #kikstartecom #kikcromethod",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/4c734f90dc9551bdda2adc41c3c71a06/spectrum/1040g34o31v670piqhm705oi5b07k1v77j5n2r40!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/abea78a5ee25f3ad434062ac0bd136e8/spectrum/1040g34o31v670mpd40105oi5b07k1v77nnmp9gg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/132fbdc50d5ecd266e2f474f5fc2e3ce/spectrum/1040g34o31v670piqhm505oi5b07k1v77lmdb9fo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/345f13d76b540055fb81938c9dcd37b4/spectrum/1040g34o31v670piqhm5g5oi5b07k1v77eo4do4g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/9fb7f75ff138439c0944d24933a21aee/spectrum/1040g34o31v670piqhm605oi5b07k1v77jjl7jgo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/9985c1509d8c6c48c30dfccc20f9c69f/spectrum/1040g34o31v670piqhm6g5oi5b07k1v77vu3e7po!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/4c734f90dc9551bdda2adc41c3c71a06/spectrum/1040g34o31v670piqhm705oi5b07k1v77j5n2r40!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/abea78a5ee25f3ad434062ac0bd136e8/spectrum/1040g34o31v670mpd40105oi5b07k1v77nnmp9gg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": null,
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "680d087d56c6cd2103f4b41a448f1678873ca4e83880ffe1b13955f7b37858d0",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 04-21",
+    "index_xsec_token": "ABrg-cNZUoXZ-w_vjvRlj4ppssB7-PSyMAIgEjOralXWU=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 04-21"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e5ebb40000000021010524.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e5ebb40000000021010524.json"
+  }
+}

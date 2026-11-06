@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6826ec3b00000000230006f9",
+  "url": "https://www.xiaohongshu.com/explore/6826ec3b00000000230006f9",
+  "title": "10个非常推荐的Shopify App，覆盖全链路！",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "为什么你安装了20几个app，最后发现不仅没有帮助你提升网站转化率，反而降低了网站加载速度？\n\t\n今天Kikstart Ecom知识顾问Leon独家总结了我们专业做Shopify设计开发以来，踩过无数坑后，发现的这10 款Shopify插件。\n\t\n覆盖从拉新到复购全链路，帮助大家全面提升运营效率！\n\t\nSmile.io- 高效的忠诚度会员管理工具\nVisually- AB测试工具\nTrustpilot- 第三方平台-收集并展示真实客户评价\nRecharge- 专业的订阅服务管理工具\nKlaviyo- Shopify官方推荐的EDM邮件营销工具\nGorgias- 全渠道客服管理平台\nGOAFFPRO- 一站式Affiliate Marketing管理工具\nLucky Orange- 可视化用户行为分析（热力图）\nParcel Panel- 提供品牌化订单跟踪解决方案\nSocial Snowball- 自动化裂变推荐系统\n\t\n上面提到的工具均已适配 Shopify 生态，无论是刚起步的独立站卖家，还是需要精细化运营的成熟品牌，希望这个视频都能帮助你需要的提效工具。\n\t\n建议先利用各个app免费试用期，深度体验一段时间后再决定是否适合你的店铺。\n\t\n#Shopify独立站 #独立站 #ShopifyPartner #ShopifyPlus",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e826eb2b49083b0103700196d80cff35_258.mp4?sign=a27ce64bb14a4835acee0538e2efe9db&t=6aedf146",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "141",
+    "favorites": "209",
+    "comments": "7"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "b85718b7bf874b60c11634c6ae01824c51d1493d4638e41863a4c2f950eb2321",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-05-16",
+    "index_xsec_token": "ABMoyK8l0vyFM4-tbk9Pg9HZz8n9avasPL611KLK2ZnRY=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-05-16"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6826ec3b00000000230006f9.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6826ec3b00000000230006f9.json"
+  }
+}

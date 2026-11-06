@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "688b33aa000000000500658e",
+  "url": "https://www.xiaohongshu.com/explore/688b33aa000000000500658e",
+  "title": "Shopify独立站优化案例（1）-Remilia",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Kikstart Ecom为 Remilia 优化官网首页，通过一系列关键改动提升用户体验与转化效率：\n\t\n🔥Best Seller 产品区块优化\n-为畅销商品添加了 \"Best Seller\" 标签，提升产品权威性与购买说服力。\n-引入产品的用户评分与评论数展示，增强社交背书，建立信任感。\n-加购按钮采用品牌主色调突出视觉吸引力，并支持用户直接在首页完成加购，无需跳转，提高转化效率。（shadow-图片上没有突出）\n\t\n📖内容信任构建\n-在首页引入客户UGC产品使用视频，强化真实感和信任感。\n-原本静态的四个卖点改为横向滚动展示，使关键信息更具动感与可视性，吸引用户停留与互动。\n\t\n📧Email Sign-up 区块重构\n-重新设计订阅区块，以“加入 Remilia 社群”为核心概念，搭配人物类UGC图像与Instagram关注按钮，实现内容与社交平台联动。\n-强调 \"10% OFF\" 优惠信息，字体放大处理，强化用户感知，提升注册转化率。\n通过这轮优化，首页不仅更贴合品牌视觉语言，也在用户路径与信任建立上实现精细打磨，为品牌的长期增长打下基础。\n\t\n﻿#Shopify独立站﻿ ﻿#CRO﻿ ﻿#kikstartecom﻿ ﻿#独立站设计﻿ ﻿#前后对比﻿ ﻿#设计干货﻿ ﻿#ui设计",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/8952fd173f7516da1b98cc68f3ac18c6/spectrum/1040g0k031kjk3es5k8705oi5b07k1v77m36qfqg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/8952fd173f7516da1b98cc68f3ac18c6/spectrum/1040g0k031kjk3es5k8705oi5b07k1v77m36qfqg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/8952fd173f7516da1b98cc68f3ac18c6/spectrum/1040g0k031kjk3es5k8705oi5b07k1v77m36qfqg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "3",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "626436b46a883e7fa91e33e719d03d12a4ae61afd08245c89741625b36b18d20",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-07-31",
+    "index_xsec_token": "AB_riq1jcM5IkPOG2N8Az9OtfekCXT-gCLLqh1j70-UJA=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-07-31"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/688b33aa000000000500658e.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/688b33aa000000000500658e.json"
+  }
+}

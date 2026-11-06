@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "675a0333000000000700e871",
+  "url": "https://www.xiaohongshu.com/explore/675a0333000000000700e871",
+  "title": "如何用两封邮件，帮助DTC独立站旺季持续爆单",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "随着年底大促的开始，电商领域竞争进入白热化阶段。在这种情况下，EDM 邮件营销的重要性不言而喻。这两封邮件可以有效帮您唤醒沉睡用户群体，显著降低购物车弃单比例，提升旺季订单量！\n\t\nLive Email：让客户及时了解促销详情，借助动态倒计时、价格变动及库存信息展示，吸引其关注并推动购买决策。\n\t\nFOMO Email：通过强调时间紧迫与库存告急，营造紧张氛围，刺激消费者下单\n趁着圣诞节大促的开始，赶快应用起来，提前布局邮件营销。祝所有卖家旺季爆单！\n\t\n#shopify #shopify独立站",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e75a033122220c0103700193b79d8589_258.mp4?sign=59ab801d87db34a8c80133e174cf3345&t=6aedf122",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "9",
+    "favorites": "8",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "57be160d3f038c0488f130f44c9e7958ecbf55f20724bcc01772658767e67f7b",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2024-12-12",
+    "index_xsec_token": "ABmwtRBK6xdU5kQrQPpxxHYBUv7KRxVenEwIblv3NbQCc=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2024-12-12"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/675a0333000000000700e871.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/675a0333000000000700e871.json"
+  }
+}

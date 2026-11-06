@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "dataset": "social-monitor",
+  "dataset_version": "2026.11.06-1",
+  "content_fingerprint": "8e7edb363d58",
+  "generated_at": "2026-11-06T14:32:50+08:00",
+  "task_id": "run-20261103T123817",
+  "task_status": "success",
+  "started_at": "2026-11-03T12:38:17+08:00",
+  "finished_at": "2026-11-03T12:38:34+08:00",
+  "accounts_monitored": [
+    "6245580f000000001000fce7"
+  ],
+  "new_posts": [],
+  "updated_posts": [],
+  "unchanged_posts_count": 0,
+  "known_posts_skipped_count": 173,
+  "partial_posts": [],
+  "failed_posts": [],
+  "deleted_or_unavailable": [],
+  "errors": [],
+  "post_urls": {},
+  "note": "new_posts / updated_posts 为空表示本次未发现新笔记或内容变化"
+}

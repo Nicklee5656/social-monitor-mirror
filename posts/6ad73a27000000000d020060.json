@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ad73a27000000000d020060",
+  "url": "https://www.xiaohongshu.com/explore/6ad73a27000000000d020060",
+  "title": "Shopify结账页遭劫持？这5款App值得排查",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "最近，Shopify 独立站出现 Checkout Hijack（结账劫持）相关安全报告。\n有消费者点击 Checkout 后，被重定向到仿冒付款页面，银行卡信息和个人资料可能因此泄露。\n安全调查中提及了 Hulk Product Options、Swym Wishlist Plus、Selleasy，以及此前有相关报告的 Hextom、Qikify。\n需要注意，被提及不代表所有安装这些 App 的店铺都已受到攻击。\n对于中国出海商家来说，第三方 App 的安全性，同样会影响 Checkout 的稳定性和最终转化。\n我们整理了 5 个 Shopify Checkout 自查步骤，包括 App 排查、结账域名测试、主题脚本检查和异常处理建议。\n建议 Shopify 商家近期检查一次真实结账路径。\n📌 收藏这份清单，也可以转给负责店铺运营和开发的同事。\n资料参考：Roman Zipp 技术调查，信息截至 2026 年 10 月 16 日。\n#kikstartecom #Shopify #独立站 #品牌出海 #运营干货",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/5be9d054da2e14a69419184b123b543b/oss-sg/spectrum/1040g3ug326hs1dt154305oi5b07k1v77nbk4db0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/9c8c61566ebdc4720cd9599da72a62e8/oss-sg/spectrum/1040g3ug326hs1dt154005oi5b07k1v77u3prj2o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/c61e17c1cc1897e60b5845dfc15f3dc1/oss-sg/spectrum/1040g3ug326hs1dt1540g5oi5b07k1v77qh04h3o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/0e851e98b0664d558f708b4bb3eff0a8/oss-sg/spectrum/1040g3ug326hs1dt154105oi5b07k1v77j0ekjig!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/3bb6b424934380280c80d9677a0e3db6/oss-sg/spectrum/1040g3ug326hs1dt1541g5oi5b07k1v77i1nil68!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/825114be4ee57c2369f53686d12c36af/oss-sg/spectrum/1040g3ug326hs1dt154205oi5b07k1v771dgaqco!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/fd1aaf437a6ff1c432b3c4f51ee4b384/oss-sg/spectrum/1040g3ug326hs1dt1542g5oi5b07k1v77lkccbng!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/5be9d054da2e14a69419184b123b543b/oss-sg/spectrum/1040g3ug326hs1dt154305oi5b07k1v77nbk4db0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031101/9c8c61566ebdc4720cd9599da72a62e8/oss-sg/spectrum/1040g3ug326hs1dt154005oi5b07k1v77u3prj2o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "7",
+    "favorites": "9",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "ffc5696da424ff8b9b01e299763eb1ac416ed0564034d94f38052349b715a873",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "10-20 加拿大",
+    "index_xsec_token": "AB4QBldRbJXycgKtzCjCjqONB5qhhaO1Z8ARteRRrKcyE=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 9,
+      "captured": 9,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "10-20 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad73a27000000000d020060.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad73a27000000000d020060.json"
+  }
+}

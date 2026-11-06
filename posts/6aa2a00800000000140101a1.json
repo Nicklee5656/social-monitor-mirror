@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6aa2a00800000000140101a1",
+  "url": "https://www.xiaohongshu.com/explore/6aa2a00800000000140101a1",
+  "title": "户外装备独立站Audit，7个细节或许提升转化",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "这次拆的是一个 户外帐篷类 Shopify 产品页。这类产品客单价不低，而且用户在购买前通常会重点看产品图、尺寸重量、使用场景、配件和售后信息，所以产品页如果信息层级不够清晰，很容易增加决策成本。\n这次Audit，Kik主要调整了 7 个细节：增加产品图缩略图、优化价格层级、提前展示核心产品信息、用产品图替代颜色圆点、把零散配件整理成 Bundle、提前 Add to Cart，以及在购买区域补充配送、支付和保修信息。\n这些调整看起来都不是大改版，但核心其实都是一件事：让用户更快理解产品，也更顺畅地完成购买。 尤其对于户外装备这类需要反复比较和确认细节的品类，信息出现的顺序和位置，往往会直接影响用户是否继续往下走。\n#kikstartecom #shopify #独立站转化率 #独立站 #品牌出海 #建站干货",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/2104d9d2ff9b2e4f6029bb289be0d39e/oss-sg/spectrum/1040g3ug324ug6kv02q205oi5b07k1v77lmimkmo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/fed75f9a30691fd420c9ccbdf853e59e/oss-sg/spectrum/1040g3ug324ug6kv02q005oi5b07k1v77acc95s0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/0ee4bfbe69fce4e7378b0bcbfff993c4/oss-sg/spectrum/1040g3ug324ug6kv02q0g5oi5b07k1v7756n0qu0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/98208bc538e7bda22ef2f37a4e057c6d/oss-sg/spectrum/1040g3ug324ug6kv02q105oi5b07k1v776rubsog!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/576dd4b9532e9c75b11af26b2c2591ca/oss-sg/spectrum/1040g3ug324ug6kv02q1g5oi5b07k1v77lpm8tkg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/2104d9d2ff9b2e4f6029bb289be0d39e/oss-sg/spectrum/1040g3ug324ug6kv02q205oi5b07k1v77lmimkmo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/fed75f9a30691fd420c9ccbdf853e59e/oss-sg/spectrum/1040g3ug324ug6kv02q005oi5b07k1v77acc95s0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "8",
+    "favorites": "8",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "4d117cd76bc8bc671a7b4d75215c8e5d7d1d7b47720a36492876071ceef9a04d",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 09-15",
+    "index_xsec_token": "ABk87SmdvdCfv-2CuRwQC4r1xg9xxQlu5tQ7qqBHCzTtc=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 09-15"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aa2a00800000000140101a1.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aa2a00800000000140101a1.json"
+  }
+}

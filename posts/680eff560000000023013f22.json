@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "680eff560000000023013f22",
+  "url": "https://www.xiaohongshu.com/explore/680eff560000000023013f22",
+  "title": "独立站首页设计秘籍（2）-公告栏",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "这个系列将用6期内容，手把手拆解高转化率首页的底层逻辑！﻿﻿﻿﻿\n本期要讲的是：公告栏（Announcement Bar）🎞\n研究表明，放置在页面顶部的Announcement Bar能显著提升用户对促销、活动等关键信息的感知度。一个设计出色的公告栏不仅能第一时间抓住用户眼球，还能有效提升转化率。\n✍公告栏设计核心：促销亮点一目了然\n\t\n自查清单：\n🕹紧迫感和稀缺性触发机制：如\"限时优惠\"，刺激用户快速行动。\n🔖吸引眼球的设计：使用对比鲜明的配色和字体，确保信息突出。\n🛒促销信息清晰明了：如\"全场包邮\"、\"满50减5\"等。\n长度控制得当：避免信息过多，用户一眼即可看懂。\n📣动态效果可选：滚动显示多条优惠信息，但需避免干扰用户体验。\n#网站设计 #网站制作 #跨境电商 #品牌出海 #独立站 #shopify独立站 #设计网站 #用户体验设计 #kikstartecom",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/0c8f2b94bff36750fb46a967038f60ec/1040g00831gqab18i3c405oi5b07k1v77333a7do!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/c3f5be92a143f2bfec89925ad231f038/1040g00831gqab18i3c2g5oi5b07k1v77dirirf0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/485258615f49fb6f8db34ba030cdd50a/1040g00831gqab18i3c105oi5b07k1v77o2b96go!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/9f8b5e959f6704ec084564a8a346cf8e/1040g00831gqab18i3c205oi5b07k1v77oc7vb80!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/0c8f2b94bff36750fb46a967038f60ec/1040g00831gqab18i3c405oi5b07k1v77333a7do!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/c3f5be92a143f2bfec89925ad231f038/1040g00831gqab18i3c2g5oi5b07k1v77dirirf0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "bcd421761cb550d49482b3a86379fdd4db001233d8e9adb38b7f9bde7825a3d6",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-04-28",
+    "index_xsec_token": "ABf0LBmEqjtLbQx07-i66UmAOzGH5DdoxwJduaUODFw8Q=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 6,
+      "captured": 6,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-04-28"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/680eff560000000023013f22.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/680eff560000000023013f22.json"
+  }
+}

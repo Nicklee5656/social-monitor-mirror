@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6aabf2150000000014013c6b",
+  "url": "https://www.xiaohongshu.com/explore/6aabf2150000000014013c6b",
+  "title": "独立站首页和详情页，2个页面别做反",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "独立站首页已经展示了产品，为什么还需要产品详情页？\n\t\n我们把同一个品牌的首页和详情页放在一起看。两页都有产品图和购买入口，视觉风格也很接近，但用户来到这两页时，要解决的问题不一样。\n\t\n首页要帮用户快速看懂品牌、找到感兴趣的产品；详情页则要回答“这款适合我吗”“该选哪个型号”“现在能放心下单吗”。所以同样是展示产品，信息顺序和内容深度会很不同。\n\t\n图里标出了两个页面各自承担的任务。你还发现了哪些区别？欢迎在评论区聊聊👇\n\t\n先收藏，下次设计独立站页面时可以对照看看。\n\t\n#kikstartecom #shopify #独立站  #独立站搭建 #转化率提升",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/998e2815d0bb12a37af52c1e9c1c3f7c/oss-sg/spectrum/1040g3ug325864aivki005oi5b07k1v77bs0mvh0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/f05f45d1e60c16e739d52c0d060f316d/oss-sg/spectrum/1040g3ug325864gi4ki005oi5b07k1v771kkts90!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/998e2815d0bb12a37af52c1e9c1c3f7c/oss-sg/spectrum/1040g3ug325864aivki005oi5b07k1v77bs0mvh0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031103/f05f45d1e60c16e739d52c0d060f316d/oss-sg/spectrum/1040g3ug325864gi4ki005oi5b07k1v771kkts90!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "30",
+    "favorites": "40",
+    "comments": "1"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "8da19f53a4621ec468accb6df8ab8294c351b5e17d9d5d37625ed96acdee9338",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 09-18",
+    "index_xsec_token": "ABwNAdRxokUpa5IOGttslDKS1mFPMIYUCnRHU4IQRJJGQ=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 4,
+      "captured": 4,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 09-18"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aabf2150000000014013c6b.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aabf2150000000014013c6b.json"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a4790e3000000000f028545",
+  "url": "https://www.xiaohongshu.com/explore/6a4790e3000000000f028545",
+  "title": "90%的独立站PDP，都缺这6样东西中的至少1个",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "PDP首屏少一个星级评分,新客的购买信心就可能直接打对折——而我们拆的这个咖啡机PDP,首屏一次性漏了6处。\n研究里反复出现的一个结论:用户落地后3秒内就在决定\"留不留\",而决定的往往不是产品本身,而是首屏有没有给到\"信任 + 利益\"。\nHiBREW产品页产品力其实够强，问题全在表达:参数堆满、缺信任信号、看不到真实用户。我们从 CRO 角度做了一版 Before / After，提升核心6点:\n1、首屏补星级 + 评价数,决策瞬间给足社会认同\n2、价值主张翻译成\"用户利益\",别再堆 20Bar\n3、选项结构理清晰:型号 → 颜色 → 插头 → 数量\n4、CTA 旁放信任徽章:配送 / 退换 / 质保 / 安全结账\n5、加入真实用户 UGC,优先用视频\n6、关键购买信息折叠展示,降低决策焦虑\n每一点背后都对应一个转化原理(社会认同、信息层级、邻近原则、风险消除……),不是\"觉得好看\",是\"为什么能提升加购\"。\n做独立站,首屏就是转化的生死线。对照一下本list，快来看你的 PDP 有没有缺哪块。\n\t\n#kikstartecom #转化率优化 #提升转化率 #shopify #独立站 #网页设计",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/0882d971534141848a029c62edc4f3fa/spectrum/1040g34o3225igle9n01g5oi5b07k1v77f77mulg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/65c6d51c8e308b6554af859baf0ceb86/spectrum/1040g34o3225ji5d06s105oi5b07k1v77in5jkuo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/65f671dc16286c59832d58d1286d7f31/spectrum/1040g34o3225igle9n00g5oi5b07k1v77oo0p4rg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/8ce5506a340d5a0f5ab8f0ed461bb61e/spectrum/1040g34o3225igle9n0105oi5b07k1v77gr6olk0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/0882d971534141848a029c62edc4f3fa/spectrum/1040g34o3225igle9n01g5oi5b07k1v77f77mulg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/65c6d51c8e308b6554af859baf0ceb86/spectrum/1040g34o3225ji5d06s105oi5b07k1v77in5jkuo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "15",
+    "favorites": "20",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "e2ba46ac745d89312ba6b48e43c9c7822c95ce396dc821519fd49b6a219dd491",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 07-03",
+    "index_xsec_token": "AB4J88660EBZlZv6CVFYqEYu-4gRxEEqdwD49CVXrjuOY=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 6,
+      "captured": 6,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 07-03"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4790e3000000000f028545.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4790e3000000000f028545.json"
+  }
+}

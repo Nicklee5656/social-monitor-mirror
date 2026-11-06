@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ae0954f00000000190306ae",
+  "url": "https://www.xiaohongshu.com/explore/6ae0954f00000000190306ae",
+  "title": "12个2027年独立站蓝海品类，你在牌桌上吗？",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "整理了12个更具体的产品方向，同一个大行业，拆到具体人群和使用场景，还能找到很多不同的切入点，看看这些里面有没有你正在关注的。\n\t\n这12个方向，你更看好哪一个？或者你正在做的行业，也可以在评论区聊聊。\n如果你已经在做 Shopify 独立站，想梳理产品卖点、找到激发购买需求的切入点，我们也整理了一份 CRO 检查清单，需要可以留言「CRO」。\n\t\n#kikstartecom #shopify #独立站 #跨境电商 #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://fe-platform.xhscdn.com/platform/104101l03241scdup0o06ftel2030k000000000cs6egji",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream_glo/10001/110/258/0aeae0916a749ef411037001a17d4778ab_258.mp4?sign=8581dadb429e04ede4548b8ea7a86d66&t=6aedf283",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "3",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "0183fa7184bdc1f4dd9c9dc94867579829ac42b13462021496bf0b4fc85d3738",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 6天前 加拿大",
+    "index_xsec_token": "ABN21X99e7sjx0zRA43A3p0frFR7Oi3IlVMvBgyYvIYCk=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 1,
+      "captured": 1,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 6天前 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae0954f00000000190306ae.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae0954f00000000190306ae.json"
+  }
+}

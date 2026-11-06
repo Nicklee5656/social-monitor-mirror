@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "690b284c000000000503261c",
+  "url": "https://www.xiaohongshu.com/explore/690b284c000000000503261c",
+  "title": "GEO绝对是Shopify的一次新机会",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "DTC独立站又有一个新渠道：GEO\nChatGPT深度嵌入到Shopify生态里面\n未来可以边聊边买，直接下单结帐（无需二次跳转）\n#CRO #kikstartecom #Shopify独立站 #跨境电商独立站 #GEO #geo #shopify\n#chatgpt #ai #ai购物",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/258/01e90b2778638ee14f0370019a5395c18b_258.mp4?sign=ff08db29d723d4647462dce8f6b45cca&t=6aedf178",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "15",
+    "favorites": "16",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "41772fe96a3fa2d48e9f511f43f924f3074d7211c3b1cd46bf64982e5241e359",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-05",
+    "index_xsec_token": "ABoJG7eGpSD-HYbFJVhfPxF-F0hnu-fjU3VWLEV3jLO_k=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-05"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/690b284c000000000503261c.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/690b284c000000000503261c.json"
+  }
+}

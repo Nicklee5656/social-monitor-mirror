@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "67ce908f000000002a00097f",
+  "url": "https://www.xiaohongshu.com/explore/67ce908f000000002a00097f",
+  "title": "完美落幕！和Shopify出席的CCEE展现场回顾",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "上月的CCEE雨果跨境展已经圆满结束啦！\n✨Shopify 官方团队携手Kikstart Ecom，在展会现场为大家带来了满满干货：最新的Shopify 2025 Winter Edition功能解析、电商痛点解决方案（SEO、CRO、Checkout优化）、以及助力品牌全球化的独家策略。\n🔥 展会亮点回顾：\n1️⃣ Shopify 官方团队首次到场，深度解读 Shopify Plus 解决方案！\n2️⃣ Kikstart Ecom现场分享实操经验，拆解独立站从0到1的成长路径。\n虽然展会已经结束，但为了帮助更多伙伴迈向跨境电商成功之路，我们特别准备了¨独立站一手建站资料包¨，里面涵盖了一站式建站攻略、工具资源、行业洞察等优质内容！\n小伙伴们最近在独立站运营上有哪些困惑或心得？可以在评论区聊聊～#海外市场拓展 #国际展会 #品牌出海 #shopify独立站 #跨境电商 #2025CCEE深圳雨果跨境电商展 #ccee跨境电商展会深圳福田展",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/33174912b2b856ae7fa5db5f1a16d474/1040g2sg31erdcfni5q2g5oi5b07k1v770ltvgog!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/bb1975516d02dea3a2ee81a42f2c0632/1040g2sg31erdcfni5q6g5oi5b07k1v77sijn8qo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/ed21830d4f44c7884f467ab98586e86d/1040g2sg31erdcfni5q605oi5b07k1v77gmo7420!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/f4f09a24d563d7e3582a874d755c7fcb/1040g2sg31erdcfni5q3g5oi5b07k1v77qhd9dvg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/259c97c512e4c00e8d1e4ca2c08e6ab5/1040g2sg31erdcfni5q5g5oi5b07k1v777r2epmo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/33174912b2b856ae7fa5db5f1a16d474/1040g2sg31erdcfni5q2g5oi5b07k1v770ltvgog!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/bb1975516d02dea3a2ee81a42f2c0632/1040g2sg31erdcfni5q6g5oi5b07k1v77sijn8qo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "2",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "193e4b69ab040b010ec7ef12ea4702716ecb81ec0f8d5e0d6eb74ab1bf19e637",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-03-11",
+    "index_xsec_token": "ABicZFx2QOhGfijZxdmDDuCUbxxoZsLVhKXxLj76wgueY=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-03-11"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67ce908f000000002a00097f.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67ce908f000000002a00097f.json"
+  }
+}

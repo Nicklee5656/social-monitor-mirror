@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "64fe48a1000000001e00e689",
+  "url": "https://www.xiaohongshu.com/explore/64fe48a1000000001e00e689",
+  "title": "3个独立站优化小方法📖：千万量级钓鱼品牌Si",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "📣品牌故事：\nSimms Fishing Products是由怀俄明州的一名钓鱼导游和装备供应商-John Simms于1980年创立的，在经历被出售，被收购后，现已成为千万量级的知名品牌。Simms通过全球独立的飞钓商店、大型体育用品零售商和在线零售商销售其产品。2012年，其销售额的30%来自国际市场，在欧洲、日本和新西兰均设有仓库。\n🧐那么Simms是如何利用自己的独立站来提高自己的CRO的呢？\n🌟运营亮点👀：\n✅首页使用lifestyl照片而非直接的产品图片，构建用户使用情境，营造一种生活方式\n✅不仅收集客人email，也询问客人手机号码（见小字），以便于日后短信营销\n✅在out of stock的产品下推荐其他相似产品，提高订单成功率\n#Shopify #shopify独立站 #跨境电商 #Shopify创业  #独立站 #案例分析 #DTC品牌出海 #SIMMS #网站优化 #网站优化技巧 #小众户外品牌",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/53ba4758fa2d9a8aeeeda6ce26c76827/1040g00830os0j3edja205oi5b07k1v77fjjojbg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/602f485ebb402fb19d49d5d89563d203/1040g00830os0j3edja005oi5b07k1v77fdpac18!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/bce17bac7086a4198cacda7bad593b37/1040g00830os0j3edja0g5oi5b07k1v77gbdkffg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/0e723b4b32ef06162338dd28189c0fa7/1040g00830os0j3edja105oi5b07k1v776cvhg6o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/a99a81cf6bf3e076f7af75fa41b36217/1040g00830os0j3edja1g5oi5b07k1v770om30g0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/53ba4758fa2d9a8aeeeda6ce26c76827/1040g00830os0j3edja205oi5b07k1v77fjjojbg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/602f485ebb402fb19d49d5d89563d203/1040g00830os0j3edja005oi5b07k1v77fdpac18!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "12",
+    "favorites": "14",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "0e3b8d414d386baa6c101fea21c810c90bf474cfe493adfa8769711eb37f5ce0",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2023-09-13",
+    "index_xsec_token": "AB4ockRxEKpg7h5llm5aPqsIuczH1FvUS-CRWnOR3B1SM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2023-09-13"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/64fe48a1000000001e00e689.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/64fe48a1000000001e00e689.json"
+  }
+}

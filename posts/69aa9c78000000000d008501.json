@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69aa9c78000000000d008501",
+  "url": "https://www.xiaohongshu.com/explore/69aa9c78000000000d008501",
+  "title": "4个优化细节，独立站购物车转化率提高50%",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "很多 Shopify 独立站常面临购物车转化率遇颈的挑战：客户加购后，往往因结账前缺乏关键信息而退出。今天，重点分享我们近期的 Cart Drawer（侧滑购物车）优化方案。\n\t\n通过提前呈现关键信息，我们有效降低了用户在浏览与结账过程中的判断成本。当用户无需为了确认细节而反复回退页面时，决策路径变得更加顺畅，购买动作也会自然向前推进。具体举措包括：\n\t\n1、针对移动端适配调整了购物车内的字体大小，确保手机端用户能够清晰、无障碍地核对商品 SKU 等规格细节，提供下单前的确定感。\n\t\n2、在 Cart Drawer（侧滑购物车）内直接植入 “Pairs Well With” 模块，并采用真实场景图替代纯商品陈列。通过弱化生硬的“推荐”意味，转而强调“搭配”美学，让用户的连带加购行为变得更加合理且顺手。\n\t\n3、优化了物流政策的查阅体验，Shipping 详细信息改为直接点击原位展开或弹窗查看，全程无需跳转页面，避免打断用户的结账心流。\n\t\n4、在购物车内显著增加了视觉化的信任保障 Icon（包含 Free Shipping、Secure Payment、30 Days Return、Eco-friendly 等重点信息），直观地构建信任背书，彻底消除客户下单前的最后疑虑。\n#Shopify独立站 #kikcromethod #kikstartecom #shopify #shopify实战 #shopify独立站页面设计 #提高转化率 #CRO #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/6d63a518eb4f20ab294f6c43bbc480a4/spectrum/1040g0k031tc97ojp56005oi5b07k1v77jthdr78!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/6d63a518eb4f20ab294f6c43bbc480a4/spectrum/1040g0k031tc97ojp56005oi5b07k1v77jthdr78!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/6d63a518eb4f20ab294f6c43bbc480a4/spectrum/1040g0k031tc97ojp56005oi5b07k1v77jthdr78!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "13",
+    "favorites": "19",
+    "comments": "2"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "b444c2f2dad1100189bc7052b9ace32e7bdd9fbb2fce1fd57e10040a383f9154",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 03-09",
+    "index_xsec_token": "ABc-Q0aFF4fTXI6-kxREXyWiTUSf8Nd9-CPK-A2ScTxo4=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 03-09"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69aa9c78000000000d008501.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69aa9c78000000000d008501.json"
+  }
+}

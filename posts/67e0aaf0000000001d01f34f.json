@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "67e0aaf0000000001d01f34f",
+  "url": "https://www.xiaohongshu.com/explore/67e0aaf0000000001d01f34f",
+  "title": "带上你的众筹问题和独立站-首场手术式直播",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "强强联手 就在这周四。\n记得先报名入场才能得到直播链接。\n\t\n本次直播适合谁？\n-计划做海外众筹的卖家\n-希望提高独立站转化率的DTC品牌方\n-转型赛道卖家\n\t\n【实战直播｜中国时间3.27晚7点等大家】\n头部众筹代运营机构 × 加拿大本土建站服务商\n\t\n两大实战导师首次联合直播，手把手拆解海外爆款核心\n全程打开后台网页，逐帧分析众筹落地页+独立站转化路径，从页面架构到支付漏斗，细节拉满！\n\t\n我们与乙烯公司已成功配合服务多家跨境大卖，非常开心可以一起举办这次直播活动！\n期待与大家线上见面。\n\t\n留言”直播”两字报名！\n\t\n#vinyl乙烯 #电商众筹 #shopify独立站 #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/52c5a4a2948f6d7b8ec77e819eb56b5d/notes_pre_post/1040g3k031fd2p5lin61g5oi5b07k1v77dampfg8!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/ee70711beb70e6ffea282f66f183e73b/notes_pre_post/1040g3k031fd2p5lin60g5oi5b07k1v77fglllp8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/3c7b87c67a8f00183932f6a25e57fe84/notes_pre_post/1040g3k031fd2p5lin6105oi5b07k1v77qp970l8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/52c5a4a2948f6d7b8ec77e819eb56b5d/notes_pre_post/1040g3k031fd2p5lin61g5oi5b07k1v77dampfg8!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/ee70711beb70e6ffea282f66f183e73b/notes_pre_post/1040g3k031fd2p5lin60g5oi5b07k1v77fglllp8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "4",
+    "comments": "1"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "568cc833ef66b9d2ecc6ad99b46aa3e70f598cafceb8a0bbd9b74ebf7c34569d",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-03-24",
+    "index_xsec_token": "ABF5XI3Z7IGVuun5QqGtd042w3RsQICX0t_UnLQPHMfjc=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 5,
+      "captured": 5,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-03-24"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67e0aaf0000000001d01f34f.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67e0aaf0000000001d01f34f.json"
+  }
+}

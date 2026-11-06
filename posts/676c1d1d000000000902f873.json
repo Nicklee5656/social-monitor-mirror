@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "676c1d1d000000000902f873",
+  "url": "https://www.xiaohongshu.com/explore/676c1d1d000000000902f873",
+  "title": "圣诞独立站玩法：两个必要元素！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "圣诞玩法指南大放送！今年圣诞大促如何在独立站上提高转化呢？\n元素1️⃣ 倒计时：在圣诞来临之际，Plufl和Vegamour的官方主页上方都设置了折扣倒计时功能，通过这种方式抓住顾客对于限时降价的紧张感，从而加快决策速度。\n在网站上嵌入倒计时，可以使用app：countdown timer\n元素2️⃣ 节庆氛围海报：主页的设置需要使用圣诞相关的场景图，营造出节庆的氛围，客人进来后让他们感觉到节庆浓烈的氛围，吸引顾客的注意力，创造节日情感共鸣。\n下一期我们会重点分析另外两个小技巧：navigation和bundle sales。\n#shopify独立站 #shopifyplus #shopifypartner",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/992bfb79a82f4e4b75d2bab080276830/1040g00831br8pchm12205oi5b07k1v77nelsj6g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/ad9bac11a37f6111d4456a5925f9c3fa/1040g00831br8pchm12005oi5b07k1v77b49peu8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/b01931bf39641b6243bb961c829beceb/1040g00831br8pchm120g5oi5b07k1v77m0nbol8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/58dd94b8f8c262dcb57265737d43f450/1040g00831br8pchm12105oi5b07k1v777s39guo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/a838dc23fab7989675f4bea6e75e55c4/1040g00831br8pchm121g5oi5b07k1v77q3o2l08!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/992bfb79a82f4e4b75d2bab080276830/1040g00831br8pchm12205oi5b07k1v77nelsj6g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031120/ad9bac11a37f6111d4456a5925f9c3fa/1040g00831br8pchm12005oi5b07k1v77b49peu8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": null,
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "65a04cf5b23b397ccba1789b6428741bd753bb7243eca2a41f0e25d21bb2ba80",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2024-12-25",
+    "index_xsec_token": "ABKKCuY5GMkG9Ma1jE5hHUbdZ1HvLYdz4sESW4EQJGIuQ=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2024-12-25"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/676c1d1d000000000902f873.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/676c1d1d000000000902f873.json"
+  }
+}

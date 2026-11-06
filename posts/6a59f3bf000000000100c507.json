@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a59f3bf000000000100c507",
+  "url": "https://www.xiaohongshu.com/explore/6a59f3bf000000000100c507",
+  "title": "2026年，我们如何使用 AI 赋能独立站交付？",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "过去 6 年，我们一直是一家 Shopify CRO（Conversion Rate Optimization）服务公司。过去，和大多数服务公司一样，我们曾经依赖经验丰富的人才。\n\t\n然而随着团队扩大，我们逐渐发现一个问题：\n最大的瓶颈不是获客，而是组织能力的复制。\n\t\n过去一年，我们开始尝试用 AI 重构公司的核心工作流。\n\t\n本质上，我们仍然是一家 Shopify CRO Agency。\n但我们正在努力成为一家 AI-Enabled Company（AI赋能公司）——一家能够通过 AI 放大组织能力，而不是单纯依赖个人能力的公司。",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/258/01ea59edea5d35974f0370019f6f60a891_258.mp4?sign=4a67fd3d24c04cfbc16eefcc87859d0f&t=6aedf1e9",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "1",
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "ddb319dee797bf1fb6764d2d6544b2bea6eabe328d35f3ac111d157bc4569806",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "07-17",
+    "index_xsec_token": "ABjzDGahm_n9o8Rq4ob2htYMDPJ8gXtdrWn17iRVtDw8Y=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "07-17"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a59f3bf000000000100c507.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a59f3bf000000000100c507.json"
+  }
+}

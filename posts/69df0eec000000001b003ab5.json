@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69df0eec000000001b003ab5",
+  "url": "https://www.xiaohongshu.com/explore/69df0eec000000001b003ab5",
+  "title": "新上线！Shopify自有的AI素材免费制作平台",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Tinker是一个可以¨玩¨的地方，也是更开始实现你的想法的地方。\n\t\nShopify 产品负责人 Rousseau Kazi 表示：“当创作变得足够容易时，从想法到真正开始行动之间的时间就会大幅缩短。”一个简单的创意火花，理应更容易被实现。因此，Shopify 今天正式向所有用户开放 Tinker: 一个更适合独立站本身的免费AI工具。\n\t\nTinker 整合了 100 多个专门用于创作的 AI 工具，可以用来生成图片、视频、Logo、产品摄影等内容。不需要 prompt 经验，不需要管理多个订阅，你只需要按照想要的结果去浏览，然后顺着自己的想法去创作。\n\t\n真正开始用的时候，体验会更简单一些。你不需要去写复杂的 prompt，也不需要反复试不同表达方式，只要用日常语言把需求说清楚就可以。\n\t\n比如：上传一张产品图，它可以帮你生成接近棚拍质感的视觉；\n一张静态图片，也可以直接变成一条可以发在社交媒体上的视频...\n#Shopify独立站 #shopify #品牌出海 #ai #ai工具 #转化率优化 #提升转化率 #kikstartecom #kikcromethod #设计网站",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/44accc8ca5d5abb7eabd44cf7ed950f3/spectrum/1040g34o31uvg0r3k345g5oi5b07k1v77q65shn8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/bfcbc2c5d4becb646ed8f0f070c61d95/spectrum/1040g0k031v0kl5n3ju005oi5b07k1v77d0reek0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/76faf3a8305db88cd5b1ee6fbd3e7fe6/spectrum/1040g34o31uvg0r3k343g5oi5b07k1v77bd1u7k8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/bcef4228a62e975f27b682bb39962679/spectrum/1040g34o31uvg0r3k34405oi5b07k1v77q9onqgg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/4dbe122c8c6dd19a94f0027881018464/spectrum/1040g34o31uvg0r3k344g5oi5b07k1v778qjmldg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/c5d62ded957bf0a54dc7215242d9b591/spectrum/1040g34o31uvg0r3k34505oi5b07k1v771vublh0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/44accc8ca5d5abb7eabd44cf7ed950f3/spectrum/1040g34o31uvg0r3k345g5oi5b07k1v77q65shn8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/bfcbc2c5d4becb646ed8f0f070c61d95/spectrum/1040g0k031v0kl5n3ju005oi5b07k1v77d0reek0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "2",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "7fdca4d3ea172578d8302f2846f35517f9fc4a7f0c6e18c1f511924e7e6de5c2",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 04-16",
+    "index_xsec_token": "AB15E-IPM1HA1hacQShUsVC1ZpR3Af82-LuQSfBe4Mm-0=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 04-16"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69df0eec000000001b003ab5.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69df0eec000000001b003ab5.json"
+  }
+}

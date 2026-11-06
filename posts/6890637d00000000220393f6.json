@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6890637d00000000220393f6",
+  "url": "https://www.xiaohongshu.com/explore/6890637d00000000220393f6",
+  "title": "品牌的价值，就是重复表达一句话",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "Kikstart Ecom的CEO Cheryl对话Nike前营销专家Wade ﻿@李韦大Wade-跨境﻿ ，他分享营销里面的灵魂所在，就是用一句话表达你的品牌价值，并不断地通过落地来表达，并用测试进行不断的验证。\n﻿#品牌营销﻿     ﻿#shopify﻿     ﻿#品牌出海﻿     ﻿#CRO﻿     ﻿#kikstartecom",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/114/01e8906344b47f1d4f037001987408d7b4_114.mp4?sign=b2aa98acaa8344947121f9a46ca163a6&t=6aedf155",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "6",
+    "favorites": "3",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "6bafcf726592450a23d3fa1fcb8823a639ca72a93f2730e27536d5ca20be73f3",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-08-04",
+    "index_xsec_token": "AB-YTLeRwy7nfXIOe7NoaBA6EIO4JkmcLO-wfZBJ2HB1M=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-08-04"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6890637d00000000220393f6.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6890637d00000000220393f6.json"
+  }
+}

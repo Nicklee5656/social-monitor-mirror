@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "693bdd57000000001e0141f4",
+  "url": "https://www.xiaohongshu.com/explore/693bdd57000000001e0141f4",
+  "title": "首屏布局升级，信任度直接拉满⚡️",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "今天继续分享电动水上装备品牌首页优化的案例。\n这类产品单价高、决策链路长，而用户是否愿意继续往下滑，首屏信息的清晰度与可信度至关重要。\n#kikstartecom #Shopify独立站 #CRO #shopify #独立站 #网站优化 #网站设计 #独立站优化\n👉Before：好看但“不说重点”的首屏\n\t\n旧版首页的通病很典型：\n❌无 Announcement Bar：活动信息、折扣提示都被埋没，用户第一眼没有“好处感”。\n❌导航栏偏弱：图标为主、信息表达不足，让品牌调性与专业度没有体现出来。\n❌缺少社会认同：没有评级星星、没有 Review 数量，用户无法判断“这东西到底靠不靠谱”。\n\t\n👉 After：基于用户决策链路重构的高转化首页\n\t\n新版首屏围绕“如何让用户第一秒愿意留下来”进行了系统优化，主要体现在三点：\n\t\n1️⃣ 新增 Announcement Bar（提升利益感）\n加入 “Use code XX get $20 off” 的顶部提示，\n让用户进入页面的瞬间就能看到明确利益点。\n👉 这是促使首次浏览继续往下看的最快方式。\n\t\n2️⃣ 调整 Navigation（统一品牌感）\n导航栏加入更清晰的结构和更稳重的视觉风格，\n不仅提升专业度，也让用户在移动端更容易找到关键入口。\n👉 高客单产品最怕“不知道去哪点”，这一点直接改善。\n\t\n3️⃣ 社会认同强化：星级 + Review 数量\n首屏直接露出 “⭐⭐⭐⭐⭐ + 10,000+ riders”\n让用户在 1 秒钟内感受到“别人都在买/在用，很靠谱”。\n👉 信任度的建立，是高客单产品转化的核心。\n\t\n🔍 这些优化看似简单，但背后遵循完整的CRO逻辑：\n✅降低理解成本 → 建立信任 → 增加参与感 → 提升转化。\n\t\n尤其对于户外装备、水上运动、电动类产品——首屏是否建立足够信任感，直接决定用户会不会继续往下滑。",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031112/c89c83140122e4ebb54a32a2b34030ed/spectrum/1040g34o31q04g44t70105oi5b07k1v77jp5dee0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031112/c89c83140122e4ebb54a32a2b34030ed/spectrum/1040g34o31q04g44t70105oi5b07k1v77jp5dee0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031112/c89c83140122e4ebb54a32a2b34030ed/spectrum/1040g34o31q04g44t70105oi5b07k1v77jp5dee0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "5",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "1699bcacc2ae896aa2c4a42a0fcb94059245b28b3211d6b5c26670e6545a5f03",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-12-12",
+    "index_xsec_token": "AB-kpxril2pKP4neT9Q__jHi_JGw4m2eM55I37RBlr0pQ=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-12-12"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/693bdd57000000001e0141f4.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/693bdd57000000001e0141f4.json"
+  }
+}

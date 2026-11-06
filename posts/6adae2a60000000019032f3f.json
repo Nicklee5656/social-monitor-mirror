@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6adae2a60000000019032f3f",
+  "url": "https://www.xiaohongshu.com/explore/6adae2a60000000019032f3f",
+  "title": "抄作业！8位数品牌在用的Shopify购物车抽屉",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "① 社会证明\n通过真实的客户评价、媒体背书等信息，帮助客户建立购买信心。\n② 倒计时\n配合真实的限时活动，把优惠截止时间说清楚，给客户一个及时下单的理由。\n③ 包邮／赠品进度条\n直接告诉客户「还差多少可以解锁福利」，让凑单更有方向，也为提高客单价创造机会。\n④ 折扣码输入框\n让客户在进入结账页前，就能输入折扣码、看到优惠后的金额，减少对最终价格的疑问。\n这些元素放进去后，也要在手机上检查：信息是否清晰？操作是否顺手？结账按钮是否容易找到？\n建议结合店铺实际情况逐项测试，观察购物车到结账的转化表现。\n我们也整理了一份 CRO Checklist，方便你检查 Shopify 店铺里影响转化的细节。\n想要清单，评论区留言「CRO」，获取免费领取方式。\n#kikstartecom #shopify #独立站 #品牌出海 #独立站运营 #黑五",
+  "images": [],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "25",
+    "favorites": "47",
+    "comments": "12"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "d1f03261b825b3405b74910ddb719837173d020c532c39173992dbb2f217f144",
+  "errors": [
+    "video_blob_url: 视频为流媒体引用，未保存文件",
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 10-23 加拿大",
+    "index_xsec_token": "ABOZu6mi5wSfeRt0dD7SwwhPtpOdTlJCRyuP1lRlDYFz0=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "url_missing"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 10-23 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript",
+      "video_url"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6adae2a60000000019032f3f.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6adae2a60000000019032f3f.json"
+  }
+}

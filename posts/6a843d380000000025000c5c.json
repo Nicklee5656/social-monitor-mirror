@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a843d380000000025000c5c",
+  "url": "https://www.xiaohongshu.com/explore/6a843d380000000025000c5c",
+  "title": "未来2年，Shopify转化增长正在拉开差距",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "独立站流量持续上涨，真正拉开差距的关键在于如何更高效地将已有流量转化为订单。\n未来两年，Shopify 独立站的转化玩法正在发生明显变化。\n我们联合 CWILL、Firework、Ptengine、Trustpilot，整理了一份：\n📖 《2026-2027 独立站转化率优化行业白皮书》\n一共 32页，系统整理了未来两年值得关注的：\n-10大CRO趋势\n-12个品牌案例\n-30+落地动作\n重点覆盖用户从 浏览、加购、结账到支付 的4个关键阶段，帮助品牌重新判断：\n-现有流量有没有被浪费\n-用户到底卡在哪一步\n-哪些环节正在影响转化\n-下一步应该优先优化什么\n这份白皮书分别从 Shopify 独立站转化率优化、用户留存、AI视频电商、用户行为分析、A/B测试、评论与品牌信任等多个角度拆解独立站增长。\n如果你的 Shopify独立站已经有一定流量，但加购率、转化率或者复购率一直上不去，这份白皮书可以作为一份比较完整的优化参考。\n\t\n#kikstartecom #shopify #dtc #独立站 #转化率提升",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01ea8439c9ab893001037001a0148fc8b0_258.mp4?sign=bb2ebed2ebc8dfa29747dfe9be9b0d68&t=6aedf21d",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "8",
+    "favorites": "6",
+    "comments": "10"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "08ff212880dd4a55abcdb60a34c5927d11e1297bcb734eec39f2622bf83ac7bb",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 08-26",
+    "index_xsec_token": "ABgBujDJgtJtnX26yJ1lRpOS4J1VD4mtUtRJrxnVl_MRY=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 08-26"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a843d380000000025000c5c.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a843d380000000025000c5c.json"
+  }
+}

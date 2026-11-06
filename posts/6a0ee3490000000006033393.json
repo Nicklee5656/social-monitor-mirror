@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a0ee3490000000006033393",
+  "url": "https://www.xiaohongshu.com/explore/6a0ee3490000000006033393",
+  "title": "转化率提升30%！10个产品页优化细节揭秘",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "最近Kik又拆了一个穿戴甲的产品页，结合我们一直以来的CRO优化经验，发现了几个容易丢单的盲区，为此我们深度梳理了10项可落地的提升细节。\n建议做独立站的朋友们对照自己的商品页查看，说不定下一个爆单灵感就在这里！\n#品牌出海 #Shopify独立站 #独立站 #网站优化 #提升转化率 #转化率优化 #kikstartecom #kikcromethod #uiux #shopify",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/d45f98b61f670878a0de0f10481207f9/spectrum/1040g34o320e6r9lv5c405oi5b07k1v77qtbhg98!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/b0df900e1be67f1e4e38c8450b954e4f/spectrum/1040g34o320e6r6k05i105oi5b07k1v772f4m650!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/31fb11fb30289c037c5ee24ccf4804f0/spectrum/1040g34o320e6r9lv5c305oi5b07k1v77chd2n58!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/79270b2120a187f1deaf348438669728/spectrum/1040g34o320e6r9lv5c3g5oi5b07k1v77bj250r8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/d45f98b61f670878a0de0f10481207f9/spectrum/1040g34o320e6r9lv5c405oi5b07k1v77qtbhg98!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/b0df900e1be67f1e4e38c8450b954e4f/spectrum/1040g34o320e6r6k05i105oi5b07k1v772f4m650!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "5",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "d8640e8bfc31a698a075c6a618288b2edd7fa363792aa67c88cbbf572a755058",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 05-26",
+    "index_xsec_token": "ABeaBEPmycDcU6KAL_bxS_IZa9Y_WtxMdnmjA0XeXGChM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 6,
+      "captured": 6,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 05-26"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a0ee3490000000006033393.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a0ee3490000000006033393.json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a672e68000000000402a97a",
+  "url": "https://www.xiaohongshu.com/explore/6a672e68000000000402a97a",
+  "title": "拆解3个8位数的独立站，发现了他们共同点",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "为什么做电商设计要优先考虑优化移动端？我们的移动端CRO系列课程拆解了3个八位数的独立站发现了他们都有的一些共通点：\n\t\n-分类多的品牌，会把特色分类放进汉堡菜单\n用户可以更快找到对应的产品类别，尤其适合家具等 SKU 和分类较多的品牌。\n\t\n-按钮要足够大，方便拇指点击\n移动端按钮不能太小，要考虑用户单手操作时是否容易准确点击。\n\t\n-搜索入口要明显，并加入预测搜索\n可以展示热门产品、热门搜索和关键词，帮助用户更快完成商品发现。\n\t\n-筛选功能要方便使用\n良好的筛选功能可以缩短用户寻找商品的路径，尤其适合产品数量较多的店铺。\n\t\n-产品图片要高清，并支持放大\n用户需要在手机上看清产品细节，图片或视频要保持高质量，并提供缩放功能。\n\t\n-缩放功能必须有明显提示\n即使页面支持点击放大，也要提供清晰的缩放图标，否则用户可能根本不知道图片可以放大。\n\t\n-产品描述要简洁、聚焦重点\n移动端空间有限，描述不适合堆太多文字，要让用户快速抓住产品重点。\n\t\n#shopify #dtc #独立站 #转化率 #kikstartecom",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01ea672c1f410258010370019fa30d899a_258.mp4?sign=aea11f775f742c4b12dd3c86e42a6007&t=6aedf1f8",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "16",
+    "favorites": "34",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "0b5e8e30186ed3369a77ff66b87ab4b94990024ed36630d6d09a418441da55b9",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "07-27",
+    "index_xsec_token": "ABDgJPbIc1OjzYAPPxhazBZ5GUZhKxbjDYeNIxN-_qwoI=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "07-27"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a672e68000000000402a97a.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a672e68000000000402a97a.json"
+  }
+}

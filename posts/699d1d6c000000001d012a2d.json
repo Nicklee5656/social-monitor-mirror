@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "699d1d6c000000001d012a2d",
+  "url": "https://www.xiaohongshu.com/explore/699d1d6c000000001d012a2d",
+  "title": "初八开工大吉！",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Kik在这里祝愿，在新的一年里，大家可以一飞冲天，马到成功，薪想事成！\n我们Kik的目标也依然清晰：成为中文市场 No.1 的 CRO Agency！\n#开工大吉  #kikcromethod #kikstartecom #CRO #品牌出海 #迎接新的一年 #复工",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/f3f545b8867594642c3f74e7b2622048/spectrum/1040g0k031sv3v50g5e005oi5b07k1v77k99755g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/f3f545b8867594642c3f74e7b2622048/spectrum/1040g0k031sv3v50g5e005oi5b07k1v77k99755g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/f3f545b8867594642c3f74e7b2622048/spectrum/1040g0k031sv3v50g5e005oi5b07k1v77k99755g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": null,
+    "favorites": null,
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "b90fe9720d72f4b3bd58a02c0038f5c107d83567b15a5a25ee525fde32e51336",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "02-24",
+    "index_xsec_token": "AB50JWfrr7d_eUfQ4Npthv63Xf_o4VioT9aJHO6NlTodM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "02-24"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/699d1d6c000000001d012a2d.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/699d1d6c000000001d012a2d.json"
+  }
+}

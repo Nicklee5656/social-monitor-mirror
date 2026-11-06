@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68015438000000001c015916",
+  "url": "https://www.xiaohongshu.com/explore/68015438000000001c015916",
+  "title": "小包裹免税取消？DTC品牌如何打开B端市场",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "数据显示，B2B市场规模已达到DTC市场的两倍，预计到今年，80%的B2B商务将全面实现线上化。并且，85%的B2B公司都认为将商务操作整合到一个平台，是企业实现数字化转型的重要举措。\nShopify 凭借其强大的功能、丰富的应用生态以及良好的用户体验，脱颖而出，能为卖家提供一站式的线上 B2B业务解决方案，助力卖家在激烈的市场竞争中抢占先机，实现业务的高效拓展。\n使用门槛:\n·使用ShopifyB2B，需要订阅Shopify Plus计划。\n·商家需要具备一定的业务规模，尤其是批量订单和客户分层需求较大的企业最为适合。\n·需要具备明确的B2B战略，确保能够充分利用平台功能。\n#品牌出海 #拓展海外市场 #跨境电商 #shopify独立站 #b2b #一站式平台 #kikstartecom",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/f74da0dff041105478ff24166b8d755a/1040g00831gcvkb0g3a5g5oi5b07k1v770mkc7e0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/acc2ba357a3920af4dc6d49ce42b7634/1040g00831gcvkb0g3a6g5oi5b07k1v7747mjr6g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/e191dd600d7797cf042d053c29d67940/1040g00831gcvkb0g3a205oi5b07k1v773ql32qg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/d7c8fd723b88d1aa7f3f972993744eef/1040g00831gcvkb0g3a605oi5b07k1v777ptgodg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/fe9c63bb392a8eaab810bac3998fa82d/1040g00831gcvkb0g3a305oi5b07k1v775ru41ng!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/f74da0dff041105478ff24166b8d755a/1040g00831gcvkb0g3a5g5oi5b07k1v770mkc7e0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/acc2ba357a3920af4dc6d49ce42b7634/1040g00831gcvkb0g3a6g5oi5b07k1v7747mjr6g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "8105837e4e9ab3cb958c861e38b36bc3dc936a9f4bf5a7146738000dcdb1780d",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-04-28",
+    "index_xsec_token": "ABT_lA7ZSeR26gWlkcmZww9-fBgG4BB-GTLvxD1zjSTWc=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-04-28"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68015438000000001c015916.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68015438000000001c015916.json"
+  }
+}

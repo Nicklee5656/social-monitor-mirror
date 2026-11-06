@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69fbed72000000003501ee16",
+  "url": "https://www.xiaohongshu.com/explore/69fbed72000000003501ee16",
+  "title": "Shopify升级新版账户了，8步实现无缝升级",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "Shopify官方在4月重磅更新发布：传统客户账户已经正式停止功能更新以及技术支持，而新的账户实现了一次登陆即享用全功能（无密码认证、灵活管理订单，商店积分查看等），新的体验更加流畅丝滑。\n本文分享8步实现无缝升级和注意事项#shopify #Shopify独立站 #网站建设 #外贸知识 #品牌出海 #外贸独立站 #外贸网站 #转化率优化 #提升转化率 #kikstartecom",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/320/110/258/01e9fbec191619c2400370019e0017a0a2_258.mp4?sign=77ab866c09f0b46d2dc6b0281fcfd727&t=6aedf19b",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "82ced528ad94f73a57a0891be940f83afcb3b03f32e7c5a0d5770f5e17f2e594",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "05-07",
+    "index_xsec_token": "ABClmNjX-jD3oher469SDDO0rUapUgpcn3saZABQM-CEg=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "05-07"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69fbed72000000003501ee16.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69fbed72000000003501ee16.json"
+  }
+}

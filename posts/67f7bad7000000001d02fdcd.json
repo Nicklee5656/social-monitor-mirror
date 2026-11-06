@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "67f7bad7000000001d02fdcd",
+  "url": "https://www.xiaohongshu.com/explore/67f7bad7000000001d02fdcd",
+  "title": "独立站首页设计秘籍（1）-导航栏",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "这个系列将用6期内容，手把手拆解高转化率首页的底层逻辑！﻿﻿﻿﻿\n本期要讲的是：导航栏（Navigation）\n研究表明，40%的用户会在进入网站后的3秒内决定是否继续浏览。在这短短的3秒内👀，Navigation需要迅速传递关键信息，吸引用户注意力。它不仅是用户了解网站的重要入口，更是影响用户继续浏览与否的关键。\n导航栏设计核心：清晰直观，引导用户探索\n\t\n自查清单：\n🤔清晰的视觉层级：导航设计层次分明，重要信息优先展示。\n👌明确的分类：使用用户易懂的语言对产品和内容分类。\n👓核心功能易访问：如搜索框、登录入口、购物车等常驻导航。\n💼移动端优化：在移动端同样清晰可用，避免内容堆叠。\n🎓专业的设计感：字体、间距、颜色搭配需与品牌形象一致。\n#跨境电商 #品牌出海 #shopify独立站 #独立站 #首页设计 #开发者社区 #网站推荐 #kikstartecom",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/2e2693ea5cfac5da12267617ff2ccbf2/1040g00831gqab18i3c3g5oi5b07k1v77qm14a20!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/8d569e8ff082bdb277e91c43924b7c3f/1040g00831gqab18i3c6g5oi5b07k1v77rdfou4o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/0df105292caa0ae8acc91ada95027b40/1040g00831gqab18i3c5g5oi5b07k1v77vq5a738!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/5d202d0beb64a1687ceef91505412335/1040g00831gqab18i3c505oi5b07k1v77ppq82ho!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/153cddaa23b60bbabe8a07a508991917/1040g00831gqab18i3c4g5oi5b07k1v776kp4398!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/fda50e61da7f29c232f7a4ef919e2321/1040g00831gqab18i3c305oi5b07k1v779efrfdo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/2e2693ea5cfac5da12267617ff2ccbf2/1040g00831gqab18i3c3g5oi5b07k1v77qm14a20!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/8d569e8ff082bdb277e91c43924b7c3f/1040g00831gqab18i3c6g5oi5b07k1v77rdfou4o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "19",
+    "favorites": "16",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "576a3a4665811b7215a7e6c8caaa7ce6ad08d5aed35a781c78e826a51f72978b",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-04-28",
+    "index_xsec_token": "ABhyewj93J12-WAbaznJ_W5x01d-QQnprFHucCNVJvRJY=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-04-28"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67f7bad7000000001d02fdcd.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67f7bad7000000001d02fdcd.json"
+  }
+}

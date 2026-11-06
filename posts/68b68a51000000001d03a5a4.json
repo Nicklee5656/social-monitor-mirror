@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68b68a51000000001d03a5a4",
+  "url": "https://www.xiaohongshu.com/explore/68b68a51000000001d03a5a4",
+  "title": "GA4初学者手册(1)-运营必看的核心指标",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "GA4 的强大之处在于它能提供更精细、更实时、更跨平台的用户行为数据，并支持高度自定义的报告与漏斗分析。如果能够正确配置和使用，GA4 不只是一个统计工具，而是帮助电商精确定位高价值流量、优化转化路径、最大化广告 ROI 的核心武器。\n\t\n然而大多数人对 GA4 的第一印象并不友好—界面陌生、数据难懂、功能复杂。许多 Shopify 商家在安装 Google Analytics（GA4）后，很快就陷入困惑：不知道该从哪里下手，也不确定哪些指标才是真正有价值的。\n\t\n实际上，GA4的数据可以帮助我们：\n✅ 找出带来销售的主要流量来源\n✅ 识别表现好的页面及待优化的页面\n✅ 判断访客在哪些环节流失\n✅ 优化广告投放和营销策略\n\t\n本文将结合实际案例，拆解 GA4 在电商运营中的核心用法，并展示如何利用报告、趋势分析和购买漏斗，将数据转化为业务增长的决策依据",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/3a4efc425fdfb0e78d813cd51ba79784/spectrum/1040g0k031ltud6rv503g5oi5b07k1v77kg26ku8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/590c148d3d4d0d95e88dc589ebd61a3b/spectrum/1040g0k031ltud6rv50005oi5b07k1v778dqk4j8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/f8dda3ad7d25daec82a947e25b874c16/spectrum/1040g0k031ltud6rv500g5oi5b07k1v77nva8fsg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/c6893508a19d6102c9e3cb721332fe14/spectrum/1040g0k031ltud6rv50105oi5b07k1v77rgj65i8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/ec6062540418965fd2727f2a4d24ae31/spectrum/1040g0k031ltud6rv501g5oi5b07k1v779hrims8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/fb29a717677ff285f463d79919df03c7/spectrum/1040g0k031ltud6rv50205oi5b07k1v774dv44f8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/b7d276084f6d94760e57d09f9b63f83e/spectrum/1040g0k031ltud6rv502g5oi5b07k1v77kk8370o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/fa9ab57ac426476bd4b953278e990404/spectrum/1040g0k031ltud6rv50305oi5b07k1v77h49f2n0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/3a4efc425fdfb0e78d813cd51ba79784/spectrum/1040g0k031ltud6rv503g5oi5b07k1v77kg26ku8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 10,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031115/590c148d3d4d0d95e88dc589ebd61a3b/spectrum/1040g0k031ltud6rv50005oi5b07k1v778dqk4j8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "6",
+    "favorites": "7",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "87f15eadb65df308613517bf1251aaf2b40b369cb99b877afd188f51570a894a",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-09-02",
+    "index_xsec_token": "AB9z9DC6-VI76zfjjHHPTjEGQ9OBMWeJ8JSmaEUlD7CWs=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 10,
+      "captured": 10,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-09-02"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68b68a51000000001d03a5a4.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68b68a51000000001d03a5a4.json"
+  }
+}

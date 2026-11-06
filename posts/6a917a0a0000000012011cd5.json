@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a917a0a0000000012011cd5",
+  "url": "https://www.xiaohongshu.com/explore/6a917a0a0000000012011cd5",
+  "title": "独立站转平台后，转化提升40%",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "在迁移Shopify的案例里，有个品牌让我很感触。\nCharacter，几千个SKU，原来跑在Magento上。为了让网站按他们想要的方式运转，不得不叠加大量集成，最后网站管理变得越来越吃力。\n迁到Shopify之后，转化率涨了40%。\n数据来自Shopify官方博客，不是我的客户案例。但我想聊的不是“快去换平台”，而是这个案例暴露了一件很多人没算清楚的事。\n月费很低，不代表总成本低\n比较平台的时候，大部分人第一反应是看月费多少、开发费多少、功能够不够。但真正运营几年之后会发现，钱其实花在了这些地方：\n-开发和维护\n-服务器托管\n-插件\n-版本升级\n-技术团队\n-系统对接\n-进新市场时不断增加的开发成本\n这些在选平台那天几乎看不见，几年后却决定了你的实际支出。\n所以现在更该看的指标是TCO，Total Cost of Ownership，总拥有成本。\n11个平台，简单分三类：\n-建站工具型（Wix / Squarespace / GoDaddy）：上手快，但库存和渠道复杂起来会跟不上。\n-开源自托管（WooCommerce / Adobe Commerce）：灵活度最高，但托管、插件、开发都要自己接。\n-SaaS电商型（Shopify / BigCommerce）：一开始就为电商设计，托管、结账全内置。\n不是哪类更好，是看你现在这个阶段、这个团队配置，对得上哪一类。\n顺便说个时间：\nShopify在2026年下半年针对部分竞品平台的商家推出了迁移支持计划，涉及Magento / Adobe Commerce和大中华区的SHOPLINE商家。\n具体力度每个账户都不一样，想知道自己符不符合，可以评论或后台私信我们。\n\t\n#kikstartecom #品牌出海 #shopify #平台迁移 #独立站",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/48e596b737d01221d20611c52cfc90d3/oss-sg/spectrum/1040g3ug324dnr18r2q3g5oi5b07k1v77nvkm1lg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/2b9e59167169d907bd83e6d36de63a43/oss-sg/spectrum/1040g3ug324dnr18r2q005oi5b07k1v77jp0ildo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/ea53a7cab6af3689775bbc4b502f0cc1/oss-sg/spectrum/1040g3ug324dnr18r2q0g5oi5b07k1v77jpiuuq8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/05cb4976785fa7252c3c05c233af8239/oss-sg/spectrum/1040g3ug324dnr18r2q105oi5b07k1v77133o0mo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/9e740a35f3130db31a4190f5b4ce766d/oss-sg/spectrum/1040g3ug324dnr18r2q1g5oi5b07k1v77l5p81pg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/2f73e039ea0ab705e3c836d01295f12a/oss-sg/spectrum/1040g3ug324dnr18r2q205oi5b07k1v77ogesbm0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/a8d870b6f0b20050e4e713e944167954/oss-sg/spectrum/1040g3ug324dnr18r2q2g5oi5b07k1v77l7fcgjo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/dba438d4201082a0938ebb3cece88d5c/oss-sg/spectrum/1040g3ug324dnr18r2q305oi5b07k1v77ds8cljg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/48e596b737d01221d20611c52cfc90d3/oss-sg/spectrum/1040g3ug324dnr18r2q3g5oi5b07k1v77nvkm1lg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 10,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031104/2b9e59167169d907bd83e6d36de63a43/oss-sg/spectrum/1040g3ug324dnr18r2q005oi5b07k1v77jp0ildo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "1",
+    "favorites": null,
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "5bc8236ef3621cd60b72ace99aa6e913e27d8162805242ac3f11d8c62122dbda",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "08-28",
+    "index_xsec_token": "ABtku0a-x8QXkom_aQWg6WK5zWGYNzBMVYN-QBqibBEKI=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 10,
+      "captured": 10,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "08-28"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a917a0a0000000012011cd5.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a917a0a0000000012011cd5.json"
+  }
+}

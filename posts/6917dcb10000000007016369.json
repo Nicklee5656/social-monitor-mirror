@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6917dcb10000000007016369",
+  "url": "https://www.xiaohongshu.com/explore/6917dcb10000000007016369",
+  "title": "最直接的选品策略：很多人都忽略的客户反馈",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "对话美国农业器械品牌主Kenny，在客户反馈里面 常常会藏着选品的策略#Shopify独立站 #kikstartecom #产品差异化 #CRO #差异化产品 #品牌竞争力 #品牌营销 #kikcromethod #kikstartecom",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/114/01e917dc402a91ba010370019a85396f69_114.mp4?sign=dc2c3d6ad7501da3711564220c31956d&t=6aedf17f",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "1",
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "4af8cd0a8cdfd47b9ba24ed8e6f8ed39ccea4832167f16edbc40cd9887a0fb20",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-15",
+    "index_xsec_token": "ABWOKR6vrQacvEUPOQjMKrKb-2KEaWQZ9NInA3VGtjGq0=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-15"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6917dcb10000000007016369.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6917dcb10000000007016369.json"
+  }
+}

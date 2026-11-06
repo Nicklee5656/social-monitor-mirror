@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6916f9670000000005038f07",
+  "url": "https://www.xiaohongshu.com/explore/6916f9670000000005038f07",
+  "title": "GMV增长100%秘诀-2025黑五大促指南（下）",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "上篇我们黑五的核心之一是通过精准广告投放吸引高意图的新客户。上篇我们分享了快速落地的广告投放策略和如何提升AOV（客单价）\n今天我们分享：\n一、增加客户复购与精准营销\n1️⃣ VIP客户专属福利与早鸟优惠\n2️⃣ 个性化邮件与短信营销\n\t\n二、提升转化率并减少流失\n1️⃣ 设计首页横幅和通知栏\n2️⃣ 加速网站加载速度\n\t\n总结下来，BFCM黑五之前，需要提前准备独立站的工作包含：广告投放+落地页、AOV优化（节日bundle）、客户忠诚度管理（Email）与网站提升（倒计时），将营销策略与站点功能有效结合，挖掘每位顾客的购买潜力。",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/0e6f25d28c8c3498ace6c8aee8cfae9a/spectrum/1040g34o31os454k8h05g5oi5b07k1v77qs0v520!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/a15e8ec1302db999cf4d011ff7225b89/spectrum/1040g34o31os454k8h0305oi5b07k1v77457olhg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/eac231245c392dc2e7a078f3d6fb4987/spectrum/1040g34o31os454k8h03g5oi5b07k1v77jpnn16g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/c5793a43d1749c8d75ee4c01fb1820f0/spectrum/1040g34o31os454k8h0405oi5b07k1v77kqo6h50!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/ca1f9a1d8f97828c4be5c59fad398620/spectrum/1040g34o31os454k8h04g5oi5b07k1v77pri9fn0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/2847748aef08a9020f264dc25dc19c4e/spectrum/1040g34o31os454k8h0505oi5b07k1v77tq8b2cg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/0e6f25d28c8c3498ace6c8aee8cfae9a/spectrum/1040g34o31os454k8h05g5oi5b07k1v77qs0v520!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/a15e8ec1302db999cf4d011ff7225b89/spectrum/1040g34o31os454k8h0305oi5b07k1v77457olhg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": null,
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "f0a22e0c0f8bf356a40e3617a0ec72160c8e5f8cd4d1b3a2fa280504b8d5c52f",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-14",
+    "index_xsec_token": "ABj8kC3oPqydPhIBt7JbxafcDui2OXifxPjeBIhtt0E8U=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-14"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6916f9670000000005038f07.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6916f9670000000005038f07.json"
+  }
+}

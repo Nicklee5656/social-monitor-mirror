@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "681ee57e000000002202c100",
+  "url": "https://www.xiaohongshu.com/explore/681ee57e000000002202c100",
+  "title": "中美关税-针对独立站卖家的几点建议",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "在中美局势震荡与保护主义升级的当下，独立站品牌正面临关税、物流、合规的多重夹击。\n\t\n今天分享的是Kik合作人Steve与Cheryl的播客讨论：我们该如何看待未来的美国市场，以及独立站应往哪个方向突围。\n\t\n危机也是转机-我们的Shopify客人们正在：\n1️⃣ 多元化布局海外市场-尤其新兴市场中东、非洲、南美；\n2️⃣ 通过品牌沉淀提升品牌价值而非卷价格；\n3️⃣ 甚至有客人迁移工厂之东南亚、长期规划；\n4️⃣ 独立站清晰标注出tariff溢价（在结账页面清晰可以看到，让客人理解价格为什么会比之前更高）-此处我们推荐大家关注Shopify App：Magical Fees & Tariff 评分很好，我们已经帮几个被关税影响较大的Shopify客人安装。\n\t\nKik合伙人Steve背景：深耕美国头部咨询公司十年，主导沃尔玛等500强企业转型，回国后操盘多个跨境品牌从0到亿级增长。\n\t\n2023年加入Kikstart Ecom团队、后成为合伙人，护航400+ Shopify品牌提升转化率与销售额。\n\t\n#中美贸易 #独立站 #跨境电商 #品牌出海 #关税 #Shopify #ShopifyPartner #KikstartEcom",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/258/01e81ee4a449c9b64f03700196b8b0e8c8_258.mp4?sign=abc83616148b88be4457e225c0fc0c3d&t=6aedf13e",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "f9b40ab9ab469513b60422a508788be9dcdafc015bb27b07da0af4de5e26c94b",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-05-10",
+    "index_xsec_token": "ABAb81vID1IJ4imd79c8k37Au3kcJQG4ls2fIY4ZZw1-M=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-05-10"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/681ee57e000000002202c100.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/681ee57e000000002202c100.json"
+  }
+}

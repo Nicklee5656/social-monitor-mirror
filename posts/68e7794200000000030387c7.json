@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68e7794200000000030387c7",
+  "url": "https://www.xiaohongshu.com/explore/68e7794200000000030387c7",
+  "title": "GA4初学者手册（2）-运营必看的核心指标",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "与 Shopify 仪表盘相比，GA4 能提供更深入的用户行为和营销数据分析，虽然 GA4 平台不够友好，但数据极具价值，并基本介绍了进入 GA4 主界面了解结构。\nGA4 里值得独立站卖家关注的三个指标：\n1️⃣ Insights 洞察：快速判断市场走势（路径：Home — Insight）\n类似于一个智能小秘书，能够通过 AI 快速给出你较为关心的几个关键问题的答案（如高销量/高收益商品），免去你翻阅大量数据的麻烦。\n2️⃣ 流量获取：广告花得值不值（路径：Report — Life Cycle — Traffic Acquisition）\n无论是自然流量还是付费广告流量，流量本身并不等于收益。GA4 提供的 流量获取报告，能够帮助你详细了解每个流量来源的表现，让你清晰看到哪些渠道为你带来了优质的流量，哪些则只是虚高。\n3️⃣ 电商购买：精细化管理库存（路径：Report — Life cycle — Revenue — E-commerce purchase）\nGA4的电商购买报告，允许你查看每个产品的销售情况，分析顾客的购买习惯，以及哪些产品的销售路径较短或较长。\n#Shopify独立站 #独立站 #CRO #GA4 #数据",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/4c4be91e696fa8d22fbe449a63984630/spectrum/1040g34o31ndndub3l0e05oi5b07k1v77o1d2a50!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/ae1f625209c12583d7217c1960dcd946/spectrum/1040g34o31ndndub3l0a05oi5b07k1v77ce1phf8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/c8e8582898c6ccddf61deda384622cf2/spectrum/1040g34o31ndndub3l0ag5oi5b07k1v77fjtkn7o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/58fef265ed0b24f3505ee10f7b0d625f/spectrum/1040g34o31ndndub3l0b05oi5b07k1v77m65s6ag!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/c5ac02ffec8d35555be6106537c76def/spectrum/1040g34o31ndndub3l0bg5oi5b07k1v77o342ilo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/9cce4f2959c86566914605ffd34a1cbf/spectrum/1040g34o31ndndub3l0c05oi5b07k1v774v1f8ko!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/a7f0591c6faabcacf2b9bcb745a735ff/spectrum/1040g34o31ndndub3l0cg5oi5b07k1v77jbgg9r0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/ea664510312a28b16c98f514003cf7a9/spectrum/1040g34o31ndndub3l0d05oi5b07k1v779o0spq8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/f41ee710e57a4f7f43b2ce003d8e1e31/spectrum/1040g34o31ndndub3l0dg5oi5b07k1v77q4bu59o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 10,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/4c4be91e696fa8d22fbe449a63984630/spectrum/1040g34o31ndndub3l0e05oi5b07k1v77o1d2a50!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 11,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031114/ae1f625209c12583d7217c1960dcd946/spectrum/1040g34o31ndndub3l0a05oi5b07k1v77ce1phf8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "6",
+    "favorites": "5",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "f7fd072e734fa3169b2361de27dfe4768c6887ea16f86aa927d1fa461c720932",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-10-09",
+    "index_xsec_token": "ABJwmrxuCWmXKJHbW6ez_BxIsCOaNYiiFiyveu76r11fU=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 11,
+      "captured": 11,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-10-09"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68e7794200000000030387c7.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68e7794200000000030387c7.json"
+  }
+}

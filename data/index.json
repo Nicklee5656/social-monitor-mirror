@@ -1,0 +1,3337 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "dataset": "social-monitor",
+  "account_id": "6245580f000000001000fce7",
+  "account_label": "Kikstart Ecom 凯客数智",
+  "profile_url": "https://www.xiaohongshu.com/user/profile/6245580f000000001000fce7",
+  "dataset_version": "2026.11.06-1",
+  "content_fingerprint": "8e7edb363d58",
+  "generated_at": "2026-11-06T14:32:50+08:00",
+  "mirror_mode": "full",
+  "access": {
+    "login_required": false,
+    "cookie_required": false,
+    "sharecode_required": false,
+    "auth_note": "静态镜像：匿名 HTTPS GET 即可读取，无需任何查询参数、Cookie 或登录"
+  },
+  "counts": {
+    "posts": 173,
+    "total_collected": 173
+  },
+  "completeness_summary": {
+    "levels": {
+      "text_only": 173
+    },
+    "gap_counts": {
+      "image_text": 124,
+      "published_at": 173,
+      "video_transcript": 53,
+      "video_url": 9
+    },
+    "all_materials_complete_posts": 0,
+    "note": "text_only = 正文完整但图片文字/视频转录缺失，不代表全部素材采集完整"
+  },
+  "posts": [
+    {
+      "post_id": "638c1939000000001f00d6fa",
+      "content_type": "image",
+      "title": "Shopify跨境电商创业的朋友请举手🙋‍♀️",
+      "body_length": 396,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/638c1939000000001f00d6fa.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/638c1939000000001f00d6fa.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/638c1939000000001f00d6fa.json"
+    },
+    {
+      "post_id": "6393d342000000001c005310",
+      "content_type": "image",
+      "title": "Shopify干货‼️如何营造节日气氛的电商网站",
+      "body_length": 978,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6393d342000000001c005310.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6393d342000000001c005310.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6393d342000000001c005310.json"
+    },
+    {
+      "post_id": "6411c0590000000013031a72",
+      "content_type": "image",
+      "title": "ColourPop美妆，独立站经验分享📖成功启示录",
+      "body_length": 623,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6411c0590000000013031a72.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6411c0590000000013031a72.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6411c0590000000013031a72.json"
+    },
+    {
+      "post_id": "64fe48a1000000001e00e689",
+      "content_type": "image",
+      "title": "3个独立站优化小方法📖：千万量级钓鱼品牌Si",
+      "body_length": 414,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/64fe48a1000000001e00e689.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/64fe48a1000000001e00e689.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/64fe48a1000000001e00e689.json"
+    },
+    {
+      "post_id": "65176ae4000000001e030dd1",
+      "content_type": "image",
+      "title": "学会这3招，帮助独立站逆袭成长💨",
+      "body_length": 544,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/65176ae4000000001e030dd1.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/65176ae4000000001e030dd1.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/65176ae4000000001e030dd1.json"
+    },
+    {
+      "post_id": "672c79d2000000001b028f97",
+      "content_type": "image",
+      "title": "黑五来临，如何快速提升网站转化率",
+      "body_length": 241,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/672c79d2000000001b028f97.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/672c79d2000000001b028f97.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/672c79d2000000001b028f97.json"
+    },
+    {
+      "post_id": "67371da8000000001a01d683",
+      "content_type": "image",
+      "title": "旺季爆单秘籍:8种弹窗设置玩法大揭秘",
+      "body_length": 640,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67371da8000000001a01d683.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67371da8000000001a01d683.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67371da8000000001a01d683.json"
+    },
+    {
+      "post_id": "674597bf0000000007024a6f",
+      "content_type": "image",
+      "title": "终于搞懂什么是A/B Test了！",
+      "body_length": 334,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/674597bf0000000007024a6f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/674597bf0000000007024a6f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/674597bf0000000007024a6f.json"
+    },
+    {
+      "post_id": "674b06d60000000008006d11",
+      "content_type": "video",
+      "title": "两类EDM帮助品牌旺季加速爆单！",
+      "body_length": 154,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/674b06d60000000008006d11.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/674b06d60000000008006d11.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/674b06d60000000008006d11.json"
+    },
+    {
+      "post_id": "674d84660000000007024419",
+      "content_type": "image",
+      "title": "Shopify独立运营-A/B测试实操流程！",
+      "body_length": 514,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/674d84660000000007024419.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/674d84660000000007024419.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/674d84660000000007024419.json"
+    },
+    {
+      "post_id": "675a0333000000000700e871",
+      "content_type": "video",
+      "title": "如何用两封邮件，帮助DTC独立站旺季持续爆单",
+      "body_length": 250,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/675a0333000000000700e871.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/675a0333000000000700e871.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/675a0333000000000700e871.json"
+    },
+    {
+      "post_id": "676c1d1d000000000902f873",
+      "content_type": "image",
+      "title": "圣诞独立站玩法：两个必要元素！",
+      "body_length": 307,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/676c1d1d000000000902f873.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/676c1d1d000000000902f873.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/676c1d1d000000000902f873.json"
+    },
+    {
+      "post_id": "678046dc0000000018011906",
+      "content_type": "image",
+      "title": "KS活动回顾｜深圳DTC加速增长分享会",
+      "body_length": 401,
+      "image_count": 13,
+      "image_with_url": 13,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/678046dc0000000018011906.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/678046dc0000000018011906.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/678046dc0000000018011906.json"
+    },
+    {
+      "post_id": "67843f98000000001a01f0c3",
+      "content_type": "image",
+      "title": "2025年Shopify独立站四大消费趋势预测",
+      "body_length": 267,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67843f98000000001a01f0c3.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67843f98000000001a01f0c3.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67843f98000000001a01f0c3.json"
+    },
+    {
+      "post_id": "67ce908f000000002a00097f",
+      "content_type": "image",
+      "title": "完美落幕！和Shopify出席的CCEE展现场回顾",
+      "body_length": 425,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67ce908f000000002a00097f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67ce908f000000002a00097f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67ce908f000000002a00097f.json"
+    },
+    {
+      "post_id": "67d10123000000000603e225",
+      "content_type": "image",
+      "title": "快来抄作业！跨境新手用DS快速选品避坑",
+      "body_length": 314,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67d10123000000000603e225.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67d10123000000000603e225.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67d10123000000000603e225.json"
+    },
+    {
+      "post_id": "67d7ee9d000000001203ffbd",
+      "content_type": "video",
+      "title": "一招学会提高客单价-捆绑营销",
+      "body_length": 219,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/67d7ee9d000000001203ffbd.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67d7ee9d000000001203ffbd.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67d7ee9d000000001203ffbd.json"
+    },
+    {
+      "post_id": "67dbdd3e000000000e0047a8",
+      "content_type": "image",
+      "title": "快自查！提高客单价的方法你用了吗",
+      "body_length": 281,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67dbdd3e000000000e0047a8.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67dbdd3e000000000e0047a8.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67dbdd3e000000000e0047a8.json"
+    },
+    {
+      "post_id": "67e0aaf0000000001d01f34f",
+      "content_type": "image",
+      "title": "带上你的众筹问题和独立站-首场手术式直播",
+      "body_length": 297,
+      "image_count": 5,
+      "image_with_url": 5,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67e0aaf0000000001d01f34f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67e0aaf0000000001d01f34f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67e0aaf0000000001d01f34f.json"
+    },
+    {
+      "post_id": "67f7bad7000000001d02fdcd",
+      "content_type": "image",
+      "title": "独立站首页设计秘籍（1）-导航栏",
+      "body_length": 385,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/67f7bad7000000001d02fdcd.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67f7bad7000000001d02fdcd.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67f7bad7000000001d02fdcd.json"
+    },
+    {
+      "post_id": "67ff754e000000001202f1b8",
+      "content_type": "video",
+      "title": "一分钟带你了解独立站绕不开的谷歌广告逻辑",
+      "body_length": 161,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/67ff754e000000001202f1b8.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/67ff754e000000001202f1b8.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/67ff754e000000001202f1b8.json"
+    },
+    {
+      "post_id": "68015438000000001c015916",
+      "content_type": "image",
+      "title": "小包裹免税取消？DTC品牌如何打开B端市场",
+      "body_length": 349,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68015438000000001c015916.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68015438000000001c015916.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68015438000000001c015916.json"
+    },
+    {
+      "post_id": "6809ffa1000000001c034855",
+      "content_type": "image",
+      "title": "一篇带你深度拆解Shopify B2B功能",
+      "body_length": 535,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6809ffa1000000001c034855.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6809ffa1000000001c034855.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6809ffa1000000001c034855.json"
+    },
+    {
+      "post_id": "680eff560000000023013f22",
+      "content_type": "image",
+      "title": "独立站首页设计秘籍（2）-公告栏",
+      "body_length": 388,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/680eff560000000023013f22.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/680eff560000000023013f22.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/680eff560000000023013f22.json"
+    },
+    {
+      "post_id": "6812f57c00000000220357af",
+      "content_type": "video",
+      "title": "Kik独家-独立站迁移至Shopify步骤大全",
+      "body_length": 418,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6812f57c00000000220357af.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6812f57c00000000220357af.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6812f57c00000000220357af.json"
+    },
+    {
+      "post_id": "6819c7e70000000022037fc1",
+      "content_type": "image",
+      "title": "独立站首页设计秘籍（3）-首页海报",
+      "body_length": 401,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6819c7e70000000022037fc1.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6819c7e70000000022037fc1.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6819c7e70000000022037fc1.json"
+    },
+    {
+      "post_id": "681ee57e000000002202c100",
+      "content_type": "video",
+      "title": "中美关税-针对独立站卖家的几点建议",
+      "body_length": 524,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/681ee57e000000002202c100.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/681ee57e000000002202c100.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/681ee57e000000002202c100.json"
+    },
+    {
+      "post_id": "6826ec3b00000000230006f9",
+      "content_type": "video",
+      "title": "10个非常推荐的Shopify App，覆盖全链路！",
+      "body_length": 575,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6826ec3b00000000230006f9.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6826ec3b00000000230006f9.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6826ec3b00000000230006f9.json"
+    },
+    {
+      "post_id": "682ed1a90000000023010890",
+      "content_type": "image",
+      "title": "Shopify功能更新|商品积分提醒，提升复购率",
+      "body_length": 221,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/682ed1a90000000023010890.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/682ed1a90000000023010890.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/682ed1a90000000023010890.json"
+    },
+    {
+      "post_id": "68352a1e000000002301fafb",
+      "content_type": "image",
+      "title": "Shopify首页设计秘籍（4）-CTA按钮",
+      "body_length": 281,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68352a1e000000002301fafb.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68352a1e000000002301fafb.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68352a1e000000002301fafb.json"
+    },
+    {
+      "post_id": "6844e8c9000000002301c100",
+      "content_type": "image",
+      "title": "Shopify夏日最新发布会！超强AI系统来啦",
+      "body_length": 490,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6844e8c9000000002301c100.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6844e8c9000000002301c100.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6844e8c9000000002301c100.json"
+    },
+    {
+      "post_id": "6847c9fe0000000023002b51",
+      "content_type": "image",
+      "title": "独立站首页设计秘籍（5）-商品分类",
+      "body_length": 431,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6847c9fe0000000023002b51.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6847c9fe0000000023002b51.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6847c9fe0000000023002b51.json"
+    },
+    {
+      "post_id": "685284a5000000000b02cb58",
+      "content_type": "image",
+      "title": "DTC品牌交流北京站！iBrandi品牌节🎉",
+      "body_length": 865,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/685284a5000000000b02cb58.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/685284a5000000000b02cb58.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/685284a5000000000b02cb58.json"
+    },
+    {
+      "post_id": "6864f3d200000000100267fd",
+      "content_type": "video",
+      "title": "Shopify独立站玩家应该怎么布局Tiktok",
+      "body_length": 90,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6864f3d200000000100267fd.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6864f3d200000000100267fd.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6864f3d200000000100267fd.json"
+    },
+    {
+      "post_id": "686d30a5000000000d019fb2",
+      "content_type": "image",
+      "title": "独立站Footer如何设计？",
+      "body_length": 960,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/686d30a5000000000d019fb2.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/686d30a5000000000d019fb2.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/686d30a5000000000d019fb2.json"
+    },
+    {
+      "post_id": "686ddb21000000000d0186b4",
+      "content_type": "image",
+      "title": "有独立站的快来抄作业！三步让AI主动推荐你",
+      "body_length": 523,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/686ddb21000000000d0186b4.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/686ddb21000000000d0186b4.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/686ddb21000000000d0186b4.json"
+    },
+    {
+      "post_id": "688301d00000000015021d6a",
+      "content_type": "image",
+      "title": "👍真正高转化的独立站，不只追求艺术感",
+      "body_length": 778,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/688301d00000000015021d6a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/688301d00000000015021d6a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/688301d00000000015021d6a.json"
+    },
+    {
+      "post_id": "68874f320000000022032000",
+      "content_type": "image",
+      "title": "独立站中的搜索栏如何设计？",
+      "body_length": 686,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68874f320000000022032000.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68874f320000000022032000.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68874f320000000022032000.json"
+    },
+    {
+      "post_id": "688b33aa000000000500658e",
+      "content_type": "image",
+      "title": "Shopify独立站优化案例（1）-Remilia",
+      "body_length": 552,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/688b33aa000000000500658e.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/688b33aa000000000500658e.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/688b33aa000000000500658e.json"
+    },
+    {
+      "post_id": "688c70d2000000002302a039",
+      "content_type": "image",
+      "title": "Shopify独立站优化案例（2）-Remilia",
+      "body_length": 537,
+      "image_count": 5,
+      "image_with_url": 5,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/688c70d2000000002302a039.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/688c70d2000000002302a039.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/688c70d2000000002302a039.json"
+    },
+    {
+      "post_id": "6890637d00000000220393f6",
+      "content_type": "video",
+      "title": "品牌的价值，就是重复表达一句话",
+      "body_length": 172,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6890637d00000000220393f6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6890637d00000000220393f6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6890637d00000000220393f6.json"
+    },
+    {
+      "post_id": "6891b788000000002501277c",
+      "content_type": "image",
+      "title": "纽约8大品牌闭门论坛，现场精华内容公开！",
+      "body_length": 1013,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6891b788000000002501277c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6891b788000000002501277c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6891b788000000002501277c.json"
+    },
+    {
+      "post_id": "68945cda0000000025028d7d",
+      "content_type": "image",
+      "title": "独立站新手选平台指南，四大主流平台对比",
+      "body_length": 206,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68945cda0000000025028d7d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68945cda0000000025028d7d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68945cda0000000025028d7d.json"
+    },
+    {
+      "post_id": "689b01f1000000001b0204e6",
+      "content_type": "image",
+      "title": "不上车就来不及了！DTC下半年营销日历",
+      "body_length": 226,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/689b01f1000000001b0204e6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/689b01f1000000001b0204e6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/689b01f1000000001b0204e6.json"
+    },
+    {
+      "post_id": "689d95fe000000001d0266cc",
+      "content_type": "image",
+      "title": "转化率提升！宠物品牌优化前后对比（上）",
+      "body_length": 526,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/689d95fe000000001d0266cc.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/689d95fe000000001d0266cc.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/689d95fe000000001d0266cc.json"
+    },
+    {
+      "post_id": "68a0ab70000000001d035447",
+      "content_type": "video",
+      "title": "能出单的Reddit流量！能抓住吗？",
+      "body_length": 110,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/68a0ab70000000001d035447.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a0ab70000000001d035447.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a0ab70000000001d035447.json"
+    },
+    {
+      "post_id": "68a2cc5d000000001b0346b6",
+      "content_type": "image",
+      "title": "Shopify Plus混合店与延展店？B2B怎么选",
+      "body_length": 593,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68a2cc5d000000001b0346b6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a2cc5d000000001b0346b6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a2cc5d000000001b0346b6.json"
+    },
+    {
+      "post_id": "68a57d75000000001b01d6d6",
+      "content_type": "image",
+      "title": "转化率提升！宠物品牌优化前后对比（下）",
+      "body_length": 626,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68a57d75000000001b01d6d6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a57d75000000001b01d6d6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a57d75000000001b01d6d6.json"
+    },
+    {
+      "post_id": "68a9987f000000001d0363c9",
+      "content_type": "video",
+      "title": "独立站长线品牌的秘诀——海外PR",
+      "body_length": 125,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/68a9987f000000001d0363c9.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a9987f000000001d0363c9.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a9987f000000001d0363c9.json"
+    },
+    {
+      "post_id": "68ad0e76000000001b0235c3",
+      "content_type": "image",
+      "title": "谁懂！悄悄在做这些的亚马逊大卖都赢麻了",
+      "body_length": 359,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68ad0e76000000001b0235c3.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68ad0e76000000001b0235c3.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68ad0e76000000001b0235c3.json"
+    },
+    {
+      "post_id": "68b68a51000000001d03a5a4",
+      "content_type": "image",
+      "title": "GA4初学者手册(1)-运营必看的核心指标",
+      "body_length": 381,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68b68a51000000001d03a5a4.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68b68a51000000001d03a5a4.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68b68a51000000001d03a5a4.json"
+    },
+    {
+      "post_id": "68b956c8000000001d003893",
+      "content_type": "image",
+      "title": "谁懂啊！Shopify开店看这里就够了",
+      "body_length": 831,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68b956c8000000001d003893.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68b956c8000000001d003893.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68b956c8000000001d003893.json"
+    },
+    {
+      "post_id": "68ba82ea000000001b033fd8",
+      "content_type": "video",
+      "title": "如何触达？好印象往往由第一次沟通就已形成",
+      "body_length": 234,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/68ba82ea000000001b033fd8.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68ba82ea000000001b033fd8.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68ba82ea000000001b033fd8.json"
+    },
+    {
+      "post_id": "68c29c82000000001c00ae35",
+      "content_type": "image",
+      "title": "火爆电商圈的AI-Agent，独立站怎么用啊？",
+      "body_length": 876,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68c29c82000000001c00ae35.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68c29c82000000001c00ae35.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68c29c82000000001c00ae35.json"
+    },
+    {
+      "post_id": "68c54211000000001d00ce6c",
+      "content_type": "image",
+      "title": "闭门会分享-旺季冲刺",
+      "body_length": 974,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68c54211000000001d00ce6c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68c54211000000001d00ce6c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68c54211000000001d00ce6c.json"
+    },
+    {
+      "post_id": "68d9117e000000001201d5ba",
+      "content_type": "image",
+      "title": "又找到宝了！旺季服装品牌独立站指南",
+      "body_length": 273,
+      "image_count": 13,
+      "image_with_url": 13,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68d9117e000000001201d5ba.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68d9117e000000001201d5ba.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68d9117e000000001201d5ba.json"
+    },
+    {
+      "post_id": "68e7794200000000030387c7",
+      "content_type": "image",
+      "title": "GA4初学者手册（2）-运营必看的核心指标",
+      "body_length": 524,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68e7794200000000030387c7.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68e7794200000000030387c7.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68e7794200000000030387c7.json"
+    },
+    {
+      "post_id": "68ef70840000000007033d04",
+      "content_type": "image",
+      "title": "试过了 超稳的！亚马逊转Shopify流量闭环",
+      "body_length": 439,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68ef70840000000007033d04.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68ef70840000000007033d04.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68ef70840000000007033d04.json"
+    },
+    {
+      "post_id": "68f60d5d000000000500383e",
+      "content_type": "image",
+      "title": "七招制胜（上）POD行业旺季参考答案！",
+      "body_length": 662,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68f60d5d000000000500383e.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68f60d5d000000000500383e.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68f60d5d000000000500383e.json"
+    },
+    {
+      "post_id": "68f9ff01000000000700ed0c",
+      "content_type": "image",
+      "title": "我们正式升级为Shopify Premier伙伴了！",
+      "body_length": 1017,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/68f9ff01000000000700ed0c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68f9ff01000000000700ed0c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68f9ff01000000000700ed0c.json"
+    },
+    {
+      "post_id": "68fcd98c0000000004011e17",
+      "content_type": "video",
+      "title": "扭转TK亏损从搞定达人开始",
+      "body_length": 131,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/68fcd98c0000000004011e17.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68fcd98c0000000004011e17.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68fcd98c0000000004011e17.json"
+    },
+    {
+      "post_id": "6901ea3e00000000070339a9",
+      "content_type": "image",
+      "title": "七招制胜（下）POD行业旺季参考答案！",
+      "body_length": 867,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6901ea3e00000000070339a9.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6901ea3e00000000070339a9.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6901ea3e00000000070339a9.json"
+    },
+    {
+      "post_id": "6909d0f80000000004001fad",
+      "content_type": "image",
+      "title": "后悔没早点发现那么好用的建站工具！",
+      "body_length": 485,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6909d0f80000000004001fad.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6909d0f80000000004001fad.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6909d0f80000000004001fad.json"
+    },
+    {
+      "post_id": "690b284c000000000503261c",
+      "content_type": "video",
+      "title": "GEO绝对是Shopify的一次新机会",
+      "body_length": 143,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/690b284c000000000503261c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/690b284c000000000503261c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/690b284c000000000503261c.json"
+    },
+    {
+      "post_id": "6910205a000000000402104a",
+      "content_type": "image",
+      "title": "没人告诉我还能这样建站啊",
+      "body_length": 185,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6910205a000000000402104a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6910205a000000000402104a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6910205a000000000402104a.json"
+    },
+    {
+      "post_id": "691326cf00000000040221ae",
+      "content_type": "image",
+      "title": "GMV增长100%秘诀-2025黑五大促指南（上）",
+      "body_length": 279,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/691326cf00000000040221ae.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/691326cf00000000040221ae.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/691326cf00000000040221ae.json"
+    },
+    {
+      "post_id": "6916f9670000000005038f07",
+      "content_type": "image",
+      "title": "GMV增长100%秘诀-2025黑五大促指南（下）",
+      "body_length": 269,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6916f9670000000005038f07.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6916f9670000000005038f07.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6916f9670000000005038f07.json"
+    },
+    {
+      "post_id": "6917dcb10000000007016369",
+      "content_type": "video",
+      "title": "最直接的选品策略：很多人都忽略的客户反馈",
+      "body_length": 120,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6917dcb10000000007016369.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6917dcb10000000007016369.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6917dcb10000000007016369.json"
+    },
+    {
+      "post_id": "691ab90b0000000004017e35",
+      "content_type": "image",
+      "title": "✈️转化率翻倍！高转化落地页的五大特点",
+      "body_length": 492,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/691ab90b0000000004017e35.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/691ab90b0000000004017e35.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/691ab90b0000000004017e35.json"
+    },
+    {
+      "post_id": "69255c4b000000000d03cbb6",
+      "content_type": "image",
+      "title": "海外DTC的落地页已经是Next Level",
+      "body_length": 148,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69255c4b000000000d03cbb6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69255c4b000000000d03cbb6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69255c4b000000000d03cbb6.json"
+    },
+    {
+      "post_id": "69280d9a000000001e03a3d0",
+      "content_type": "image",
+      "title": "产品页布局升级，加购率提升50%🆙",
+      "body_length": 808,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69280d9a000000001e03a3d0.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69280d9a000000001e03a3d0.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69280d9a000000001e03a3d0.json"
+    },
+    {
+      "post_id": "692ac8b5000000001b0332d3",
+      "content_type": "video",
+      "title": "太能打了。。两款超适合独立站用的AI",
+      "body_length": 177,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/692ac8b5000000001b0332d3.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/692ac8b5000000001b0332d3.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/692ac8b5000000001b0332d3.json"
+    },
+    {
+      "post_id": "692fede0000000001f006807",
+      "content_type": "image",
+      "title": "Shopify黑五炫酷实时地图背后的机会与趋势",
+      "body_length": 500,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/692fede0000000001f006807.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/692fede0000000001f006807.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/692fede0000000001f006807.json"
+    },
+    {
+      "post_id": "69364bc2000000001e02ec3d",
+      "content_type": "image",
+      "title": "砸钱买增长的时代已经过去了",
+      "body_length": 930,
+      "image_count": 14,
+      "image_with_url": 14,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69364bc2000000001e02ec3d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69364bc2000000001e02ec3d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69364bc2000000001e02ec3d.json"
+    },
+    {
+      "post_id": "693bdd57000000001e0141f4",
+      "content_type": "image",
+      "title": "首屏布局升级，信任度直接拉满⚡️",
+      "body_length": 800,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/693bdd57000000001e0141f4.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/693bdd57000000001e0141f4.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/693bdd57000000001e0141f4.json"
+    },
+    {
+      "post_id": "693e46eb000000001e032bfe",
+      "content_type": "video",
+      "title": "事半功倍的思路=让出海这件事更简单",
+      "body_length": 197,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/693e46eb000000001e032bfe.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/693e46eb000000001e032bfe.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/693e46eb000000001e032bfe.json"
+    },
+    {
+      "post_id": "693fbd62000000001f00d59b",
+      "content_type": "image",
+      "title": "学会用Email Popup=抓住更多回购",
+      "body_length": 399,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/693fbd62000000001f00d59b.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/693fbd62000000001f00d59b.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/693fbd62000000001f00d59b.json"
+    },
+    {
+      "post_id": "6949e83e000000001b02240d",
+      "content_type": "image",
+      "title": "文艺复兴！2026 winter已正式上线",
+      "body_length": 444,
+      "image_count": 16,
+      "image_with_url": 16,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6949e83e000000001b02240d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6949e83e000000001b02240d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6949e83e000000001b02240d.json"
+    },
+    {
+      "post_id": "695cbad0000000001a02a281",
+      "content_type": "image",
+      "title": "万万没想到！SEO优化后效果好了不止一点点",
+      "body_length": 406,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/695cbad0000000001a02a281.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/695cbad0000000001a02a281.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/695cbad0000000001a02a281.json"
+    },
+    {
+      "post_id": "6960d8ff000000000e00ded0",
+      "content_type": "image",
+      "title": "独立站转化率提升只是因为做了这些调整？",
+      "body_length": 792,
+      "image_count": 5,
+      "image_with_url": 5,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6960d8ff000000000e00ded0.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6960d8ff000000000e00ded0.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6960d8ff000000000e00ded0.json"
+    },
+    {
+      "post_id": "6984177a000000002103d962",
+      "content_type": "image",
+      "title": "EDM邮件弹窗（下）热门常见的类型分享",
+      "body_length": 546,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6984177a000000002103d962.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6984177a000000002103d962.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6984177a000000002103d962.json"
+    },
+    {
+      "post_id": "69854c4f000000000e03f241",
+      "content_type": "image",
+      "title": "用户卡在购物车？问题往往在这一步",
+      "body_length": 956,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69854c4f000000000e03f241.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69854c4f000000000e03f241.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69854c4f000000000e03f241.json"
+    },
+    {
+      "post_id": "698b0958000000001d026bd8",
+      "content_type": "image",
+      "title": "Kikstart Ecom独立站品牌策划经理招",
+      "body_length": 599,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/698b0958000000001d026bd8.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/698b0958000000001d026bd8.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/698b0958000000001d026bd8.json"
+    },
+    {
+      "post_id": "699d1d6c000000001d012a2d",
+      "content_type": "image",
+      "title": "初八开工大吉！",
+      "body_length": 133,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/699d1d6c000000001d012a2d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/699d1d6c000000001d012a2d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/699d1d6c000000001d012a2d.json"
+    },
+    {
+      "post_id": "69aa9c78000000000d008501",
+      "content_type": "image",
+      "title": "4个优化细节，独立站购物车转化率提高50%",
+      "body_length": 638,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69aa9c78000000000d008501.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69aa9c78000000000d008501.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69aa9c78000000000d008501.json"
+    },
+    {
+      "post_id": "69b29d13000000002603198f",
+      "content_type": "image",
+      "title": "这下知道了！优化产品类目页还可以提升销量",
+      "body_length": 464,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69b29d13000000002603198f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69b29d13000000002603198f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69b29d13000000002603198f.json"
+    },
+    {
+      "post_id": "69bd0ce40000000023004f48",
+      "content_type": "image",
+      "title": "结帐方式变天，plus商家快自查",
+      "body_length": 567,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69bd0ce40000000023004f48.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69bd0ce40000000023004f48.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69bd0ce40000000023004f48.json"
+    },
+    {
+      "post_id": "69c49ee4000000002101037f",
+      "content_type": "video",
+      "title": "AI又有大动作！从推荐商品到直接结帐",
+      "body_length": 62,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/69c49ee4000000002101037f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69c49ee4000000002101037f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69c49ee4000000002101037f.json"
+    },
+    {
+      "post_id": "69d77c0a000000001d01b312",
+      "content_type": "image",
+      "title": "网站转化率低？深度拆解珠宝网站可提升亮点",
+      "body_length": 488,
+      "image_count": 14,
+      "image_with_url": 14,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69d77c0a000000001d01b312.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69d77c0a000000001d01b312.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69d77c0a000000001d01b312.json"
+    },
+    {
+      "post_id": "69df0eec000000001b003ab5",
+      "content_type": "image",
+      "title": "新上线！Shopify自有的AI素材免费制作平台",
+      "body_length": 498,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69df0eec000000001b003ab5.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69df0eec000000001b003ab5.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69df0eec000000001b003ab5.json"
+    },
+    {
+      "post_id": "69e1f6660000000023015025",
+      "content_type": "image",
+      "title": "扒了一个珠宝页，发现8个被忽略的转化细节",
+      "body_length": 250,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69e1f6660000000023015025.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e1f6660000000023015025.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e1f6660000000023015025.json"
+    },
+    {
+      "post_id": "69e5ebb40000000021010524",
+      "content_type": "image",
+      "title": "Shopify部分B2B功能开放，非Plus也可以用！",
+      "body_length": 177,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69e5ebb40000000021010524.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e5ebb40000000021010524.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e5ebb40000000021010524.json"
+    },
+    {
+      "post_id": "69e9bfe9000000001f030c03",
+      "content_type": "image",
+      "title": "Kik入选「百川 Plus+ 服务商推荐榜单」",
+      "body_length": 444,
+      "image_count": 5,
+      "image_with_url": 5,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69e9bfe9000000001f030c03.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e9bfe9000000001f030c03.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e9bfe9000000001f030c03.json"
+    },
+    {
+      "post_id": "69f1e1530000000037034adb",
+      "content_type": "image",
+      "title": "保姆级教程！Shopify的Shop App优化指南",
+      "body_length": 162,
+      "image_count": 16,
+      "image_with_url": 16,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69f1e1530000000037034adb.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69f1e1530000000037034adb.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69f1e1530000000037034adb.json"
+    },
+    {
+      "post_id": "69f3403c0000000038036bb6",
+      "content_type": "image",
+      "title": "💎高信任+情绪价值是高客单的必经之路",
+      "body_length": 283,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/69f3403c0000000038036bb6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69f3403c0000000038036bb6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69f3403c0000000038036bb6.json"
+    },
+    {
+      "post_id": "69fbed72000000003501ee16",
+      "content_type": "video",
+      "title": "Shopify升级新版账户了，8步实现无缝升级",
+      "body_length": 191,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/69fbed72000000003501ee16.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69fbed72000000003501ee16.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69fbed72000000003501ee16.json"
+    },
+    {
+      "post_id": "6a01a73e0000000036030173",
+      "content_type": "image",
+      "title": "做增长，也做真正能转化的网站🔥🔥",
+      "body_length": 879,
+      "image_count": 8,
+      "image_with_url": 8,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a01a73e0000000036030173.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a01a73e0000000036030173.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a01a73e0000000036030173.json"
+    },
+    {
+      "post_id": "6a0c3df20000000035024f6c",
+      "content_type": "image",
+      "title": "大脑换成Claude会发生什么？Shopify速递",
+      "body_length": 463,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a0c3df20000000035024f6c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a0c3df20000000035024f6c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a0c3df20000000035024f6c.json"
+    },
+    {
+      "post_id": "6a0ee3490000000006033393",
+      "content_type": "image",
+      "title": "转化率提升30%！10个产品页优化细节揭秘",
+      "body_length": 192,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a0ee3490000000006033393.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a0ee3490000000006033393.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a0ee3490000000006033393.json"
+    },
+    {
+      "post_id": "6a141182000000003503a69d",
+      "content_type": "image",
+      "title": "扩展业务怎么选多店铺形式？决定未来业绩",
+      "body_length": 691,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a141182000000003503a69d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a141182000000003503a69d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a141182000000003503a69d.json"
+    },
+    {
+      "post_id": "6a17c4b8000000003601e463",
+      "content_type": "video",
+      "title": "转化率提升 30%+ 的 Shopify AI 智能体",
+      "body_length": 872,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a17c4b8000000003601e463.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a17c4b8000000003601e463.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a17c4b8000000003601e463.json"
+    },
+    {
+      "post_id": "6a19695b0000000008030222",
+      "content_type": "image",
+      "title": "Shopify新功能Rollouts：让独立站改版更稳",
+      "body_length": 708,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a19695b0000000008030222.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a19695b0000000008030222.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a19695b0000000008030222.json"
+    },
+    {
+      "post_id": "6a1d5df9000000000603606e",
+      "content_type": "video",
+      "title": "从0搭建邮件营销体系：拆解竞品，边学边做",
+      "body_length": 219,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a1d5df9000000000603606e.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a1d5df9000000000603606e.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a1d5df9000000000603606e.json"
+    },
+    {
+      "post_id": "6a1eb23e0000000006022f01",
+      "content_type": "video",
+      "title": "只改动一个按钮，产品页转化率提升4.2%！",
+      "body_length": 869,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a1eb23e0000000006022f01.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a1eb23e0000000006022f01.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a1eb23e0000000006022f01.json"
+    },
+    {
+      "post_id": "6a26ad4a00000000210200ed",
+      "content_type": "image",
+      "title": "为什么不懂CRO的独立站注定越改越迷茫？",
+      "body_length": 397,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a26ad4a00000000210200ed.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a26ad4a00000000210200ed.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a26ad4a00000000210200ed.json"
+    },
+    {
+      "post_id": "6a27d21f000000002101648d",
+      "content_type": "video",
+      "title": "穿戴甲出海这么卷，她是怎么破圈的？",
+      "body_length": 143,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a27d21f000000002101648d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a27d21f000000002101648d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a27d21f000000002101648d.json"
+    },
+    {
+      "post_id": "6a28dcfc000000002101b3a6",
+      "content_type": "image",
+      "title": "我们招人啦！成都/杭州品牌设计师看过来！",
+      "body_length": 49,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a28dcfc000000002101b3a6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a28dcfc000000002101b3a6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a28dcfc000000002101b3a6.json"
+    },
+    {
+      "post_id": "6a2a763e0000000035028035",
+      "content_type": "video",
+      "title": "只需一个页面，把路人变成品牌死忠粉",
+      "body_length": 668,
+      "image_count": 4,
+      "image_with_url": 4,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a2a763e0000000035028035.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a2a763e0000000035028035.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a2a763e0000000035028035.json"
+    },
+    {
+      "post_id": "6a2ff5a90000000008003b81",
+      "content_type": "image",
+      "title": "和转化有关！10个无障碍Shopify独立站优化",
+      "body_length": 242,
+      "image_count": 18,
+      "image_with_url": 18,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a2ff5a90000000008003b81.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a2ff5a90000000008003b81.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a2ff5a90000000008003b81.json"
+    },
+    {
+      "post_id": "6a31267e000000001702dec9",
+      "content_type": "video",
+      "title": "很多坑，只有真正开始做了才会遇到。",
+      "body_length": 255,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a31267e000000001702dec9.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a31267e000000001702dec9.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a31267e000000001702dec9.json"
+    },
+    {
+      "post_id": "6a327fbb000000000f017f38",
+      "content_type": "image",
+      "title": "解放双手！11个热门Shopify Flow自动流分享",
+      "body_length": 311,
+      "image_count": 15,
+      "image_with_url": 15,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a327fbb000000000f017f38.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a327fbb000000000f017f38.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a327fbb000000000f017f38.json"
+    },
+    {
+      "post_id": "6a3a70d0000000000f031f6f",
+      "content_type": "image",
+      "title": "不搞虚的，12个适合Shopify的Claude Skill",
+      "body_length": 278,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a3a70d0000000000f031f6f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a3a70d0000000000f031f6f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a3a70d0000000000f031f6f.json"
+    },
+    {
+      "post_id": "6a3cb5fb000000000f029af9",
+      "content_type": "video",
+      "title": "独立站Annoucement Bar一键复制优惠码，转化提升6.2%！",
+      "body_length": 724,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a3cb5fb000000000f029af9.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a3cb5fb000000000f029af9.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a3cb5fb000000000f029af9.json"
+    },
+    {
+      "post_id": "6a4353360000000011012131",
+      "content_type": "video",
+      "title": "如何让站内的每一分流量最大化，Kik的Steve针对CRO（转化率优化）全流程进",
+      "body_length": 108,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a4353360000000011012131.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4353360000000011012131.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4353360000000011012131.json"
+    },
+    {
+      "post_id": "6a43b8c5000000000f0316ba",
+      "content_type": "image",
+      "title": "Shopify 150+八大功能更新，无处不在！",
+      "body_length": 497,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a43b8c5000000000f0316ba.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a43b8c5000000000f0316ba.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a43b8c5000000000f0316ba.json"
+    },
+    {
+      "post_id": "6a4790e3000000000f028545",
+      "content_type": "image",
+      "title": "90%的独立站PDP，都缺这6样东西中的至少1个",
+      "body_length": 504,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a4790e3000000000f028545.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4790e3000000000f028545.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4790e3000000000f028545.json"
+    },
+    {
+      "post_id": "6a4ca12e000000000803d00a",
+      "content_type": "image",
+      "title": "Shopify月访不到30万，别乱做A/B Test",
+      "body_length": 688,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a4ca12e000000000803d00a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4ca12e000000000803d00a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4ca12e000000000803d00a.json"
+    },
+    {
+      "post_id": "6a4e36a8000000001603c07a",
+      "content_type": "image",
+      "title": "Shopify运营注意，产品页这5个细节在漏单",
+      "body_length": 331,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a4e36a8000000001603c07a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a4e36a8000000001603c07a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a4e36a8000000001603c07a.json"
+    },
+    {
+      "post_id": "6a50d1060000000008003b71",
+      "content_type": "video",
+      "title": "Shopify改一个按钮，就让长PDP收入+4.3%",
+      "body_length": 482,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a50d1060000000008003b71.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a50d1060000000008003b71.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a50d1060000000008003b71.json"
+    },
+    {
+      "post_id": "6a5771020000000008031bf5",
+      "content_type": "image",
+      "title": "人体工学椅独立站产品页，5大亮点优化拆解",
+      "body_length": 405,
+      "image_count": 6,
+      "image_with_url": 6,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a5771020000000008031bf5.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a5771020000000008031bf5.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a5771020000000008031bf5.json"
+    },
+    {
+      "post_id": "6a58b83f000000000c014e91",
+      "content_type": "video",
+      "title": "Shopify独立站正式进入Agentic时代：AI渠道数据可直接管理",
+      "body_length": 610,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a58b83f000000000c014e91.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a58b83f000000000c014e91.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a58b83f000000000c014e91.json"
+    },
+    {
+      "post_id": "6a59f3bf000000000100c507",
+      "content_type": "video",
+      "title": "2026年，我们如何使用 AI 赋能独立站交付？",
+      "body_length": 270,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a59f3bf000000000100c507.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a59f3bf000000000100c507.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a59f3bf000000000100c507.json"
+    },
+    {
+      "post_id": "6a5f4fa3000000001102e3c3",
+      "content_type": "image",
+      "title": "Shopify有流量，为什么没有转化？7大核心",
+      "body_length": 331,
+      "image_count": 19,
+      "image_with_url": 19,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a5f4fa3000000001102e3c3.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a5f4fa3000000001102e3c3.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a5f4fa3000000001102e3c3.json"
+    },
+    {
+      "post_id": "6a61f4c3000000000503bf55",
+      "content_type": "video",
+      "title": "独立站PDP转化+4.5%，只因1个徽章",
+      "body_length": 382,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a61f4c3000000000503bf55.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a61f4c3000000000503bf55.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a61f4c3000000000503bf55.json"
+    },
+    {
+      "post_id": "6a672e68000000000402a97a",
+      "content_type": "video",
+      "title": "拆解3个8位数的独立站，发现了他们共同点",
+      "body_length": 465,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a672e68000000000402a97a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a672e68000000000402a97a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a672e68000000000402a97a.json"
+    },
+    {
+      "post_id": "6a689947000000000f004258",
+      "content_type": "image",
+      "title": "2027独立站转化率优化白皮书",
+      "body_length": 709,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a689947000000000f004258.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a689947000000000f004258.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a689947000000000f004258.json"
+    },
+    {
+      "post_id": "6a6b288800000000320323a5",
+      "content_type": "image",
+      "title": "独立站别乱用横向栏，3类信息影响下单",
+      "body_length": 921,
+      "image_count": 4,
+      "image_with_url": 4,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a6b288800000000320323a5.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a6b288800000000320323a5.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a6b288800000000320323a5.json"
+    },
+    {
+      "post_id": "6a6c6d41000000002403d497",
+      "content_type": "video",
+      "title": "这次的独立站改版，效果有亿点酷炫",
+      "body_length": 194,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a6c6d41000000002403d497.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a6c6d41000000002403d497.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a6c6d41000000002403d497.json"
+    },
+    {
+      "post_id": "6a707317000000003300ad2c",
+      "content_type": "video",
+      "title": "独立站把FAQ上移一屏，竟然多卖4.6%",
+      "body_length": 383,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a707317000000003300ad2c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a707317000000003300ad2c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a707317000000003300ad2c.json"
+    },
+    {
+      "post_id": "6a71c18d0000000021020d30",
+      "content_type": "image",
+      "title": "未来五大信号释放，Shopify现场直击",
+      "body_length": 866,
+      "image_count": 11,
+      "image_with_url": 11,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a71c18d0000000021020d30.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a71c18d0000000021020d30.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a71c18d0000000021020d30.json"
+    },
+    {
+      "post_id": "6a7474520000000021022aa5",
+      "content_type": "video",
+      "title": "6周上线，独立站转化+23%，我们改了哪些？",
+      "body_length": 763,
+      "image_count": 12,
+      "image_with_url": 12,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a7474520000000021022aa5.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a7474520000000021022aa5.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a7474520000000021022aa5.json"
+    },
+    {
+      "post_id": "6a75d81f00000000260371ee",
+      "content_type": "image",
+      "title": "超省事的小优化：Shopify结账页➕3个细节",
+      "body_length": 421,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a75d81f00000000260371ee.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a75d81f00000000260371ee.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a75d81f00000000260371ee.json"
+    },
+    {
+      "post_id": "6a79b65600000000220305bc",
+      "content_type": "image",
+      "title": "93个落地页，让我看到了什么叫专业的 CRO",
+      "body_length": 806,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a79b65600000000220305bc.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a79b65600000000220305bc.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a79b65600000000220305bc.json"
+    },
+    {
+      "post_id": "6a7b064b0000000029032903",
+      "content_type": "video",
+      "title": "独立站人一手资讯——2027年白皮书",
+      "body_length": 402,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a7b064b0000000029032903.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a7b064b0000000029032903.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a7b064b0000000029032903.json"
+    },
+    {
+      "post_id": "6a7ec59300000000080119c7",
+      "content_type": "image",
+      "title": "用AI定制Shopify购物车，客单价提升11%",
+      "body_length": 410,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a7ec59300000000080119c7.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a7ec59300000000080119c7.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a7ec59300000000080119c7.json"
+    },
+    {
+      "post_id": "6a82f66a000000000502b02d",
+      "content_type": "image",
+      "title": "借助Shopify打开B端市场，6大核心增长",
+      "body_length": 445,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a82f66a000000000502b02d.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a82f66a000000000502b02d.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a82f66a000000000502b02d.json"
+    },
+    {
+      "post_id": "6a83b535000000002402c72b",
+      "content_type": "image",
+      "title": "独立站多1个问题，反而更容易拿到邮箱？",
+      "body_length": 537,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a83b535000000002402c72b.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a83b535000000002402c72b.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a83b535000000002402c72b.json"
+    },
+    {
+      "post_id": "6a843d380000000025000c5c",
+      "content_type": "video",
+      "title": "未来2年，Shopify转化增长正在拉开差距",
+      "body_length": 459,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a843d380000000025000c5c.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a843d380000000025000c5c.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a843d380000000025000c5c.json"
+    },
+    {
+      "post_id": "6a880744000000001b02b2b2",
+      "content_type": "video",
+      "title": "一步让独立站收集邮箱率+70%——刮刮卡弹窗",
+      "body_length": 727,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a880744000000001b02b2b2.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a880744000000001b02b2b2.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a880744000000001b02b2b2.json"
+    },
+    {
+      "post_id": "6a8d4198000000000f03a400",
+      "content_type": "image",
+      "title": "AI订单增长13倍，你的独立站还搜不到？",
+      "body_length": 238,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a8d4198000000000f03a400.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a8d4198000000000f03a400.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a8d4198000000000f03a400.json"
+    },
+    {
+      "post_id": "6a8fa4a0000000000e03c800",
+      "content_type": "image",
+      "title": "独立站首屏缩小一半，单客+69.54%",
+      "body_length": 572,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a8fa4a0000000000e03c800.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a8fa4a0000000000e03c800.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a8fa4a0000000000e03c800.json"
+    },
+    {
+      "post_id": "6a917a0a0000000012011cd5",
+      "content_type": "image",
+      "title": "独立站转平台后，转化提升40%",
+      "body_length": 759,
+      "image_count": 10,
+      "image_with_url": 10,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a917a0a0000000012011cd5.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a917a0a0000000012011cd5.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a917a0a0000000012011cd5.json"
+    },
+    {
+      "post_id": "6a95631a00000000370366db",
+      "content_type": "video",
+      "title": "Shopify更改配送时间，转化率+6%！",
+      "body_length": 459,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a95631a00000000370366db.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a95631a00000000370366db.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a95631a00000000370366db.json"
+    },
+    {
+      "post_id": "6a97f9290000000037030135",
+      "content_type": "image",
+      "title": "Shopify转化掉了？先自查这4步",
+      "body_length": 641,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6a97f9290000000037030135.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a97f9290000000037030135.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a97f9290000000037030135.json"
+    },
+    {
+      "post_id": "6a9954e9000000003703585a",
+      "content_type": "video",
+      "title": "Shopify又一重磅AI动作，购物车规模提升35%",
+      "body_length": 754,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6a9954e9000000003703585a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a9954e9000000003703585a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a9954e9000000003703585a.json"
+    },
+    {
+      "post_id": "6aa2a00800000000140101a1",
+      "content_type": "image",
+      "title": "户外装备独立站Audit，7个细节或许提升转化",
+      "body_length": 359,
+      "image_count": 7,
+      "image_with_url": 7,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6aa2a00800000000140101a1.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aa2a00800000000140101a1.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aa2a00800000000140101a1.json"
+    },
+    {
+      "post_id": "6aa91e57000000000d0200ce",
+      "content_type": "image",
+      "title": "Q4 Shopify高转化落地页设计开发-2.5k$",
+      "body_length": 490,
+      "image_count": 17,
+      "image_with_url": 17,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6aa91e57000000000d0200ce.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aa91e57000000000d0200ce.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aa91e57000000000d0200ce.json"
+    },
+    {
+      "post_id": "6aaaacc70000000019025346",
+      "content_type": "video",
+      "title": "女装独立站转化+4.8%，只因加了尺码参照",
+      "body_length": 248,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6aaaacc70000000019025346.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aaaacc70000000019025346.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aaaacc70000000019025346.json"
+    },
+    {
+      "post_id": "6aabf2150000000014013c6b",
+      "content_type": "image",
+      "title": "独立站首页和详情页，2个页面别做反",
+      "body_length": 282,
+      "image_count": 4,
+      "image_with_url": 4,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6aabf2150000000014013c6b.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aabf2150000000014013c6b.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aabf2150000000014013c6b.json"
+    },
+    {
+      "post_id": "6aafe4960000000014011ccc",
+      "content_type": "image",
+      "title": "Shopify 主题迎来2个重要变化",
+      "body_length": 471,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6aafe4960000000014011ccc.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aafe4960000000014011ccc.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aafe4960000000014011ccc.json"
+    },
+    {
+      "post_id": "6ab283360000000014010952",
+      "content_type": "image",
+      "title": "Horizon加上这5项功能，独立站搭建更灵活",
+      "body_length": 509,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ab283360000000014010952.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ab283360000000014010952.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ab283360000000014010952.json"
+    },
+    {
+      "post_id": "6abb96380000000019027535",
+      "content_type": "image",
+      "title": "Shopify多币种易忽略的一个细节：金额换算",
+      "body_length": 454,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6abb96380000000019027535.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6abb96380000000019027535.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6abb96380000000019027535.json"
+    },
+    {
+      "post_id": "6abcb734000000000d00b945",
+      "content_type": "video",
+      "title": "黑五前必看-16个高转化独立站 Landing Page",
+      "body_length": 195,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6abcb734000000000d00b945.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6abcb734000000000d00b945.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6abcb734000000000d00b945.json"
+    },
+    {
+      "post_id": "6ac8bf3f000000001401206a",
+      "content_type": "image",
+      "title": "Shopify无须手动退货，3个功能值得开启",
+      "body_length": 492,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ac8bf3f000000001401206a.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ac8bf3f000000001401206a.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ac8bf3f000000001401206a.json"
+    },
+    {
+      "post_id": "6acc7e630000000014012067",
+      "content_type": "video",
+      "title": "Shopify转化率+27%，Offer发挥旺季优势",
+      "body_length": 161,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6acc7e630000000014012067.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6acc7e630000000014012067.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6acc7e630000000014012067.json"
+    },
+    {
+      "post_id": "6accb56c000000001901e054",
+      "content_type": "video",
+      "title": "🛒跟练版！高转化Shopify购物车的5个设置",
+      "body_length": 612,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6accb56c000000001901e054.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6accb56c000000001901e054.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6accb56c000000001901e054.json"
+    },
+    {
+      "post_id": "6ace00d400000000190250ad",
+      "content_type": "video",
+      "title": "结账率提升35%📈，Shopify产品页关键调整",
+      "body_length": 464,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6ace00d400000000190250ad.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ace00d400000000190250ad.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ace00d400000000190250ad.json"
+    },
+    {
+      "post_id": "6acf5a000000000014010d73",
+      "content_type": "image",
+      "title": "Kik正式晋升Shopify最高合作伙伴等级🏆",
+      "body_length": 703,
+      "image_count": 3,
+      "image_with_url": 3,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6acf5a000000000014010d73.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6acf5a000000000014010d73.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6acf5a000000000014010d73.json"
+    },
+    {
+      "post_id": "6ad05180000000001a01eaa6",
+      "content_type": "video",
+      "title": "200+品牌认可，Kik专注Shopify转化率优化",
+      "body_length": 564,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6ad05180000000001a01eaa6.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad05180000000001a01eaa6.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad05180000000001a01eaa6.json"
+    },
+    {
+      "post_id": "6ad1c07c00000000140101ee",
+      "content_type": "image",
+      "title": "7步产品图优化，为啥别人的Shopify更易出单",
+      "body_length": 993,
+      "image_count": 4,
+      "image_with_url": 4,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ad1c07c00000000140101ee.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad1c07c00000000140101ee.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad1c07c00000000140101ee.json"
+    },
+    {
+      "post_id": "6ad59dd900000000190241fc",
+      "content_type": "image",
+      "title": "不用找了！Shopify超实用的7个AI运营场景",
+      "body_length": 951,
+      "image_count": 4,
+      "image_with_url": 4,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ad59dd900000000190241fc.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad59dd900000000190241fc.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad59dd900000000190241fc.json"
+    },
+    {
+      "post_id": "6ad5ed4c000000001a0137ca",
+      "content_type": "image",
+      "title": "转化率+19.4%！5类Shopify A/B测试思路",
+      "body_length": 497,
+      "image_count": 15,
+      "image_with_url": 15,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ad5ed4c000000001a0137ca.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad5ed4c000000001a0137ca.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad5ed4c000000001a0137ca.json"
+    },
+    {
+      "post_id": "6ad73a27000000000d020060",
+      "content_type": "image",
+      "title": "Shopify结账页遭劫持？这5款App值得排查",
+      "body_length": 463,
+      "image_count": 9,
+      "image_with_url": 9,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ad73a27000000000d020060.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad73a27000000000d020060.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad73a27000000000d020060.json"
+    },
+    {
+      "post_id": "6ad85e67000000000d028170",
+      "content_type": "video",
+      "title": "转化提升94%，智能独立站应突出哪些细节？",
+      "body_length": 663,
+      "image_count": 1,
+      "image_with_url": 1,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6ad85e67000000000d028170.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad85e67000000000d028170.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad85e67000000000d028170.json"
+    },
+    {
+      "post_id": "6ad9abd2000000001a01de48",
+      "content_type": "video",
+      "title": "访客看完就走？黑五试试这4类Shopify落地页",
+      "body_length": 429,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6ad9abd2000000001a01de48.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad9abd2000000001a01de48.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad9abd2000000001a01de48.json"
+    },
+    {
+      "post_id": "6ad9ec5500000000190249a3",
+      "content_type": "image",
+      "title": "独立站A/B测试长期优化转化率（$3.5K/月）",
+      "body_length": 602,
+      "image_count": 17,
+      "image_with_url": 17,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ad9ec5500000000190249a3.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad9ec5500000000190249a3.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad9ec5500000000190249a3.json"
+    },
+    {
+      "post_id": "6adae2a60000000019032f3f",
+      "content_type": "video",
+      "title": "抄作业！8位数品牌在用的Shopify购物车抽屉",
+      "body_length": 371,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6adae2a60000000019032f3f.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6adae2a60000000019032f3f.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6adae2a60000000019032f3f.json"
+    },
+    {
+      "post_id": "6adf2f600000000019032a84",
+      "content_type": "video",
+      "title": "转化率提升近10倍！15处Shopify优化拆解",
+      "body_length": 738,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6adf2f600000000019032a84.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6adf2f600000000019032a84.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6adf2f600000000019032a84.json"
+    },
+    {
+      "post_id": "6ae0954f00000000190306ae",
+      "content_type": "video",
+      "title": "12个2027年独立站蓝海品类，你在牌桌上吗？",
+      "body_length": 215,
+      "image_count": 1,
+      "image_with_url": 1,
+      "has_video": true,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at",
+        "video_transcript"
+      ],
+      "path": "posts/6ae0954f00000000190306ae.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae0954f00000000190306ae.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae0954f00000000190306ae.json"
+    },
+    {
+      "post_id": "6ae1c8360000000019024b14",
+      "content_type": "video",
+      "title": "卖贵了还是卖便宜了？4步Shopify帮你测",
+      "body_length": 680,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6ae1c8360000000019024b14.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae1c8360000000019024b14.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae1c8360000000019024b14.json"
+    },
+    {
+      "post_id": "6ae46f23000000000d020cc1",
+      "content_type": "video",
+      "title": "Kik自研Shopify Headless七大功能",
+      "body_length": 663,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6ae46f23000000000d020cc1.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae46f23000000000d020cc1.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae46f23000000000d020cc1.json"
+    },
+    {
+      "post_id": "6ae862fc00000000190398b8",
+      "content_type": "image",
+      "title": "旺季独立站转化率：改这3处，减少下单顾虑",
+      "body_length": 640,
+      "image_count": 14,
+      "image_with_url": 14,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ae862fc00000000190398b8.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae862fc00000000190398b8.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae862fc00000000190398b8.json"
+    },
+    {
+      "post_id": "6ae863cb000000001400dc9b",
+      "content_type": "image",
+      "title": "11月10日前需下单，Shopify 落地页",
+      "body_length": 373,
+      "image_count": 13,
+      "image_with_url": 13,
+      "has_video": false,
+      "collected_at": "2026-11-03T11:22:36+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "image_text",
+        "published_at"
+      ],
+      "path": "posts/6ae863cb000000001400dc9b.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae863cb000000001400dc9b.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae863cb000000001400dc9b.json"
+    }
+  ]
+}

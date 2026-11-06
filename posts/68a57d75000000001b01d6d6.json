@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68a57d75000000001b01d6d6",
+  "url": "https://www.xiaohongshu.com/explore/68a57d75000000001b01d6d6",
+  "title": "转化率提升！宠物品牌优化前后对比（下）",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Kikstart Ecom为宠物品牌Fidapet进行网站升级，从导航结构、首屏布局、信任背书、卖点呈现、购买流程、详情页体验、品牌故和购物车加购等九个方面进行全面改进。上一期我们分享了前四项，本期分享后面五项。\n\t\n五、卖点优先展示\n❌优化前：首屏仅显示标题与价格，核心卖点需滚动才能看到。\n✅优化后：将产品关键卖点放在首屏显眼位置，让用户第一时间获取核心价值，促使下单。\n\t\n六、产品标题与购买按钮优化\n❌优化前：评分位置靠后，标题字号小，购物车按钮位置不固定且面积小。\n✅优化后：将评分提前展示，放大产品标题，底部固定醒目的购物车按钮并扩大点击区域，提升易用性与转化率。\n\t\n七、详情页导航与内容呈现优化\n❌优化前：导航为静态标签，文字冗长缺乏视觉辅助。\n✅优化后：改为跟随式导航，用户可随时跳转所需信息；将文字改为图文搭配，提升可读性与视觉吸引力。\n\t\n八、品牌故事强化\n❌优化前：About Us 页面为长段文字，关键信息埋在内容深处，缺乏视觉冲击。\n✅优化后：以图片配合“30年经验”等核心卖点，让品牌资历与专业形象在首屏即可传达。\n\t\n九、购物车附加销售优化\n❌优化前：购物车仅显示已选商品，缺乏附加销售机会。\n✅优化后：优化购物车，加入“Frequently Bought Together”捆绑推荐，提高客单价与整体销售额。\n\t\n﻿#CRO﻿ ﻿#Shopify独立站﻿ ﻿#kikstartecom﻿ ﻿#网站设计﻿ ﻿#独立站优化",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/d8ad998ed67a2425909bc008f555186c/spectrum/1040g0k031ld9jqoe4s105oi5b07k1v77sl5dhv8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/58d8733dccc5517771c29331fa9334a7/spectrum/1040g0k031ld9jqoe4s2g5oi5b07k1v77n1n9agg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/9a4c31946c0497063d6d70f2217a3215/spectrum/1040g0k031ld9jqoe4s305oi5b07k1v77uibv1i8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/91175c7b2c5354721ea63873e04b807d/spectrum/1040g0k031ld9jqoe4s3g5oi5b07k1v77ervha18!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/3878e809b6cd65d7d8af48095cf7e8f0/spectrum/1040g0k031ld9jqoe4s005oi5b07k1v77kcah1vg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/d8ad998ed67a2425909bc008f555186c/spectrum/1040g0k031ld9jqoe4s105oi5b07k1v77sl5dhv8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031116/58d8733dccc5517771c29331fa9334a7/spectrum/1040g0k031ld9jqoe4s2g5oi5b07k1v77n1n9agg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "3",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "d403ee5f7c984acc060d7d566dfb787cf290621ea439b73c5597dbe490a7f508",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-08-20",
+    "index_xsec_token": "AB1-_MRVs9yurzXGfQB8b8eo08GwovgaJvIo57yvaSj9A=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-08-20"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a57d75000000001b01d6d6.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a57d75000000001b01d6d6.json"
+  }
+}

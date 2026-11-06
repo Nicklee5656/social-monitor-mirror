@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68fcd98c0000000004011e17",
+  "url": "https://www.xiaohongshu.com/explore/68fcd98c0000000004011e17",
+  "title": "扭转TK亏损从搞定达人开始",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "对话8年资深TK玩家Tommy，做TK最核心的关键点是搞定达人，而这也是扭转TK亏损的起点#kikstartecom #CRO #Shopify独立站 #海外社媒运营 #达人 #跨境电商 #短视频运营 #海外市场传播 #跨境电商独立站 #kikcromethod",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/114/01e8fcd8193474a54f0370019a1bb32bc1_114.mp4?sign=1a871c99cdaa5495aa111c91f678a25c&t=6aedf171",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "2",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "0956a1d5f308d2aa4749f35e883e557e01b2ad1d5b87b44a523a4ca27f170215",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-10-25",
+    "index_xsec_token": "ABYmoWykBR2Ya8cGB_NAHpjjazRFUCF5NtpG-HmsQAQ7c=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-10-25"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68fcd98c0000000004011e17.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68fcd98c0000000004011e17.json"
+  }
+}

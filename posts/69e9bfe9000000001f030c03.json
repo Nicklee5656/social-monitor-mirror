@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69e9bfe9000000001f030c03",
+  "url": "https://www.xiaohongshu.com/explore/69e9bfe9000000001f030c03",
+  "title": "Kik入选「百川 Plus+ 服务商推荐榜单」",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "我们非常荣幸地宣布：作为 Shopify 官方合作伙伴，Kikstart Ecom 凭借在独立站的转化率优化（CRO）领域、Shopify迁移和品牌定制建站等卓越交付能力与6年来积累的甲方口碑，正式入选「百川 Plus+ 服务商推荐榜单」！\n出海服务商库由百川创新院联合出海品牌操盘手共同打造。目前，收录了200+出海服务商，涵盖商流（营销服务）、资金流（支付结算）、物流（仓储物流）、SaaS、合规等多个业务板块，是当下品牌出海圈最大的服务生态网络。\n同时，也是品牌出海领域最综合和客观的资源库，系统记录各类型的服务商信息，包括但不限于服务资质、业务专长，以及客户的评价信息等，帮助操盘手快速锁定和链接合适的服务商。\n\t\n百川不仅聚合行业信息，更在筛选与验证服务价值。这份「百川 Plus+ 服务商推荐榜单」是一份基于甲方操盘手一手反馈整理而成的合作参考。\n#kikstartecom #Shopify独立站 #品牌出海 #品牌力提升 #行业认可度 #转化率 #提升转化率 #转化率优化",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/fb403e341d83b7d96d0c5f7d85c42389/spectrum/1040g34o31v9urkk8k00g5oi5b07k1v77djj8k98!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/5d8a6fdbfa21ff350dc39001e5e9f9bf/spectrum/1040g0k031v9urc9ohm005oi5b07k1v77b0glv0o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/b81d5a32e55608e0b695e6368969e608/spectrum/1040g0k031v9urid8k0005oi5b07k1v77uujkuho!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/fb403e341d83b7d96d0c5f7d85c42389/spectrum/1040g34o31v9urkk8k00g5oi5b07k1v77djj8k98!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031110/5d8a6fdbfa21ff350dc39001e5e9f9bf/spectrum/1040g0k031v9urc9ohm005oi5b07k1v77b0glv0o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "2",
+    "favorites": null,
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "518c07f289c86029122afb147d80e5b827b611e011ee6a39d32ae6ef0f5f7e84",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "04-23",
+    "index_xsec_token": "ABPr75Md6i5ctpLuoUfaNE33KsJZnl4q4lWxn3TqEwI5I=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 5,
+      "captured": 5,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "04-23"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e9bfe9000000001f030c03.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e9bfe9000000001f030c03.json"
+  }
+}

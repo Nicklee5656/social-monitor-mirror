@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69854c4f000000000e03f241",
+  "url": "https://www.xiaohongshu.com/explore/69854c4f000000000e03f241",
+  "title": "用户卡在购物车？问题往往在这一步",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "在我们此前的案例中，当为客户优化购物车页（Shopping Cart Page）时，并没有对整体结构进行大幅重做，也没有刻意引入复杂功能，而是回到用户真实的下单场景，聚焦他们在付款前最容易产生犹豫的几个关键节点，逐一进行针对性的细节优化。路径本身没有改变，但每一步的决策阻力被有效拆解，下单过程自然变得更顺畅。\n\t\n1️⃣ Free Shipping 提示前置\nBefore： 免运信息存在但不够显眼，用户在购物车阶段仍需要自行判断当前金额是否会产生运费，这一步不确定性容易让人选择“先等等”。\nAfter： 在 Cart 顶部直接展示 Free Shipping Bar，明确告诉用户当前订单已满足免运条件，用清晰的信息替代计算和猜测，有效减少下单前的犹豫成本。\n\t\n2️⃣ 库存可视化，建立合理紧迫感\nBefore： 购物车内不显示库存数量，用户更容易产生“之后再买也来得及”的心理，决策被无形拉长。\nAfter： 展示真实剩余库存（如 Only 4 left in stock），不夸张、不制造焦虑，而是通过信息透明，让用户意识到当前商品的稀缺性，从而推动更快决策。\n\t\n3️⃣ 发货时间前置，降低不确定性\nBefore： 发货时间不清晰，用户即便已经进入购物车，心里仍会多一个关键疑问：多久能发？是否会影响使用或送礼计划。\nAfter： 直接在购物车中展示 Shipping Time（如 Ships within 2–3 business days），提前回答用户最关心的问题，用确定性提升信任感，减少因为“不确定”而放弃的情况。\n\t\n4️⃣ 重构 You May Also Like，提高加购效率\nBefore： 推荐位位于侧边，容易被忽略；加购需要跳回产品页，操作路径长，额外决策成本高。\nAfter： 推荐模块调整到购物车下方，更符合用户浏览顺序，同时直接展示 SKU 选项、价格和折扣信息，用户无需跳转即可完成加购，让提升 AOV 成为更自然的结果。\n转化率优化不是靠“加功能”，而是靠“拆犹豫”。当购物车阶段的信息足够清楚、决策足够顺，用户其实很愿意把订单走完。\n#kikstartecom #Shopify独立站 #shopify #kikcromethod #CRO #独立站 #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/cc2a0c626bc03f88b59414f74d70d565/spectrum/1040g0k031s7rijp6l60g5oi5b07k1v771esvce0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/cc2a0c626bc03f88b59414f74d70d565/spectrum/1040g0k031s7rijp6l60g5oi5b07k1v771esvce0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/cc2a0c626bc03f88b59414f74d70d565/spectrum/1040g0k031s7rijp6l60g5oi5b07k1v771esvce0!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "8",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "a28320ec008f4e052ad55b4143c4ca1f43721154fbc86285c1a026bb2277cb59",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "02-06",
+    "index_xsec_token": "AB3u2ngaK5_OLYUm5xd01WOSeud_GuATNlS5UyqTTIh9M=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "02-06"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69854c4f000000000e03f241.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69854c4f000000000e03f241.json"
+  }
+}

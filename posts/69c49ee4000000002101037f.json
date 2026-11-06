@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "69c49ee4000000002101037f",
+  "url": "https://www.xiaohongshu.com/explore/69c49ee4000000002101037f",
+  "title": "AI又有大动作！从推荐商品到直接结帐",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "#kikstartecom #CRO #Shopify独立站 #shopify #人工智能 #品牌出海 #AI电商 #GEO",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/79/110/258/01e9c49e9c232cf04f0370019d280d280e_258.mp4?sign=4a4df73bab89da1cddf88d56eb30b9ca&t=6aedf194",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "14",
+    "favorites": "14",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "77e189199c8be3a4ccc190adabcff9fec25a8ee202edb5f0ebcdbb416e0f759f",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 03-26",
+    "index_xsec_token": "AB_QNTlupMI0kby8oPw8DY2mxtI29963yHUoyjmJklhU4=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 03-26"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69c49ee4000000002101037f.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69c49ee4000000002101037f.json"
+  }
+}

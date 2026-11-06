@@ -1,0 +1,12 @@
+{
+  "dataset": "social-monitor",
+  "dataset_version": "2026.11.06-1",
+  "revision": 1,
+  "content_fingerprint": "8e7edb363d58",
+  "updated_at": "2026-11-06T14:32:50+08:00",
+  "posts": 173,
+  "posts_frozen_file": "data/posts-8e7edb363d58.json",
+  "posts_frozen_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-8e7edb363d58.json",
+  "posts_json_sha256": "bd202a6ca5712edae3a0a85283d68add53dd1a030084d6b5b56e233b580f03f8",
+  "note": "先读本文件取 content_fingerprint，再读 posts-<指纹>.json，可确保不受 CDN 旧缓存影响"
+}

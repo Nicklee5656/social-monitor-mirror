@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a0c3df20000000035024f6c",
+  "url": "https://www.xiaohongshu.com/explore/6a0c3df20000000035024f6c",
+  "title": "大脑换成Claude会发生什么？Shopify速递",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "就在本月，Shopify 宣布了一项足以重写行业规则的重磅更新：Anthropic 旗下的顶流大模型 Claude 现已深度接入 Shopify 核心底层。通过全新开源的 AI Toolkit 和商务助手 Sidekick，大模型史无前例地与 Shopify Admin API 实现了双向直连。\n\t\n这对商家和开发来说都是振奋人心的好消息！\n\t\n因为Shopify 对 Sidekick 的可用性要求极为苛刻。Shopify AI 总监 Andrew McNamara 说，选择 Claude 的原因是\"推理能力强，延迟和质量之间的平衡是最理想的甜蜜点\"。问一个复杂问题，它需要能同时查库存、拉数据、写文案，几秒内给出完整答案。\n\t\n稳定性同样是硬指标，McNamara 的原话是：\"如果因为 Sidekick 不可用而耽误了商家的第一笔销售，这是我们非常认真对待的事情。\"\n\t\n#kikstartecom #Shopify独立站 #品牌出海 #CRO #建站干货 #提高转化率 #转化率优化 #AI工具 #开发 #UIUX",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/3a3786c3beb5c0b795a4bc089ae203cd/spectrum/1040g34o320bkme3omi905oi5b07k1v77pmnesmo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/1a3bf4642f0123c64a110f47b257a9f5/spectrum/1040g0k0320bkmavq6i005oi5b07k1v7705lj3oo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/26d36d75b73accbc45cecda30a018bbd/spectrum/1040g34o320bkme3omi6g5oi5b07k1v77nnbhe2g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/dbbda2bb6f3982c003ecde454d771e7e/spectrum/1040g34o320bkme3omi705oi5b07k1v77qt5dhdo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/dc87674838d2f407ab7849648a4c26da/spectrum/1040g34o320bkme3omi7g5oi5b07k1v775t3cgl8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/e7561e5ce9d8f532929f3ab10d845edb/spectrum/1040g34o320bkme3omi805oi5b07k1v77rdj67d0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/d1f020bfd344dc800268da13a9855047/spectrum/1040g34o320bkme3omi8g5oi5b07k1v77j2cme2o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/3a3786c3beb5c0b795a4bc089ae203cd/spectrum/1040g34o320bkme3omi905oi5b07k1v77pmnesmo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031109/1a3bf4642f0123c64a110f47b257a9f5/spectrum/1040g0k0320bkmavq6i005oi5b07k1v7705lj3oo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "9",
+    "favorites": "13",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "6b4c4c992519180dbcbbe3db8b6438ba3418d3cc08d430e360bce6a3861677a3",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "05-19",
+    "index_xsec_token": "ABJdcBsHL36paW5JKBiDlBmFueJeH0G3Rhl4nOiQDUjjM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 9,
+      "captured": 9,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "05-19"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a0c3df20000000035024f6c.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a0c3df20000000035024f6c.json"
+  }
+}

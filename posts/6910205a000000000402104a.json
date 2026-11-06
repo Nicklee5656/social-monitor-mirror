@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6910205a000000000402104a",
+  "url": "https://www.xiaohongshu.com/explore/6910205a000000000402104a",
+  "title": "没人告诉我还能这样建站啊",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Lovable与Shopify的深度集成，让建站变得前所未有地轻量。用户只需输入几句prompt，系统就能自动生成包含首页、产品页、集合页在内的完整站点框架，并同步生成产品文案与视觉素材。\n本期介绍Lovable的快速建站步骤\n#kikstartecom #Shopify独立站 #CRO #网站建设 #ai建站 #shopify #lovable #独立站 #网站设计",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/dc50242181a66737e34f1cc08a05af4f/spectrum/1040g0k031ole162v4u205oi5b07k1v770uoiggg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/ad6907fde33ebca5c97752c8661e8efe/spectrum/1040g0k031ole162v4u005oi5b07k1v770tsg6j8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/e18ec720592dbba32891c2d5b45f4552/spectrum/1040g0k031ole162v4u0g5oi5b07k1v77bvgnd4g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/4ad7fcdd64c9cba35262006320ad97f1/spectrum/1040g0k031ole162v4u105oi5b07k1v77gl4kk40!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/c5a652bbb0a036c54ff48c4461733730/spectrum/1040g0k031ole162v4u1g5oi5b07k1v77qbqiq58!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/dc50242181a66737e34f1cc08a05af4f/spectrum/1040g0k031ole162v4u205oi5b07k1v770uoiggg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031113/ad6907fde33ebca5c97752c8661e8efe/spectrum/1040g0k031ole162v4u005oi5b07k1v770tsg6j8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "15",
+    "favorites": "18",
+    "comments": "4"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "a0ba2b7371639bcd2b7936f1ec5e7b906d32e0d17001bba02a8fae6afee4d140",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-11-09",
+    "index_xsec_token": "ABvXHXR-N5s7vH0t5-XneuPf_C0R8ByN3VXPzGAiRHYTQ=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-11-09"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6910205a000000000402104a.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6910205a000000000402104a.json"
+  }
+}

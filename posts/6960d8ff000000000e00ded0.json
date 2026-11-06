@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6960d8ff000000000e00ded0",
+  "url": "https://www.xiaohongshu.com/explore/6960d8ff000000000e00ded0",
+  "title": "独立站转化率提升只是因为做了这些调整？",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "在Shopify里面能拉开转化率差距的，不是某一个按钮或功能，而是每一个关键页面是否在帮用户更快做决定。\n今天我们从 Home → Collection → Product 三个核心页面出发，拆解这些看起来不复杂、但对转化结果影响非常直接的优化点。\n\t\n1️⃣首页（Home Page）：第一屏，决定用户要不要继续逛\n\t\nBefore\n首页 Hero 区域以大量文字为主，画面静态，信息密集但重点不突出；\n缺乏明确的行动指引，用户进入后需要自己“理解你在卖什么、接下来该做什么”\n\t\nAfter\n首页第一屏改为动态横幅，核心视觉直接聚焦 2025 秋季新品；\n文案高度收敛，只保留一个清晰的主 CTA ——「SHOP NOW」，把用户的下一步路径直接指向购物行为。\n\t\n2️⃣ 系列页（Collection Page）：缩短“找到想买的东西”的时间\n\t\nBefore\n产品列表页堆叠了大量筛选和排序选项，界面显得拥挤；\n移动端下，图片比例与信息密度不友好，用户需要频繁操作才能定位目标产品。\n\t\nAfter\n整体布局做了减法，筛选区被精简；\n移动端展示逻辑重新优化，并新增「Best Selling」排序选项，让第一次进入的用户可以直接从“最受欢迎”开始浏览。\n\t\n3️⃣ 产品页（Product Page）：消除最后一刻的犹豫\n\t\nBefore\n页面结构偏基础，关键信息不够集中；\n图片浏览体验一般，规格与选项对用户不够直观，更多依赖用户自行理解。\n\t\nAfter\n产品页信息结构被重新组织：颜色、尺码选择清晰可视；\n新增「Add to Wishlist」降低即时购买压力；\n更完整的产品描述，直接回答用户在意的使用场景与产品价值。\n\t\n#kikstartecom #Shopify独立站 #shopify #提高转化率 #网站设计 #网站优化 #kikcromethod #CRO",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/a272b15c7117e7bd17fc77419072f5eb/spectrum/1040g0k031r48k2ja701g5oi5b07k1v77ujr2ff8!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/5bdfdb199e883fb5657369701d090bb5/spectrum/1040g0k031r48k2ja70005oi5b07k1v771bcda4g!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/5302b0261b24e03f503de3b87c205bb2/spectrum/1040g0k031r48k2ja70105oi5b07k1v77fueu088!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/a272b15c7117e7bd17fc77419072f5eb/spectrum/1040g0k031r48k2ja701g5oi5b07k1v77ujr2ff8!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/5bdfdb199e883fb5657369701d090bb5/spectrum/1040g0k031r48k2ja70005oi5b07k1v771bcda4g!nd_dft_wgth_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "24c8e064a94424c10e3021d9e08c948cc5ba1da748dc4b28d6553821ac8a59af",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "01-10",
+    "index_xsec_token": "ABfWXcmDn_41xEtYglXrdM9CVDyMcT2ih_2QcfH0iL6vs=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 5,
+      "captured": 5,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "01-10"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6960d8ff000000000e00ded0.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6960d8ff000000000e00ded0.json"
+  }
+}

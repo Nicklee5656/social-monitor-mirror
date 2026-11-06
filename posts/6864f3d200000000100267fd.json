@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6864f3d200000000100267fd",
+  "url": "https://www.xiaohongshu.com/explore/6864f3d200000000100267fd",
+  "title": "Shopify独立站玩家应该怎么布局Tiktok",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "对话TikTok出海知识博主Zach第二弹：Shopify独立站玩家应该怎么布局TikTok\n#增长 #Shopify独立站 #TikTok #kikstartecom #品牌出海",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e864f38c1727db0103700197ca592367_258.mp4?sign=7fc8a11aacbf7976ce98ae32e3f10049&t=6aedf14e",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "3",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "ad5ac215b6c357a19eededa61ea0535e677c9e1aa5741a873fca213b1e5baa7b",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-07-02",
+    "index_xsec_token": "ABfSkw7yUbGdw93Y41mM-vlcR4nbkT-8gQjBhJ8wDUyKo=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-07-02"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6864f3d200000000100267fd.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6864f3d200000000100267fd.json"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ae1c8360000000019024b14",
+  "url": "https://www.xiaohongshu.com/explore/6ae1c8360000000019024b14",
+  "title": "卖贵了还是卖便宜了？4步Shopify帮你测",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "俗话说：定价定天下。\n同一款产品，卖 $49 还是 $59，可能直接决定你的利润空间。\n很多 Shopify 品牌做 CRO，会测试按钮、页面布局、产品文案，却很少认真测试商品价格。\n但价格低，不代表一定卖得好；卖得多，也不代表赚得多。\n真正值得测试的，是哪个价格能带来更高的利润。\n现在 Shopify Rollouts 支持 Price Catalogs（价格目录）测试，商家可以利用原生功能进行价格 A/B Test，无需额外购买第三方测试 App。\n\t\n操作分 4 步：\n1、创建新的 Price Catalog；\n2、修改想要测试的商品价格；\n3、在 Rollouts 中创建 A/B Test；\n4、测试版本停用原价格目录，启用新价格目录。\n\t\n另外还需要：\n测试前：根据 GA4 商品购买率、毛利及目标利润提升计算样本量；\n测试中：达到所需样本量后再判断结果；\n测试后：结合 Shopify Reports 和实验数据，计算每访客利润，并检查统计显著性。\n对于 Shopify 品牌来说，这次更新的价值，在于让价格优化有了更容易上手的实验方式。\n\t\n不过需要注意的是：Shopify 官方目前要求 Grow 或更高套餐才能使用 Rollouts Experiment，并非所有 Shopify 套餐都能免费进行价格 A/B 测试。\n另外，Shopify Reports 本身不一定提供完整的实验分组利润分析，需确认分组数据可以对应后再计算。\n#kikstartecom #shopify #独立站 #定价 #外贸经验 #电商干货 #跨境电商独立站",
+  "images": [],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "6",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "a0cff8e36d6ccdb7e23a70e1ebf9486773bedb7978232382fd4d4a5a291f54c4",
+  "errors": [
+    "video_blob_url: 视频为流媒体引用，未保存文件",
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 5天前 加拿大",
+    "index_xsec_token": "ABU4FwgP4ChnzwhKLCRuqH_866RKoMhbDtoWLG8D40Ho4=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "url_missing"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 5天前 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript",
+      "video_url"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae1c8360000000019024b14.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae1c8360000000019024b14.json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6812f57c00000000220357af",
+  "url": "https://www.xiaohongshu.com/explore/6812f57c00000000220357af",
+  "title": "Kik独家-独立站迁移至Shopify步骤大全",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "如果您已经是成熟的独立站品牌，下一步正在筹划从其他平台（比如Shopline，WooCommerce，Magento，自建站等）迁移Shopify，却怕在迁移中疏漏细节，或影响SEO自然流量，本期的视频内容会很适合。\n\t\nKikstart Ecom本周邀请我们的知识顾问Leon总结了迁移至Shopify的步骤大全：\n\t\n💡我们将从数据迁移，计划选择，配置必做，主题挑选，产品导入，域名迁移等6大方面为大家详细介绍迁移流程。\n\t\n经常听到客人讲到，迁移后，凭借Shopify 强大的支付生态、物流对接和数据分析模块，品牌可以提升独立站运营效率并降低网站运营成本。\n\t\n👉 想了解更多细节，欢迎大家评论区留言，我们第一时间为大家答疑回复。我们公司的重点业务包含Shopify Migration，欢迎交流。\n\t\n#Shopify迁移 #Shopify独立站 #独立站迁移 #ShopifyPartner #ShopifyMigration",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e812f38c61477801037001968a143b00_258.mp4?sign=b3787f441b0f85a24b0f5177c4e41fc4&t=6aedf137",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "19",
+    "favorites": "16",
+    "comments": "4"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "bb073d3e81fcf277fb0cfc831bda33a7f102a850a8656414849c4ccae52552f4",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-05-01",
+    "index_xsec_token": "AB4Ic2g4_c9bW9rYdCpyNaejnql4zY3mLZSQGRxYJRXMc=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-05-01"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6812f57c00000000220357af.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6812f57c00000000220357af.json"
+  }
+}

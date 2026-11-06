@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68ba82ea000000001b033fd8",
+  "url": "https://www.xiaohongshu.com/explore/68ba82ea000000001b033fd8",
+  "title": "如何触达？好印象往往由第一次沟通就已形成",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "在面对新客户的时候，品牌应该做些什么，比较容易给客人留下比较好的印象？如何将这群客户变成潜在的高复购人群？在本期Cheryl 与 Zach的对话中，了解更多建联干货：\n1️⃣ 好好利用gift card（内嵌社媒添加方式）\n2️⃣ 慎用¨弹窗¨功能\n3️⃣ 直播抽奖邀请\n4️⃣ 不要着急去做EDM，前置营销更重要\n5️⃣ 利用社媒为客户¨发声¨（读评论）/发客户好奇的制作过程\n#Shopify独立站 #CRO #kikstartecom #运营技巧 #tiktok",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/114/01e8ba811807dccf0103700199189246b9_114.mp4?sign=2b66cb3bd78599b1abaecab75c15bc7d&t=6aedf16a",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "1",
+    "favorites": null,
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "9409e2459feb18f640c7f88d46a52b504bcb8d41caecd15ee2d9bec4de48f164",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-09-06",
+    "index_xsec_token": "ABvnZoSSVjqie8gm7DkOXumjQa1s4focaiK7LxQYo4XPM=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-09-06"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68ba82ea000000001b033fd8.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68ba82ea000000001b033fd8.json"
+  }
+}

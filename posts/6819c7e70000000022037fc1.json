@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6819c7e70000000022037fc1",
+  "url": "https://www.xiaohongshu.com/explore/6819c7e70000000022037fc1",
+  "title": "独立站首页设计秘籍（3）-首页海报",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "这个系列将用6期内容，手把手拆解高转化率首页的底层逻辑！\n本期要讲的是：首页海报（Homepage Banner）\n今天用大牌案例+实测数据告诉你：如何让用户忍不住点击，甚至主动分享！\n核心逻辑：用一张图+一句话回答用户的疑问\n“这是什么？” → 产品/场景清晰展示\n“对我有什么用？” → 直击痛点或欲望\n“为什么现在买？” → 紧迫感触发\nBANNER设计自查清单：\n1. 视觉冲击力：背景与主体是否强对比？是否很好地应用并强调品牌色？是否无杂乱信息堆砌？\n2. 文案穿透力：标题是否直击痛点，是否满足客户的核心诉求，设计的侧重点是什么？\n3. 促销信息：是否将优惠信息置在左上/右上方，或是在显眼的地方，并加入明确的时效？\n4. 移动端适配：图片是否压缩适配手机屏？关键信息是否在首屏完整展示？\n\t\n#ShopifyPartner #Shopify独立站 #kikstartecom #独立站建站",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/0c996e6d8183cd593a0981579a04f530/notes_pre_post/1040g3k831h4rrk9vjc905oi5b07k1v77kqf9lm8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/a7b438ca142af43b61c34a27a55d81c4/notes_pre_post/1040g3k831h4rrk9vjc705oi5b07k1v77pg60rs0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/02125243b547f606b76294e4f173d274/notes_pre_post/1040g3k831h4rrk9vjc7g5oi5b07k1v77h4aa3u0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/834ee9ae615258f3dff1f183744b1f56/notes_pre_post/1040g3k831h4rrk9vjc805oi5b07k1v77on4bau0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/4c67a00762d606a5011a26b5e3a710a3/notes_pre_post/1040g3k831h4rrk9vjc8g5oi5b07k1v77f7gro68!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/0c996e6d8183cd593a0981579a04f530/notes_pre_post/1040g3k831h4rrk9vjc905oi5b07k1v77kqf9lm8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/a7b438ca142af43b61c34a27a55d81c4/notes_pre_post/1040g3k831h4rrk9vjc705oi5b07k1v77pg60rs0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "7",
+    "favorites": "7",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "5dc49e397a4894b83d989e840854911edcfb579489ab4f8e80028e1376a9a74b",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-05-06",
+    "index_xsec_token": "AB4gZmVeVYR-2gBHk8Ywa3DjPzFj1dNwPZaw0LiD1kJtA=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 7,
+      "captured": 7,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-05-06"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6819c7e70000000022037fc1.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6819c7e70000000022037fc1.json"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "638c1939000000001f00d6fa",
+  "url": "https://www.xiaohongshu.com/explore/638c1939000000001f00d6fa",
+  "title": "Shopify跨境电商创业的朋友请举手🙋‍♀️",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "官方号正式入驻小红书啦‼️\n也可关注创始人Cheryl个人号\n@妙 ｜Shopify官方合作伙伴\n我们是Kikstart Ecom\n一家位于加拿大温哥华🇨🇦\n以提供【Shopify独立站设计开发、品牌成长】服务为主的公司\n主要包括但不限于以下服务业务：\n1️⃣Shopify独立站的本土化设计、开发、转化率优化、自定义编程代码\n2⃣️ 协助开启、策划、执行 Shopify独立站的运营\n3⃣️提高店铺营业额（引流渠道：Email, FB,IG,Ads,Tiktok,红人联盟营销等）\n-\n无论你在世界的哪个国家🇺🇸🇨🇦🇨🇳🇬🇧🇦🇺\n欢迎👏关注并且加入我们的电商独立站线上社群\n我们今后会在官方号与大家分享Shopify品牌成长中可能遇到的各式各样问题\n分享提高转化率的经验、优质独立站案例等\n期待与大家交流\n\t\n#跨境电商创业\n#跨境电商\n#跨境电商tiktok\n#跨境电商独立站\n#电商运营",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/f8afaf30f8a740d84acba3cd689ae3e2/0302c401ku4n8t0mp5z010peqos09iw0xd!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/f8afaf30f8a740d84acba3cd689ae3e2/0302c401ku4n8t0mp5z010peqos09iw0xd!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031122/f8afaf30f8a740d84acba3cd689ae3e2/0302c401ku4n8t0mp5z010peqos09iw0xd!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "22",
+    "favorites": "9",
+    "comments": "6"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "9af6cf75d5b7eb697137d6e045850626ab6efbec1502c45321c1075efe86b43b",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2022-12-04",
+    "index_xsec_token": "ABTPOIP6dHagbfBnv3NVe8NjGwKem5-a0Hzj5hFYninFA=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2022-12-04"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/638c1939000000001f00d6fa.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/638c1939000000001f00d6fa.json"
+  }
+}

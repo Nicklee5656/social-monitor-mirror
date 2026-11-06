@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "688c70d2000000002302a039",
+  "url": "https://www.xiaohongshu.com/explore/688c70d2000000002302a039",
+  "title": "Shopify独立站优化案例（2）-Remilia",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Kikstart Ecom对 Remilia 产品详情页进行了结构与内容层面的全面优化，聚焦提升客单价、增强购买信任感及复购动力：\n\t\n💰1、提高客单价与促购引导\n-增加“满额赠礼（Free Gift）”提示按钮，并支持 Bundle 搭配购买，激励用户提升购买金额，从而提高客单价。\n-该模块设计为高辨识度按钮，便于用户第一时间感知促销信息，形成下单驱动。\n\t\n❤️2、增强品牌用户粘性\n-新增 Loyalty Program 展示入口，特别适用于化妆品、护肤品、美甲等高复购需求品类。\n-明确会员权益，鼓励用户注册账户、积累积分，确保用户生命周期价值最大化。\n\t\n📱3、UGC 视频内容植入\n-新设用户视频评价板块，展示真实用户的使用过程与产品反馈。\n-该内容形式较图文更具说服力，有效拉升新客信任感与转化意愿。\n\t\n⚡️4、信息结构重组，提升用户浏览效率\n-将原本折叠隐藏的信息（如产品功效、使用方法、适用人群等）重新以板块化方式展开展示。\n-页面结构更清晰、逻辑更顺畅，减少用户点击操作，提升信息获取效率，帮助用户在浏览过程中自然完成购买决策。\n\t\n﻿#Shopify独立站﻿ ﻿#CRO﻿ ﻿#kikstartecom﻿ ﻿#独立站设计﻿ ﻿#UI﻿ ﻿#设计案例",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/5f450e56c8184449bc607b4c1b8dc3eb/spectrum/1040g0k031kkqntev36105oi5b07k1v779m6d0vg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/ed95f99bdf02bd14f29b85ece5f0ae50/spectrum/1040g0k031kkqntev36005oi5b07k1v77rsj0h0o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/bc27e2cc9885e2030dd9a042256ae4f9/spectrum/1040g0k031kkqntev360g5oi5b07k1v7795n69uo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/5f450e56c8184449bc607b4c1b8dc3eb/spectrum/1040g0k031kkqntev36105oi5b07k1v779m6d0vg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/ed95f99bdf02bd14f29b85ece5f0ae50/spectrum/1040g0k031kkqntev36005oi5b07k1v77rsj0h0o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "3",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "0b72d9d2102fdef46c4e8a75d365e80f2a1b78aca22cceada1f6c73f7f1b926e",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-08-01",
+    "index_xsec_token": "ABofC3YpWC2hTiCvlFhXKkw_b8wkF8NfGSxLhkFmipVcI=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 5,
+      "captured": 5,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-08-01"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/688c70d2000000002302a039.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/688c70d2000000002302a039.json"
+  }
+}

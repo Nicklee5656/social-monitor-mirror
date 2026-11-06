@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68352a1e000000002301fafb",
+  "url": "https://www.xiaohongshu.com/explore/68352a1e000000002301fafb",
+  "title": "Shopify首页设计秘籍（4）-CTA按钮",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "今天是Shopify独立站首页设计秘籍的最后一期：CTA设计的核心逻辑。\n\t\n用户点击的不是按钮，而是人性——利用心理学触发本能反应！\n\t\n如果需要专业Shopify团队的CRO转化率优化报告（会针对一个重点页面帮您检查）可以联系我们免费出报告 💯\n\t\n设计自查清单：\n✅ 按钮颜色是否与背景强对比？\n✅ 是否与产品带来的价值一同体现？\n✅ 是否符合心理触发？（见图详细解释）\n✅ 是否添加悬停颜色变化/点击动效？\n✅ 按钮尺寸是否适配手指点击（移动端≥48px）？\n\t\n#跨境电商 #Shopify设计 #UI设计 #转化率提升 #ShopifyPartner",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/01449ab24b1122ce288fe242df6d1e9b/notes_pre_post/1040g3k831hvji0mk5i805oi5b07k1v7728sf9bg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/3cbdc9295c9c10feb8b223f323b725ae/notes_pre_post/1040g3k831hvj30vnlmd05oi5b07k1v7766d7ql0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/8e46240ef9f2cabfff2f21d9fd5b8aa6/notes_pre_post/1040g3k831hvj30vnlmcg5oi5b07k1v7712nr9f8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/5bf4bc36970a387a4c49e259d63a836a/notes_pre_post/1040g3k831hvj30vnlmdg5oi5b07k1v7726mjgp0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/17274800faf0291bd1cf9a8b0ee63944/notes_pre_post/1040g3k831hvji0mk5i705oi5b07k1v778c5dg9g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/f3516e56bbfd12e6d2dfa258972dc756/notes_pre_post/1040g3k831hvji0mk5i7g5oi5b07k1v773aekn3o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/01449ab24b1122ce288fe242df6d1e9b/notes_pre_post/1040g3k831hvji0mk5i805oi5b07k1v7728sf9bg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031118/3cbdc9295c9c10feb8b223f323b725ae/notes_pre_post/1040g3k831hvj30vnlmd05oi5b07k1v7766d7ql0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "14",
+    "favorites": "12",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "9e9baf76da05893c8e25679ed5170a765a6ba23fafceb2fa872a5f64b1aa1888",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-05-27",
+    "index_xsec_token": "ABWXWNGoJVfzVKTN3pFiZJeY5BEBofxC0lnxAoG7UmHzc=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-05-27"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68352a1e000000002301fafb.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68352a1e000000002301fafb.json"
+  }
+}

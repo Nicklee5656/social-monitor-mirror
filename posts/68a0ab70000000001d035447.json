@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "68a0ab70000000001d035447",
+  "url": "https://www.xiaohongshu.com/explore/68a0ab70000000001d035447",
+  "title": "能出单的Reddit流量！能抓住吗？",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "对话﻿@Neil讲跨境﻿ ！2步学会利用Reddit来接住这波流量！还可以直接link到GA4，帮助有效追踪客户信息！\n﻿#Shopify﻿  ﻿#Reddit﻿ ﻿#shopify独立站﻿ ﻿#品牌出海﻿ ﻿#海外社媒",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e8a0a980b854f60103700198b39e079e_258.mp4?sign=6a16711770be05028dabf94a9c8d7445&t=6aedf15c",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "6",
+    "favorites": "5",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "2f7889c6bc4f8498a1525c6500dd3a4e15b00c2c271eaaa5b76420d6ec863dc0",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-08-17",
+    "index_xsec_token": "ABn7udwWGN_yaN-3LPXnYVYajx7UbtxcrIT5B1n3IkvC8=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-08-17"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/68a0ab70000000001d035447.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/68a0ab70000000001d035447.json"
+  }
+}

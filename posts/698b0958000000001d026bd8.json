@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "698b0958000000001d026bd8",
+  "url": "https://www.xiaohongshu.com/explore/698b0958000000001d026bd8",
+  "title": "Kikstart Ecom独立站品牌策划经理招",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Kikstart Ecom 是北美增长较快的 Shopify 电商独立站服务机构之一，总部位于加拿大温哥华，并在深圳设有分公司。我们专注于 Shopify 独立站的转化率优化（CRO）、定制化设计开发和用户体验（UI/UX）提升。目前已为来自全球 20+ 国家和地区的电商品牌提供高效的解决方案，并以“快速响应 + 高质量交付”的服务赢得客户好评。\n🧑‍🏫职位描述：\n品牌战略师是公司为客户提供品牌咨询与创意策略的核心角色，主要负责帮助Shopify电商客户完成品牌定位、市场分析、卖点梳理与创意方向制定。通过对客户业务与目标用户的深度理解，输出可落地的品牌策略方案，为客户网站转化率与品牌价值提升提供方向指引。\n任职要求：\n✅基本要求：\n-本科及以上学历，市场营销、创意设计、广告、传播、品牌相关专业优先；\n-2年以上品牌策略、创意设计、品牌营销或电商品牌相关经验；\n-熟悉DTC品牌或跨境电商行业优先；\n-具备优秀的品牌思维与商业洞察能力；\n-熟悉品牌定位、市场分析与用户研究方法；\n-具备良好的逻辑分析与结构化表达能力；\n-对设计与视觉有良好的审美与判断力；\n-了解电商转化逻辑与消费者决策路径\n💯加分项：\n-有Shopify / DTC品牌实战经验；\n-有成功品牌定位或品牌升级案例；\n-熟悉海外市场（北美/欧洲）用户心理；\n-具备基础文案或视觉设计能力；\n-熟悉CRO（转化率优化）逻辑。",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/ba40f911c4e20547306f9b37fb014cd3/spectrum/1040g0k031sdeui3ol6005oi5b07k1v77qe8a120!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/ba40f911c4e20547306f9b37fb014cd3/spectrum/1040g0k031sdeui3ol6005oi5b07k1v77qe8a120!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031111/ba40f911c4e20547306f9b37fb014cd3/spectrum/1040g0k031sdeui3ol6005oi5b07k1v77qe8a120!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "8",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "ac60216e1364ba19bcc5b0552c1a3f9fcf113dbdb214bb7cfc9fff81e453a974",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 02-10",
+    "index_xsec_token": "AB0nOEGechHqybq9fug5OwfPqsF31v7JYJbxTFQSyTqso=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 02-10"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/698b0958000000001d026bd8.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/698b0958000000001d026bd8.json"
+  }
+}

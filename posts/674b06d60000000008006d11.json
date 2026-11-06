@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "674b06d60000000008006d11",
+  "url": "https://www.xiaohongshu.com/explore/674b06d60000000008006d11",
+  "title": "两类EDM帮助品牌旺季加速爆单！",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "本系列视频帮助大家了解在旺季期间如何通过发送有效的EDM，来帮助网站提高转化率，复购率，以及拉近和消费者之间的关系，这期视频分享的是在活动之前建议发送的两类邮件：Pre Email 和 Early Access\n\t\n#shopify独立站 #shopify #跨境电商 #shopify #shopify创业",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01e74b06d1252ba501037001937d143391_258.mp4?sign=ea6baa7deb673f0d25fab853da20cc67&t=6aedf11b",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "10",
+    "favorites": "7",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "e85546ed4fcb05ea0678333d68598a0bbeaee9fa75596161ee9a4b388c2f92d0",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2024-11-30",
+    "index_xsec_token": "ABN775n0vWvCsMXhNfKex7Sm5Ufn5yExx8Jo1ALUyPfxg=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2024-11-30"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/674b06d60000000008006d11.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/674b06d60000000008006d11.json"
+  }
+}

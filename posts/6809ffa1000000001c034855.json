@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6809ffa1000000001c034855",
+  "url": "https://www.xiaohongshu.com/explore/6809ffa1000000001c034855",
+  "title": "一篇带你深度拆解Shopify B2B功能",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "Shopify Plus是为企业级客户设计的解决方案，它包含了专为B2B设计的功能模块，帮助商家管理复杂的业务需求。从订单管理到客户分层，Shopify的B2B服务让企业级客户能够更轻松地运作。\n\t\n功能1 ：统一管理-可以同时设立10站点（1个主站+9个子站），并且可以灵活排列组合。\n\t\n功能2：店面情景化-客户通过简单地滑动鼠标，就可以选择不同的区域。\n\t\n功能3：分层定制-针对不同层级的客户展示不同的页面内容，如千人千面定制化的产品单价、付款方式、和发货、结账、支付期限等。\n\t\n功能4：支持多产品上传和更多变体-Shopify Plus商家可以通过后台进行批量产品导入，允许上传最多50,000个产品和变体。\n\t\n功能5:轻松应对询盘场景-草稿订单，可以在下单前保持锁定询盘环节的价格，也可以保商品库存以及保留的期限。\n\t\n功能6：推出更适用的B2B免费liquid模版-Trade，专为wholesale设计的商店主题，它包括了高级的B2B功能，可以通过设置优惠的数量规则和批量定价来激励客户，实现更高效灵活的设计和内容定制。\n#品牌出海 #跨境电商独立站 #shopify独立站 #Shopifyplus #b2b #kikstartecom #网站制作",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/3f2eccd979040cb9cd75ee8ae1838097/1040g2sg31glem7cej4c05oi5b07k1v77lfvn280!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/d192672e0b331fbcab594a6c6dae4da0/1040g2sg31glem7cej4d05oi5b07k1v77bgilnoo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/d0c46dacee525b83e87f2b4bf1338ead/1040g2sg31glem7cej47g5oi5b07k1v77bl7ktgg!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/70cf4d565fe8b56422e9fe84710c4e9e/1040g2sg31glem7cej4cg5oi5b07k1v771bcqed0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/5d81f0d4a18be1be5378d3ce399c55a9/1040g2sg31glem7cej4bg5oi5b07k1v77k33iju8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/5b10b0b16fca481294cdc7f87eabb52d/1040g2sg31glem7cej4ag5oi5b07k1v77lqj773o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/3f2eccd979040cb9cd75ee8ae1838097/1040g2sg31glem7cej4c05oi5b07k1v77lfvn280!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031119/d192672e0b331fbcab594a6c6dae4da0/1040g2sg31glem7cej4d05oi5b07k1v77bgilnoo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "12",
+    "favorites": "17",
+    "comments": "2"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "e1a3b4f84152580a96f81c3e41221d3bf8e1db4057fed78dab7913d22a9026b5",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 2025-04-28",
+    "index_xsec_token": "ABU9JVi4kAj92jazTJMyfL95G8UBzgTYhHUhHMefKCLis=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 8,
+      "captured": 8,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 2025-04-28"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6809ffa1000000001c034855.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6809ffa1000000001c034855.json"
+  }
+}

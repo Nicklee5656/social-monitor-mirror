@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a3a70d0000000000f031f6f",
+  "url": "https://www.xiaohongshu.com/explore/6a3a70d0000000000f031f6f",
+  "title": "不搞虚的，12个适合Shopify的Claude Skill",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "安装Claude Skill 的过程并不复杂。你可以把它理解成：先下载一个已经写好规则的 .md 文件，再上传到 Claude，之后 Claude 就会按照这个 Skill 里的框架来完成分析。\n\t\n而对于深耕 Shopify 生态的品牌而言，品牌能否将日常运营中高频、繁杂的分析任务，沉淀为一套可被持续调用的标准化 AI 工作流。\n\t\n那么今天，咱们就分享12个适合Shopify独立站的Claude Skill，直接复制就能用\n#kikstartecom #claude #skill #aiskill #shopify #dtc #独立站 #品牌出海",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/7ae1280e35c3204851f92cf44060498d/spectrum/1040g0k0321oobl6m6u4g5oi5b07k1v77arlhq38!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/8cf95134bbcb7f3b56cbdd723d6aa64c/spectrum/1040g0k0321oobl6m6u005oi5b07k1v77on55j1g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/a105cccaee7a343656a888c71a17a316/spectrum/1040g0k0321oobl6m6u0g5oi5b07k1v77scn6s7g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/882665fc8111fc0210ee1535d783b8f7/spectrum/1040g0k0321oobl6m6u105oi5b07k1v77jgbocig!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/61ba89ae61824a98a0da1ba6ecd3c4f1/spectrum/1040g0k0321oobl6m6u1g5oi5b07k1v77qrbhsig!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/9b2f66f5ad0f9dac9f6e81e707a9868a/spectrum/1040g0k0321oobl6m6u205oi5b07k1v77r09h48g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/a3b8ea9c39bad1593675e5ddd74fd8d4/spectrum/1040g0k0321oobl6m6u2g5oi5b07k1v77nf8vauo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/98eb8ccc5c7403790bcee6414a6e05f4/spectrum/1040g0k0321oobl6m6u305oi5b07k1v772h2d2to!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/6a10dd60e1a3eeffb0e8f753aa5ef09a/spectrum/1040g0k0321oobl6m6u3g5oi5b07k1v77luiq9fo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 10,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/fb8176fafa6c5c4447dc2cdecdfb0173/spectrum/1040g0k0321oobl6m6u405oi5b07k1v77ii48lc0!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 11,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/7ae1280e35c3204851f92cf44060498d/spectrum/1040g0k0321oobl6m6u4g5oi5b07k1v77arlhq38!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 12,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031107/8cf95134bbcb7f3b56cbdd723d6aa64c/spectrum/1040g0k0321oobl6m6u005oi5b07k1v77on55j1g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "11",
+    "comments": "3"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "59bafe9f04101bd1eb40e2c52f8c84a48ff854fa68845af1ecb9fa5bcef2f2f9",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 06-25",
+    "index_xsec_token": "ABYqetZ3CU3HW0K5MiPtWXqJIc0aHJqqCYxkTcRa2cGRM=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 12,
+      "captured": 12,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 06-25"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a3a70d0000000000f031f6f.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a3a70d0000000000f031f6f.json"
+  }
+}

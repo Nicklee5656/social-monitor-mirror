@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a61f4c3000000000503bf55",
+  "url": "https://www.xiaohongshu.com/explore/6a61f4c3000000000503bf55",
+  "title": "独立站PDP转化+4.5%，只因1个徽章",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "一个 Shopify 品牌，只在 PDP 加了 1 个小徽章，转化率提升了 4.5%。\n改动很简单，只需要给最近 7 天销量超过 X 次的产品，加上一个：\nTrending 热卖徽章\n就这么一个小标识。\n但它为什么会有效？\n因为用户下单前，往往会寻找一个信号：\n“是不是很多人也在买？”\n“这个产品是不是真的受欢迎？”\n“我现在买，会不会踩雷？”\nTrending badge 的作用，就是把这种隐形的社会认同，直接放到用户眼前。\n这种非强行催单的形式，对还在犹豫的用户来说，无疑是在降低决策压力。\n尤其是在 PDP 上，用户已经对产品产生兴趣，但还没完全建立信任时，一个热卖的信号可以补上最后一点确定感。\nReference: Kik合作伙伴Visually (A/B测试App）\n\t\n#Shopify #ab测试 #kikstartecom #dtc #转化率",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01ea61f4266e9a78010370019f8ea42f3d_258.mp4?sign=a12fa1eb8913a4ec98dffd8a4a8105c5&t=6aedf1f1",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "17",
+    "favorites": "19",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "ab4c929f7573a0e5128eb37c9e7a514ed3529d8048f2be709bc60160400374f1",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "07-23",
+    "index_xsec_token": "ABqXt3ZflsPDJgGjL1f7ksSppjK1zBIc30vrEb9NQUUSA=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "07-23"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a61f4c3000000000503bf55.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a61f4c3000000000503bf55.json"
+  }
+}

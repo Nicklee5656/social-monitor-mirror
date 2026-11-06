@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "686ddb21000000000d0186b4",
+  "url": "https://www.xiaohongshu.com/explore/686ddb21000000000d0186b4",
+  "title": "有独立站的快来抄作业！三步让AI主动推荐你",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "4月，OpenAI和Shopify联手干了件大事：当用户点击ChatGPT推荐的商品链接时，系统自动添加 `utm_source=chatgpt` 参数。从此，ChatGPT不再只是AI对话工具，这一合作的落地，标志着AI推荐流量正式进入可量化、可运营的时代。\n\t\n然而商品如果想被推荐，这三点非常重要：内容数据质量--爬虫权限--优先展示Feed通道\n\t\n三步教你如何设置让你的产品可以被AI优先推送：\n\t\nStep1：优化产品数据，让AI看懂你：需要优化您的网站内容，确保AI在爬取数据的时候可以快速读懂你的货品。\n\t\nStep2：开放爬虫权限，让AI找到你：与搜索引擎类似，ChatGPT 使用名为 OAI-SearchBot 的网络爬虫抓取信息。要被 ChatGPT 搜索发现，请确保您的网站未阻止该爬虫。如果必要，需在 robots.txt 中允许其访问。\n\t\nStep3：提前抢占Feed提交通道：虽然该功能尚未全面开放，但这一步的价值在于：你将成为第一批打通“AI电商推荐通路”的商家，等于提前预约未来流量入口\n\t\n#独立站 #Shopify独立站 #转化率提升 #kikstartecom #CRO #ShopifyPartner",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/157f9130acfc6986d8aad7b75250ab33/notes_pre_post/1040g3k031jmv5648j26g5njlp3k0811nucprabo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/650a4d828030ef3dc7a52944b7ce453c/notes_pre_post/1040g3k031jmv5648j23g5njlp3k0811n2dttjt8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/177f25eef75c0bd8fd275151ac420036/notes_pre_post/1040g3k031jmv5648j2405njlp3k0811n0lbev1g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 4,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/9123fb81a7d0053911a77c818e44b1f2/notes_pre_post/1040g3k031jmv5648j24g5njlp3k0811n3nmb15o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 5,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/3db81a5e1bf31068e35d45537e0c64d0/notes_pre_post/1040g3k031jmv5648j2505njlp3k0811n96rgh48!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 6,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/fa26a04c57f51c0820f18d4c6be228e0/notes_pre_post/1040g3k031jmv5648j25g5njlp3k0811niqhe0p8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 7,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/ea696023c616577f883f852afd8d9eb1/notes_pre_post/1040g3k031jmv5648j2605njlp3k0811nbt1al9g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 8,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/157f9130acfc6986d8aad7b75250ab33/notes_pre_post/1040g3k031jmv5648j26g5njlp3k0811nucprabo!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 9,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031117/650a4d828030ef3dc7a52944b7ce453c/notes_pre_post/1040g3k031jmv5648j23g5njlp3k0811n2dttjt8!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "26",
+    "favorites": "54",
+    "comments": "1"
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "c0a8f997f3f44c48d5356b934c911c3a71b69322e21cb5a07bdd6777366cf5c5",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "2025-07-09",
+    "index_xsec_token": "AB1E9dHPHXNeOSLMO37gcMPYrbIO-8D3p-X5E_9ZdYQAA=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 9,
+      "captured": 9,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "2025-07-09"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "mirror": {
+    "dataset_version": "2026.11.06-1",
+    "content_fingerprint": "8e7edb363d58",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/686ddb21000000000d0186b4.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/686ddb21000000000d0186b4.json"
+  }
+}
