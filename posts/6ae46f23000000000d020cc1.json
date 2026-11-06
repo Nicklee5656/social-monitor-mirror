@@ -5,12 +5,21 @@
   "post_id": "6ae46f23000000000d020cc1",
   "url": "https://www.xiaohongshu.com/explore/6ae46f23000000000d020cc1",
   "title": "Kik自研Shopify Headless七大功能",
-  "published_at": null,
+  "published_at": "2026-10-30T18:19:15+08:00",
   "content_type": "video",
-  "body_text": "你的 Shopify B2B 独立站，还只是一个在线下单系统吗？\n\t\n经销商登录、查看专属价格、采购补货、追踪订单……这些可能只是 B2B 独立站的基础功能。\n真正值得关注的是：经销商除了采购，还能直接从品牌独立站获取营销素材，帮助自己卖货。\n这次，Kik 基于 Shopify Plus 定制开发了一套 B2B 内部研发 Demo，展示品牌如何把采购、履约、售后和经销商营销支持整合到同一个平台。\n\t\n📌 7大功能场景：\n01｜客户专属价格与在线采购\n02｜历史订单与快速复购\n03｜订单追踪与物流查询\n04｜发票管理与付款\n05｜在线退货申请\n06｜营销素材中心（Marketing & Customer Growth）\n07｜订单管理与履约路由\n\t\n其中，我们特别想分享的是第6项：营销素材中心。\n品牌可以提前上传产品图片、社媒内容、EDM邮件模板、门店陈列指南等资料，让经销商自行浏览、下载并用于本地营销。\n\t\n不再只是帮经销商更方便地买货，而是为他们提供更完整的销售支持。\n当然，这不是一套适用于所有企业的固定系统。\n\t\nKik 会根据品牌真实的 B2B 业务流程，规划界面设计、数据对接及定制开发方案，让 Shopify 独立站更贴合企业的实际运营需求。\n\t\n💡 想看看 Shopify B2B 还能怎么做？\n欢迎私信 Kik，预约 B2B Demo 演示。无论你正在规划批发业务，还是希望升级现有的经销商系统，都可以先来了解一下。\n\t\n#shopify #kikstartecom #独立站 #品牌出海 #b2b",
-  "images": [],
+  "body_text": "你的 Shopify B2B 独立站，还只是一个在线下单系统吗？\n\t\n经销商登录、查看专属价格、采购补货、追踪订单……这些可能只是 B2B 独立站的基础功能。\n真正值得关注的是：经销商除了采购，还能直接从品牌独立站获取营销素材，帮助自己卖货。\n这次，Kik 基于 Shopify Plus 定制开发了一套 B2B 内部研发 Demo，展示品牌如何把采购、履约、售后和经销商营销支持整合到同一个平台。\n\t\n📌 7大功能场景：\n01｜客户专属价格与在线采购\n02｜历史订单与快速复购\n03｜订单追踪与物流查询\n04｜发票管理与付款\n05｜在线退货申请\n06｜营销素材中心（Marketing & Customer Growth）\n07｜订单管理与履约路由\n\t\n其中，我们特别想分享的是第6项：营销素材中心。\n品牌可以提前上传产品图片、社媒内容、EDM邮件模板、门店陈列指南等资料，让经销商自行浏览、下载并用于本地营销。\n\t\n不再只是帮经销商更方便地买货，而是为他们提供更完整的销售支持。\n当然，这不是一套适用于所有企业的固定系统。\n\t\nKik 会根据品牌真实的 B2B 业务流程，规划界面设计、数据对接及定制开发方案，让 Shopify 独立站更贴合企业的实际运营需求。\n\t\n💡 想看看 Shopify B2B 还能怎么做？\n欢迎私信 Kik，预约 B2B Demo 演示。无论你正在规划批发业务，还是希望升级现有的经销商系统，都可以先来了解一下。\n\t\n#shopify[话题]# #kikstartecom[话题]# #独立站[话题]# #品牌出海[话题]# #b2b[话题]#",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611061731/ab9f37ee8dd8faa6b8dc5c5ee2bc4dc4/oss-sg/spectrum/1040g3ug326uo8pefiq005oi5b07k1v778hus8co!nd_dft_wlteh_jpg_3",
+      "width": 1358,
+      "height": 1810,
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
   "video": {
-    "source_url": null,
+    "source_url": "http://sns-video-zl.xhscdn.com/stream_glo/10001/110/258/0aeae469ed749c6e11037001a18c5283cc_258.mp4?sign=c49a46c5790d29f20270909793eb1d5b&t=6af23b9b",
     "transcript": null,
     "transcript_status": "missing",
     "subtitle": null,
@@ -22,63 +31,58 @@
     "favorites": "9",
     "comments": null
   },
-  "collected_at": "2026-11-03T11:22:36+08:00",
+  "collected_at": "2026-11-06T17:31:08+08:00",
   "content_status": "complete",
-  "content_hash": "d22ccce305057d7efe1d8e81b6febdd6868649189261eef62662ca5dd220bb35",
-  "errors": [
-    "video_blob_url: 视频为流媒体引用，未保存文件",
-    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
-    "image_not_applicable"
-  ],
+  "content_hash": "d6f4bdab629d29565b843417a90a53c38ba853be39c2ee68c6f472a77fe74b48",
+  "errors": [],
   "extra": {
     "author": "Kikstart Ecom 凯客数智",
-    "date_text": "3天前 加拿大",
-    "index_xsec_token": "ABRZMUjAjMsjacNcrRCJPMg5hXVik1ncIJXdNc8tzx_0s=",
+    "date_text": "2026-10-30",
+    "index_xsec_token": "ABoC77EUi6QJyF5Ao90iZ1IfnxTPI_tlx7gktQZb7QXdA=",
     "index_type": "video",
-    "index_likes": null,
-    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+    "published_at_source": "ssr_time",
+    "previous_published_at": null
   },
   "completeness": {
     "level": "text_only",
     "body_text": true,
     "images": {
-      "expected": 0,
-      "captured": 0,
+      "expected": 1,
+      "captured": 1,
       "ocr_done": 0,
-      "status": "not_applicable"
+      "status": "captured"
     },
     "image_text": {
-      "status": "not_applicable"
+      "status": "missing",
+      "note": "图片文字未做 OCR"
     },
     "video": {
-      "status": "url_missing"
+      "status": "captured"
     },
     "video_transcript": {
       "status": "missing",
       "note": "视频语音转录未执行"
     },
     "published_at": {
-      "status": "missing",
+      "status": "present",
       "note": "网页端仅提供相对/编辑时间，原文见 date_text",
-      "date_text": "3天前 加拿大"
+      "date_text": "2026-10-30"
     },
     "all_materials_complete": false,
     "gaps": [
-      "published_at",
-      "video_transcript",
-      "video_url"
+      "image_text",
+      "video_transcript"
     ]
   },
   "completeness_level": "text_only",
   "all_materials_complete": false,
   "gaps": [
-    "published_at",
-    "video_transcript",
-    "video_url"
+    "image_text",
+    "video_transcript"
   ],
   "mirror": {
-    "dataset_version": "2026.11.06-2",
-    "content_fingerprint": "d5a5540b7526",
+    "dataset_version": "2026.11.06-3",
+    "content_fingerprint": "7efe2600d986",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae46f23000000000d020cc1.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae46f23000000000d020cc1.json"
   }
