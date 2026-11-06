@@ -1,13 +1,13 @@
 # social-monitor 数据集全部可读地址（无需任何参数）
-# dataset_version: 2026.11.06-1  fingerprint: 8e7edb363d58
+# dataset_version: 2026.11.06-2  fingerprint: d5a5540b7526
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/version.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/manifest.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts.json
-https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-8e7edb363d58.json
+https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/posts-d5a5540b7526.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/index.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/data/updates.json
 
-# 单篇笔记 173 个
+# 单篇笔记 174 个
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/638c1939000000001f00d6fa.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6393d342000000001c005310.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6411c0590000000013031a72.json
@@ -181,3 +181,4 @@ https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae1c83
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae46f23000000000d020cc1.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae862fc00000000190398b8.json
 https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae863cb000000001400dc9b.json
+https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aec4d11000000001a01ee08.json

@@ -116,8 +116,8 @@
     ]
   },
   "mirror": {
-    "dataset_version": "2026.11.06-1",
-    "content_fingerprint": "8e7edb363d58",
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
     "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/69e5ebb40000000021010524.json",
     "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/69e5ebb40000000021010524.json"
   }

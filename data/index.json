@@ -5,9 +5,9 @@
   "account_id": "6245580f000000001000fce7",
   "account_label": "Kikstart Ecom 凯客数智",
   "profile_url": "https://www.xiaohongshu.com/user/profile/6245580f000000001000fce7",
-  "dataset_version": "2026.11.06-1",
-  "content_fingerprint": "8e7edb363d58",
-  "generated_at": "2026-11-06T14:32:50+08:00",
+  "dataset_version": "2026.11.06-2",
+  "content_fingerprint": "d5a5540b7526",
+  "generated_at": "2026-11-06T14:50:47+08:00",
   "mirror_mode": "full",
   "access": {
     "login_required": false,
@@ -16,18 +16,18 @@
     "auth_note": "静态镜像：匿名 HTTPS GET 即可读取，无需任何查询参数、Cookie 或登录"
   },
   "counts": {
-    "posts": 173,
-    "total_collected": 173
+    "posts": 174,
+    "total_collected": 174
   },
   "completeness_summary": {
     "levels": {
-      "text_only": 173
+      "text_only": 174
     },
     "gap_counts": {
       "image_text": 124,
-      "published_at": 173,
-      "video_transcript": 53,
-      "video_url": 9
+      "published_at": 174,
+      "video_transcript": 54,
+      "video_url": 10
     },
     "all_materials_complete_posts": 0,
     "note": "text_only = 正文完整但图片文字/视频转录缺失，不代表全部素材采集完整"
@@ -3332,6 +3332,26 @@
       "path": "posts/6ae863cb000000001400dc9b.json",
       "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae863cb000000001400dc9b.json",
       "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ae863cb000000001400dc9b.json"
+    },
+    {
+      "post_id": "6aec4d11000000001a01ee08",
+      "content_type": "video",
+      "title": "Shopify秋季版本更新，释放黑五关注3个信息",
+      "body_length": 414,
+      "image_count": 0,
+      "image_with_url": 0,
+      "has_video": false,
+      "collected_at": "2026-11-06T14:34:31+08:00",
+      "completeness_level": "text_only",
+      "all_materials_complete": false,
+      "gaps": [
+        "published_at",
+        "video_transcript",
+        "video_url"
+      ],
+      "path": "posts/6aec4d11000000001a01ee08.json",
+      "url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aec4d11000000001a01ee08.json",
+      "url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aec4d11000000001a01ee08.json"
     }
   ]
 }
