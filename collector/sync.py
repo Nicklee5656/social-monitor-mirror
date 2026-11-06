@@ -206,6 +206,12 @@ def main():
     known = {p.stem for p in POSTS.glob("*.json")}
     new_ids = [pid for pid in index if pid not in known]
     existing_ids = [pid for pid in index if pid in known]
+    # 此前收录、本次索引未出现的笔记：仅记录供人工核查，不改状态不删数据
+    update["possibly_missing"] = sorted(known - set(index))
+    if update["possibly_missing"]:
+        update["errors"].append(
+            f"index_missing_notes: {len(update['possibly_missing'])} 篇未出现在本次索引，已保留原数据待人工确认"
+        )
 
     # 索引顺序即发布时间倒序：最近 N 篇做内容复查
     recheck_ids = existing_ids[: max(0, args.recheck)]

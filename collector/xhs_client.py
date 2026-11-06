@@ -173,14 +173,17 @@ def fetch_detail(cookies, note_id, xsec_token=None, retries=2):
             r.raise_for_status()
             state = _parse_state(r.text)
             if not state:
-                raise FetchError("ssr_state_missing")
+                raise FetchError(f"ssr_state_missing status={r.status_code} head={r.text[:200]!r}")
             detail = (state.get("note") or {}).get("noteDetailMap") or {}
             entry = detail.get(note_id) or next(iter(detail.values()), None)
             if not entry or not entry.get("note"):
-                # 页面能开但无数据：多为登录态失效或需要验证
+                title = ""
+                m = re.search(r"<title>([^<]{0,80})", r.text)
+                if m:
+                    title = m.group(1)
                 if "登录" in r.text[:20000] or "验证" in r.text[:20000]:
-                    raise LoginExpired("detail requires login/verification")
-                raise FetchError("note_payload_missing")
+                    raise LoginExpired(f"detail requires login/verification title={title!r}")
+                raise FetchError(f"note_payload_missing title={title!r} keys={list((state.get('note') or {}).keys())}")
             return _normalize(entry["note"], note_id, xsec_token)
         except LoginExpired:
             raise

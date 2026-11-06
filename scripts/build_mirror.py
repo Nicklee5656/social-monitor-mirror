@@ -160,6 +160,8 @@ def main():
         STATE = Path(args.state_file).resolve()
     UPDATES_SRC = Path(args.updates_src).resolve() if args.updates_src else DATA / "updates.json"
     keep = {k.strip() for k in args.keep.split(",") if k.strip()}
+    # 发布产物白名单：只有这些会被重建；其余一律保留（如 .gitignore、requirements.txt）
+    artifacts = {"manifest.json", "index.html", "urls.txt", "README.md"}
 
     # 保留 .git（避免每次强制推送丢失历史）和历史冻结快照 data/posts-<旧指纹>.json
     if MIRROR.exists():
@@ -169,15 +171,19 @@ def main():
             # 源单篇目录永不清空（云端布局下它就在发布目录里）
             if child == POSTS or POSTS in child.parents:
                 continue
-            # 发布根=仓库根时，保留脚本与状态目录（含其下所有层级）
             try:
                 top = child.relative_to(MIRROR).parts[0]
             except ValueError:
                 top = ""
+            # 发布根=仓库根时，保留脚本与状态目录（含其下所有层级）
             if top in keep:
                 continue
-            if child.is_file() and child.parent == MIRROR / "data" and child.name.startswith("posts-"):
-                continue  # 历史冻结快照永久保留
+            # data/ 目录下：保留历史冻结快照与状态文件，其余重建
+            if child.parent == MIRROR / "data":
+                if child.name.startswith("posts-"):
+                    continue
+            elif child.parent == MIRROR and child.name not in artifacts:
+                continue  # 非产物文件（.gitignore、requirements.txt 等）不动
             if child.is_dir():
                 if not any(child.iterdir()):
                     child.rmdir()
