@@ -9,6 +9,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime
@@ -58,20 +59,42 @@ def sha256_of(obj):
     ).hexdigest()
 
 
+def stable_url(u):
+    """去掉 CDN URL 里的时效签名（路径中的时间戳/32位hex段、查询参数），
+    只保留稳定部分用于内容哈希。否则每次请求签名变化都会被误判为内容更新。"""
+    if not u:
+        return None
+    from urllib.parse import urlparse
+
+    p = urlparse(str(u))
+    segs = [s for s in p.path.split("/") if s]
+    while segs and (
+        re.fullmatch(r"\d{12,14}", segs[0]) or re.fullmatch(r"[0-9a-f]{32}", segs[0])
+    ):
+        segs = segs[1:]
+    # 主机名是按区域/节点动态分配的 CDN 边缘（如 sns-video-zl / sns-video-qc），不参与比对
+    return "/" + "/".join(segs)
+
+
 def hash_payload(p):
-    """与本地 postprocess.py 完全一致，保证 hash 跨环境可比。"""
+    """与本地 postprocess.py 完全一致，保证 hash 跨环境可比。
+
+    v3：内容哈希只覆盖「作者可控的内容」——标题、正文、图片、视频流，
+    且 URL 先经 stable_url 归一化（剔除时效签名）。
+    metrics（互动数）与 published_at（元数据）不参与，
+    从而区分 content_updated / metadata_updated。
+    """
     return {
         "title": p.get("title"),
         "body_text": p.get("body_text"),
         "images": [
-            {"position": im.get("position"), "source_url": im.get("source_url"), "text": im.get("extracted_text")}
+            {"position": im.get("position"), "source_url": stable_url(im.get("source_url")), "text": im.get("extracted_text")}
             for im in (p.get("images") or [])
         ],
         "video": {
-            "source_url": (p.get("video") or {}).get("source_url"),
+            "source_url": stable_url((p.get("video") or {}).get("source_url")),
             "transcript": (p.get("video") or {}).get("transcript"),
         },
-        "metrics": p.get("metrics"),
     }
 
 
@@ -163,11 +186,15 @@ def main():
         "accounts_monitored": [ACCOUNT_ID],
         "new_posts": [],
         "updated_posts": [],
+        "content_updated_posts": [],
+        "metadata_updated_posts": [],
         "unchanged_posts": [],
         "known_posts_skipped": [],
         "partial_posts": [],
         "failed_posts": [],
         "deleted_or_unavailable": [],
+        "index_missing_but_accessible": [],
+        "possibly_missing": [],
         "errors": [],
         "check_only": False,
     }
@@ -206,11 +233,46 @@ def main():
     known = {p.stem for p in POSTS.glob("*.json")}
     new_ids = [pid for pid in index if pid not in known]
     existing_ids = [pid for pid in index if pid in known]
-    # 此前收录、本次索引未出现的笔记：仅记录供人工核查，不改状态不删数据
-    update["possibly_missing"] = sorted(known - set(index))
+
+    # 此前收录、本次索引未出现的笔记：逐篇访问详情接口核实。
+    # 平台的 user_posted 索引存在可见性差异（部分笔记不出现在索引但仍可正常访问），
+    # 因此「索引缺失」不等于「已删除」——只有详情也拿不到的才保留待人工确认。
+    raw_missing = sorted(known - set(index))
+    for pid in raw_missing:
+        prev = read_json(POSTS / f"{pid}.json", {})
+        xs = (prev.get("extra") or {}).get("index_xsec_token")
+        try:
+            d = xhs_client.fetch_detail(cookies, pid, xs)
+        except LoginExpired as e:
+            update["possibly_missing"].append(pid)
+            update["errors"].append(f"login_expired_during_missing_check: {e}")
+            break
+        except Exception as e:
+            update["possibly_missing"].append(pid)
+            print(f"  UNVERIFIED {pid} {type(e).__name__}: {str(e)[:120]}")
+            time.sleep(1)
+            continue
+        entry = {
+            "post_id": pid,
+            "verified_at": now_iso(),
+            "content_type": d.get("content_type"),
+            "published_at": d.get("published_at"),
+            "body_length": len(d.get("body_text") or ""),
+        }
+        update["index_missing_but_accessible"].append(entry)
+        print(f"  MISSING_IN_INDEX_BUT_ACCESSIBLE {pid} type={d.get('content_type')}")
+        # 顺手补全缺失的发布时间（元数据更新，不动内容哈希）
+        if d.get("published_at") and not prev.get("published_at"):
+            merged = dict(prev)
+            merged["published_at"] = d["published_at"]
+            merged.setdefault("extra", {})["previous_published_at"] = None
+            merged["extra"]["last_metadata_sync"] = task_id
+            write_json(POSTS / f"{pid}.json", merged)
+            update["metadata_updated_posts"].append(pid)
+        time.sleep(1)
     if update["possibly_missing"]:
         update["errors"].append(
-            f"index_missing_notes: {len(update['possibly_missing'])} 篇未出现在本次索引，已保留原数据待人工确认"
+            f"index_missing_notes: {len(update['possibly_missing'])} 篇未出现在本次索引且详情不可访问，已保留原数据待人工确认"
         )
 
     # 索引顺序即发布时间倒序：最近 N 篇做内容复查
@@ -244,16 +306,37 @@ def main():
         try:
             d = xhs_client.fetch_detail(cookies, pid, (index[pid] or {}).get("xsec_token"))
             rec = to_post_record(d, existing=prev)
-            if rec["content_hash"] != prev.get("content_hash"):
+            # 内容哈希（v2，不含 metrics/published_at）变化 = 正文/图片/视频实际变化
+            content_changed = rec["content_hash"] != prev.get("content_hash")
+            # 元数据变化 = 发布时间补全、互动数刷新
+            meta_changes = {}
+            if rec.get("published_at") != prev.get("published_at"):
+                meta_changes["published_at"] = rec.get("published_at")
+            if rec["metrics"] != prev.get("metrics"):
+                meta_changes["metrics"] = rec["metrics"]
+
+            if content_changed:
                 rec["extra"]["previous_published_at"] = prev.get("published_at")
+                rec["extra"]["change_type"] = "content"
                 write_json(f, rec)
                 update["updated_posts"].append(pid)
-                print(f"  UPDATED {pid}")
+                update["content_updated_posts"].append(pid)
+                print(f"  UPDATED(content) {pid}")
+            elif meta_changes:
+                merged = dict(prev)
+                if "published_at" in meta_changes:
+                    merged["published_at"] = meta_changes["published_at"]
+                if "metrics" in meta_changes:
+                    merged["metrics"] = meta_changes["metrics"]
+                merged.setdefault("extra", {})["last_metadata_sync"] = task_id
+                if "published_at" in meta_changes:
+                    merged["extra"]["previous_published_at"] = prev.get("published_at")
+                merged["extra"]["change_type"] = "metadata"
+                write_json(f, merged)
+                update["updated_posts"].append(pid)
+                update["metadata_updated_posts"].append(pid)
+                print(f"  UPDATED(metadata) {pid} fields={sorted(meta_changes)}")
             else:
-                # 内容未变，仅同步互动数（不进 hash 判定之外的字段）
-                if rec["metrics"] != prev.get("metrics"):
-                    prev["metrics"] = rec["metrics"]
-                    write_json(f, prev)
                 update["unchanged_posts"].append(pid)
         except LoginExpired as e:
             update["errors"].append(f"login_expired_during_recheck: {e}")
@@ -267,9 +350,21 @@ def main():
             f"new_posts_truncated: 本轮仅采 {args.max_new} 篇，剩余 {len(new_ids) - args.max_new} 篇下轮继续"
         )
 
+    # ---- 判定最终状态 ----
+    status = "success"
+    if update["failed_posts"] or update["errors"]:
+        status = "partial"
+    exit_code = 0 if status == "success" else 3
+
     # ---- 重建聚合文件 ----
+    # 关键顺序：先把本轮结果写入 state/updates.json，再跑构建器，
+    # 构建器读它生成 data/updates.json —— 保证公开文件与内部状态永远同轮。
     if args.build:
         import subprocess
+
+        update["status"] = status
+        update["finished_at"] = now_iso()
+        write_json(STATE / "updates.json", update)
 
         cmd = [
             sys.executable,
@@ -285,14 +380,21 @@ def main():
         print(r.stdout.strip()[-800:])
         if r.returncode != 0:
             update["errors"].append(f"build_mirror_failed: {r.stderr.strip()[:300]}")
-            return finish("failed", 4)
-
-    status = "success"
-    if update["failed_posts"]:
-        status = "partial"
-    elif update["errors"]:
-        status = "partial"
-    return finish(status, 0 if status == "success" else 3)
+            update["status"] = "failed"
+            write_json(STATE / "updates.json", update)
+            print(json.dumps({"status": "failed", "exit": 4}, ensure_ascii=False))
+            return 4
+        print(json.dumps({
+            "status": status, "exit": exit_code,
+            "new_posts": update["new_posts"], "updated_posts": update["updated_posts"],
+            "content_updated_posts": update["content_updated_posts"],
+            "metadata_updated_posts": update["metadata_updated_posts"],
+            "unchanged_posts": update["unchanged_posts"], "failed_posts": update["failed_posts"],
+            "index_missing_but_accessible": len(update["index_missing_but_accessible"]),
+            "possibly_missing": update["possibly_missing"],
+        }, ensure_ascii=False))
+        return exit_code
+    return finish(status, exit_code)
 
 
 if __name__ == "__main__":

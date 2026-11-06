@@ -49,7 +49,7 @@
   },
   "collected_at": "2026-11-03T11:22:36+08:00",
   "content_status": "complete",
-  "content_hash": "e2a62bd0c9bf8979fd56e6b568ec705e33c6cbacf9029677a70d4b5775c76e99",
+  "content_hash": "9e3ac2a1930c9f46685b9fc7c754c3ff4a43d22979c0b0666284d670175a6ad2",
   "errors": [
     "video_transcript_not_implemented: 视频语音转录与字幕未实现",
     "image_ocr_pending: 图片文字未做 OCR"

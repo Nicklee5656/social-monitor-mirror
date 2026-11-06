@@ -91,7 +91,7 @@
   },
   "collected_at": "2026-11-03T11:22:36+08:00",
   "content_status": "complete",
-  "content_hash": "f7fd072e734fa3169b2361de27dfe4768c6887ea16f86aa927d1fa461c720932",
+  "content_hash": "66d128707e86c00be4ac76ec51612bceb41845e92ca3d181b3053adde8e9b37e",
   "errors": [
     "image_ocr_pending: 图片文字未做 OCR"
   ],

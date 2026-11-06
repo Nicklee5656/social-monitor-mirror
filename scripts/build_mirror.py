@@ -396,6 +396,8 @@ def main():
         "accounts_monitored": src_upd.get("accounts_monitored", [ACCOUNT_ID]),
         "new_posts": src_upd.get("new_posts", []),
         "updated_posts": src_upd.get("updated_posts", []),
+        "content_updated_posts": src_upd.get("content_updated_posts", []),
+        "metadata_updated_posts": src_upd.get("metadata_updated_posts", []),
         "unchanged_posts_count": len(
             src_upd.get("unchanged_posts") or src_upd.get("known_posts_skipped") or []
         ),
@@ -403,12 +405,18 @@ def main():
         "partial_posts": src_upd.get("partial_posts", []),
         "failed_posts": src_upd.get("failed_posts", []),
         "deleted_or_unavailable": src_upd.get("deleted_or_unavailable", []),
+        "index_missing_but_accessible": src_upd.get("index_missing_but_accessible", []),
+        "possibly_missing": src_upd.get("possibly_missing", []),
         "errors": src_upd.get("errors", []),
         "post_urls": {
             nid: main_url(f"posts/{nid}.json")
             for nid in (src_upd.get("new_posts", []) + src_upd.get("updated_posts", []))
         },
-        "note": "new_posts / updated_posts 为空表示本次未发现新笔记或内容变化",
+        "note": (
+            "new_posts / updated_posts 为空表示本次未发现新笔记或内容变化；"
+            "content_updated_posts = 正文/图片/视频实际变化；metadata_updated_posts = 仅发布时间补全或互动数刷新；"
+            "index_missing_but_accessible = 不在平台索引但详情仍可访问的笔记（未删除，数据保留）"
+        ),
     }
     write_json(MIRROR / "data" / "updates.json", updates_doc)
 

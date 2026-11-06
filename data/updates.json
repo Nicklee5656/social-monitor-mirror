@@ -4,21 +4,41 @@
   "dataset_version": "2026.11.06-3",
   "content_fingerprint": "7efe2600d986",
   "generated_at": "2026-11-06T17:31:14+08:00",
-  "task_id": "run-20261106T150716",
-  "task_status": "success",
-  "started_at": "2026-11-06T15:07:16+08:00",
-  "finished_at": "2026-11-06T15:07:32+08:00",
+  "task_id": "run-20261106T173053",
+  "task_status": "partial",
+  "started_at": "2026-11-06T17:30:53+08:00",
+  "finished_at": "2026-11-06T17:31:14+08:00",
   "accounts_monitored": [
     "6245580f000000001000fce7"
   ],
   "new_posts": [],
-  "updated_posts": [],
-  "unchanged_posts_count": 174,
-  "known_posts_skipped_count": 174,
+  "updated_posts": [
+    "6a01a73e0000000036030173",
+    "6aec4d11000000001a01ee08",
+    "6ae863cb000000001400dc9b",
+    "6ae46f23000000000d020cc1",
+    "6ae1c8360000000019024b14",
+    "6ad9ec5500000000190249a3",
+    "6ad85e67000000000d028170",
+    "6ad73a27000000000d020060"
+  ],
+  "unchanged_posts_count": 154,
+  "known_posts_skipped_count": 154,
   "partial_posts": [],
   "failed_posts": [],
   "deleted_or_unavailable": [],
-  "errors": [],
-  "post_urls": {},
+  "errors": [
+    "index_missing_notes: 12 篇未出现在本次索引，已保留原数据待人工确认"
+  ],
+  "post_urls": {
+    "6a01a73e0000000036030173": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a01a73e0000000036030173.json",
+    "6aec4d11000000001a01ee08": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aec4d11000000001a01ee08.json",
+    "6ae863cb000000001400dc9b": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae863cb000000001400dc9b.json",
+    "6ae46f23000000000d020cc1": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae46f23000000000d020cc1.json",
+    "6ae1c8360000000019024b14": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ae1c8360000000019024b14.json",
+    "6ad9ec5500000000190249a3": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad9ec5500000000190249a3.json",
+    "6ad85e67000000000d028170": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad85e67000000000d028170.json",
+    "6ad73a27000000000d020060": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad73a27000000000d020060.json"
+  },
   "note": "new_posts / updated_posts 为空表示本次未发现新笔记或内容变化"
 }

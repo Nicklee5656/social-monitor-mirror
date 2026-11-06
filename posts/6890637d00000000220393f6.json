@@ -24,7 +24,7 @@
   },
   "collected_at": "2026-11-03T11:22:36+08:00",
   "content_status": "complete",
-  "content_hash": "6bafcf726592450a23d3fa1fcb8823a639ca72a93f2730e27536d5ca20be73f3",
+  "content_hash": "2e249a5fb5575fc930ee3f90038b0c115055ec3c5d832adc3419e231b8fb650f",
   "errors": [
     "video_transcript_not_implemented: 视频语音转录与字幕未实现",
     "image_not_applicable"
