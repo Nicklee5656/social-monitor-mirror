@@ -1,0 +1,164 @@
+name: xhs-sync
+
+# 北京时间每周一 09:00（UTC 01:00）检查一次账号；也可手动触发
+on:
+  schedule:
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: "单次最多采集多少篇新笔记"
+        required: false
+        default: "40"
+      recheck:
+        description: "每轮复查最近多少篇是否被编辑"
+        required: false
+        default: "8"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: xhs-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      XHS_COOKIES: ${{ secrets.XHS_COOKIES }}
+      XHS_ACCOUNT_ID: "6245580f000000001000fce7"
+      MIRROR_REPO: ${{ github.repository }}
+      TZ: Asia/Shanghai
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install --quiet requests==2.34.2 xhshow==0.1.0
+
+      - name: Verify secret present
+        run: |
+          if [ -z "$XHS_COOKIES" ]; then
+            echo "::error::缺少 XHS_COOKIES secret，无法采集"
+            exit 1
+          fi
+          echo "cookie secret length: ${#XHS_COOKIES}"
+
+      - name: Run sync
+        id: sync
+        continue-on-error: true
+        run: |
+          set +e
+          python collector/sync.py --max-new "${{ github.event.inputs.max_new || '40' }}" \
+            --recheck "${{ github.event.inputs.recheck || '8' }}"
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          echo "sync exit code: $code"
+          exit 0
+
+      - name: Collect run summary
+        id: summary
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, pathlib
+          p = pathlib.Path("state/updates.json")
+          if not p.exists():
+              print("status=missing"); print("new=0"); print("updated=0"); print("failed=0")
+          else:
+              d = json.loads(p.read_text(encoding="utf-8"))
+              print(f"status={d.get('status')}")
+              print(f"task_id={d.get('task_id')}")
+              print(f"new={len(d.get('new_posts') or [])}")
+              print(f"updated={len(d.get('updated_posts') or [])}")
+              print(f"failed={len(d.get('failed_posts') or [])}")
+          PY
+
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name "xhs-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "sync: ${{ steps.summary.outputs.task_id }} status=${{ steps.summary.outputs.status }} new=${{ steps.summary.outputs.new }} updated=${{ steps.summary.outputs.updated }}"
+          git push
+
+      - name: Open issue on failure
+        if: always() && (steps.sync.outputs.exit_code != '0')
+        uses: actions/github-script@v7
+        env:
+          EXIT_CODE: ${{ steps.sync.outputs.exit_code }}
+          STATUS: ${{ steps.summary.outputs.status }}
+        with:
+          script: |
+            const code = process.env.EXIT_CODE;
+            const status = process.env.STATUS;
+            const titles = {
+              '2': '账号登录态失效，需要重新扫码',
+              '3': '采集部分失败',
+              '4': '采集任务失败'
+            };
+            const title = `[xhs-sync] ${titles[code] || '执行异常'} (exit ${code})`;
+            const body = [
+              `- 退出码：${code}`,
+              `- 任务状态：${status}`,
+              `- 触发方式：${context.eventName}`,
+              `- 运行记录：${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              '',
+              code === '2'
+                ? '处理方式：在本机重新扫码登录小红书，导出 cookies 后更新仓库 Secret `XHS_COOKIES`，再手动触发一次。已采集数据未受影响。'
+                : '请查看运行日志定位失败步骤。已采集数据未受影响。'
+            ].join('\n');
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'xhs-sync'
+            });
+            const dup = existing.data.find(i => i.title === title);
+            if (dup) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: dup.number, body: `再次出现（${new Date().toISOString()}）`
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title, body, labels: ['xhs-sync']
+              });
+            }
+
+      - name: Close stale issue after success
+        if: always() && steps.sync.outputs.exit_code == '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const open = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'xhs-sync'
+            });
+            for (const i of open.data) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: i.number, body: '本次同步已成功，关闭该告警。'
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: i.number, state: 'closed'
+              });
+            }
+
+      - name: Fail job if sync failed
+        if: always() && steps.sync.outputs.exit_code != '0'
+        run: exit 1
