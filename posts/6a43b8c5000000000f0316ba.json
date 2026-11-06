@@ -139,6 +139,12 @@
       "published_at"
     ]
   },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "image_text",
+    "published_at"
+  ],
   "mirror": {
     "dataset_version": "2026.11.06-2",
     "content_fingerprint": "d5a5540b7526",
