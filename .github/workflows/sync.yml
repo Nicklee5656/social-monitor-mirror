@@ -53,6 +53,10 @@ jobs:
           fi
           echo "cookie secret length: ${#XHS_COOKIES}"
 
+      - name: Diagnose environment
+        continue-on-error: true
+        run: python collector/diagnose.py
+
       - name: Run sync
         id: sync
         continue-on-error: true
