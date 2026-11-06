@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6aaaacc70000000019025346",
+  "url": "https://www.xiaohongshu.com/explore/6aaaacc70000000019025346",
+  "title": "女装独立站转化+4.8%，只因加了尺码参照",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "继续分享转化率提升干货。\n有个Shopify服装品牌，只加了一样东西，转化率涨了4.8%。\n加的是模特的身高和尺码。\n就这么简单。\n\t\n为什么管用？因为它回答了用户最大的疑问：这件衣服穿在我身上会是什么样？\n会不会太短？会不会太长？太紧还是太松？\n有了模特的身高和尺码做参照，用户就能拿自己跟模特比。少一点猜测，多一点把握，下单就更果断。\nReference: Kik合作伙伴Visually (A/B测试App）\n#shopify #独立站 #转化率优化 #kikstartecom #服装电商",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream_glo/10001/110/258/0aeaaaab8f130ed011037001a0aab2fb2a_258.mp4?sign=79c47f2ba646cedae170b5d2c8120c5b&t=6aedf239",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "a067abd68e6f1ecaf0bce469476f1897e0215bc8105f272e0182cfc64846afe4",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "09-16",
+    "index_xsec_token": "ABz4gZsJsHrHOpEQWNSPTQrz2__bpCvR1g8Hh3YF5qb90=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "09-16"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aaaacc70000000019025346.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aaaacc70000000019025346.json"
+  }
+}

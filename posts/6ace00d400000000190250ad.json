@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ace00d400000000190250ad",
+  "url": "https://www.xiaohongshu.com/explore/6ace00d400000000190250ad",
+  "title": "结账率提升35%📈，Shopify产品页关键调整",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "同样的产品，优化一下产品详情页，效果能差多少？\n之前Kik为一个家具品牌优化了 Shopify 产品页。\n更换优化后的模板仅3周，到达结账率从0.65%提升至0.88%，相对增长约35%。\n\t\nKik主要改动了4个细节👇:\n1、产品图片下方增加快捷入口\n新增视频、尺寸、评价等 Tab，让用户不用反复滚动页面，就能快速找到想看的信息。\n2、让用户评价更容易被看到\n在产品标题附近增加星级评分，并支持直接跳转评价区，帮助用户快速获取真实购买反馈。\n3、把抽象的舒适度变得可视化\n新增 Seating Comfort / Sleeping Comfort 舒适度等级，以及 See & Feel 说明，降低线上购买家具时的信息不确定性。\n4、优化加购推荐的理由\n在 Upsell 模块补充「为什么需要这款配件」的说明，让关联推荐更有说服力。\n\t\n对于高客单价产品来说，信任因素做得再好也不为过。而产品页的信息结构、展示顺序和交互细节，都值得反复优化。#kikstartecom #shopify #独立站 #独立站干货 #产品页优化",
+  "images": [],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "12",
+    "favorites": "21",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "69b16d48f72c7b5894652cd5a7cb2e7c2359cb920fab6a4fce6b7070e0f4dff1",
+  "errors": [
+    "video_blob_url: 视频为流媒体引用，未保存文件",
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "10-13 加拿大",
+    "index_xsec_token": "ABDrEHQeYL8fOFFeLDEcFEhoV1yGyCSpfeVeBDhth03Co=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "url_missing"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "10-13 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript",
+      "video_url"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript",
+    "video_url"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ace00d400000000190250ad.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ace00d400000000190250ad.json"
+  }
+}

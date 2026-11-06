@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ac8bf3f000000001401206a",
+  "url": "https://www.xiaohongshu.com/explore/6ac8bf3f000000001401206a",
+  "title": "Shopify无须手动退货，3个功能值得开启",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "我们常使用通过邮件处理客户退货、手动查找订单、创建退货单、发送物流标签，其实，在Shopify 原生功能已经可以简化大部分退货流程：\n\t\n① 开启自助退货（Self-serve returns）\n在 Shopify 后台开启自助退货功能后：\n-客户可以直接在订单页面申请退货\n-商家在后台审核，通过或拒绝申请\n-根据需要提供退货面单\n系统自动发送相关通知，并保留退货记录\n\t\n② 设置退货规则（Return Rules）\n商家可以根据自己的运营需求，设置：\n-退货期限，例如收到商品后 30 天内\n-退货运费及重新入库费用\n-指定不可退货的商品或系列（Final Sale）\n这些规则也可以应用于客户的自助退货流程。\n\t\n③ 美国境内退货面单功能升级\n-对于符合条件的美国境内退货订单，Shopify 现在支持直接在后台购买并生成 USPS、UPS、FedEx 退货面单。\n无需手动前往物流商平台购买，再上传追踪信息。\n不过需要注意：该功能目前仅适用于符合条件的美国境内退货，中国发货地址暂不支持直接使用。#shopify #退货处理 #kikstartecom#网站建设 #运营干货",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031102/a931065f110c04ef73ee90b38836f1fc/oss-sg/spectrum/1040g3ug3263nc3t22i005oi5b07k1v77q33c41g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031102/a931065f110c04ef73ee90b38836f1fc/oss-sg/spectrum/1040g3ug3263nc3t22i005oi5b07k1v77q33c41g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031102/a931065f110c04ef73ee90b38836f1fc/oss-sg/spectrum/1040g3ug3263nc3t22i005oi5b07k1v77q33c41g!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "9",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "ee207e0abfc5bac57b7f01844daac1972e16a6f7c4a7a78a64cfcd9ccd613b0a",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "10-09 加拿大",
+    "index_xsec_token": "AB4FFuvhkJpvLRF-gSG234t_iWp99JHYeQRcjI9_0-gXw=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "10-09 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "image_text",
+    "published_at"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ac8bf3f000000001401206a.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ac8bf3f000000001401206a.json"
+  }
+}

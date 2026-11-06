@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a7b064b0000000029032903",
+  "url": "https://www.xiaohongshu.com/explore/6a7b064b0000000029032903",
+  "title": "独立站人一手资讯——2027年白皮书",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "Shopify官方合作伙伴Kikstart Ecom联合CWILL、Firework、Ptmind、Trustpilot等多家行业头部合作伙伴，正式发布《2026-2027独立站转化率优化行业白皮书》。\n\t\n未来的独立站竞争，将不仅是流量和创意的比拼，更是对CRO专业能力、数据驱动决策能力与全链路优化能力的综合考验。唯有将CRO内化为品牌核心运营体系的企业，才能在不断变化的市场环境中持续生存与成长。\n\t\n【2026–2027 十大 CRO 趋势——带实战案例讲解】\n▶️ 内容落地页承接用户兴趣\n▶️ 用户调研驱动体验优化\n▶️ AI＋视频电商重构信任\n▶️ 个性化 App 降低决策门槛\n▶️ 前置奖励推动用户加购\n▶️ 精细化评论运营提升信任\n▶️ A/B 测试成为常态化机制\n▶️ Checkout 设计降低支付阻力\n▶️ 邮件与激励系统推动复购\n▶️ CRO 与全链路增长深度协同\n-白皮书-",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01ea7b055a46d71d010370019ff09157d8_258.mp4?sign=4285727c223f56dfeadd27fe9cb9ca33&t=6aedf215",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "2",
+    "favorites": "1",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "65ebe865713f0c19b9f0b8cb5da025b6267d104ca5d40fcc5eff88a92ce177bd",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 08-26",
+    "index_xsec_token": "ABoHG8J7CQ334a8nEDX6b9QDufZP_HP43Axo9U0WteZxs=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 08-26"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a7b064b0000000029032903.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a7b064b0000000029032903.json"
+  }
+}

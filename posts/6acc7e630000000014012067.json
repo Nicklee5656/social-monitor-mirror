@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6acc7e630000000014012067",
+  "url": "https://www.xiaohongshu.com/explore/6acc7e630000000014012067",
+  "title": "Shopify转化率+27%，Offer发挥旺季优势",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "我们整理了一份《Shopify Offer 优化手册》，包含：\n-17 种 Shopify 促销玩法\n-具体 Offer 案例参考\n-不同场景下的 CRO 优化建议\n-Offer 上线检查清单\n评论区留言「Offer」，获取领取方式。\n#kikstartecom #shopify #独立站 #黑五 #旺季营销 #运营干货",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream_glo/10001/110/258/0aeacc7dc313051211037001a12ecde3e4_258.mp4?sign=70e7958ed4ef198251aa51e36b195a45&t=6aedf248",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "3",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "59a373d6b9eef45ba2e48fd9cba0d43bd37f1beb24ee5598496b787aed123277",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "10-12 加拿大",
+    "index_xsec_token": "ABGJAEzLFFcUdVENcKMb9HMKTrKEKgPHzYyt7hbxCcfwI=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "10-12 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6acc7e630000000014012067.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6acc7e630000000014012067.json"
+  }
+}

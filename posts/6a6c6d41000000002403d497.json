@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6a6c6d41000000002403d497",
+  "url": "https://www.xiaohongshu.com/explore/6a6c6d41000000002403d497",
+  "title": "这次的独立站改版，效果有亿点酷炫",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "🤩 从线框图到真实上线的Shopify独立站的Before&After 效果来了！\n\t\n这不只是一次页面美化， 而是一次围绕转化路径的完整重构：\n▶️更清晰的页面结构\n▶️更顺畅的购物路径\n▶️更适合下单的用户体验\n\t\n从策略到上线， Kik帮品牌把想法变成真正能承接流量的Shopify网站。 🙌#kikstartecom #shopify #dtc #独立站 #转化率提升 #品牌出海",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream/1/110/258/01ea6c6c4757155b010370019fb78adcc9_258.mp4?sign=a3089436cf20ad28baa5ea7e5f560df4&t=6aedf1ff",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "4",
+    "favorites": "4",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "55a6a60ec1658cf69d7e331abae16d90b46391f136c6f970e1d7b02616c83270",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 07-31",
+    "index_xsec_token": "AByHglwPcFov_r9oDhQk-cTD4vNZ8Pq3ijmw2eGN58Xuk=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 07-31"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6a6c6d41000000002403d497.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6a6c6d41000000002403d497.json"
+  }
+}

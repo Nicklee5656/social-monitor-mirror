@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ab283360000000014010952",
+  "url": "https://www.xiaohongshu.com/explore/6ab283360000000014010952",
+  "title": "Horizon加上这5项功能，独立站搭建更灵活",
+  "published_at": null,
+  "content_type": "image",
+  "body_text": "如果你正在使用 Shopify Horizon，可以让开发团队给 Group Block 补上这 5 项能力，让运营人员以后直接在主题编辑器里组合页面。\n1️⃣ 电脑端和手机端分别显示\n同一个模块可以选择：全部显示、仅电脑端显示、仅手机端显示。\n如果一个版式很难同时适配两端，可以复制两份，分别调整后按设备显示。\n2️⃣ 没有内容时自动隐藏\n例如某款产品没有规格表、用户评价或 FAQ，对应模块会自动隐藏，避免页面留下空标题和空白区域。\n3️⃣ 开放更多样式调整空间\n给模块增加独立标记后，开发者可以通过 Custom CSS 单独调整透明度、边框、背景等细节，不会影响其他相同模块。\n4️⃣ 手机端单独设置间距\n电脑端可能需要40px留白，手机端只需要20px。补上独立设置后，运营可以分别调整上下左右间距。\n5️⃣ Metaobject内容自动生成\n这是最实用的一项。\n把 FAQ、卖点、图片和说明存进 Metaobject 后，页面可以按照内容数量自动生成对应模块。新增一条 FAQ，前台就多展示一项，不需要重复搭建。\n\t\n#kikstartecom #shopify #shopify建站 #独立站 #主题开发",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031102/1a5269df2b29fd81da8d5ed950a4a5b6/oss-sg/spectrum/1040g3ug325e0mlkc2i005oi5b07k1v77cdnh22o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 2,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031102/1a5269df2b29fd81da8d5ed950a4a5b6/oss-sg/spectrum/1040g3ug325e0mlkc2i005oi5b07k1v77cdnh22o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    },
+    {
+      "position": 3,
+      "source_url": "https://sns-webpic-qc.xhscdn.com/202611031102/1a5269df2b29fd81da8d5ed950a4a5b6/oss-sg/spectrum/1040g3ug325e0mlkc2i005oi5b07k1v77cdnh22o!nd_dft_wlteh_webp_3",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "not_applicable",
+    "subtitle": null,
+    "subtitle_status": "not_applicable",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "5",
+    "favorites": "2",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "779b97cd5fb0aab8ee2f4f6fb026f75f17ff3f2e3831841514c38c97c8b5fd82",
+  "errors": [
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "09-22",
+    "index_xsec_token": "ABToy9wwKsH_dvgYpoPEdZAgEln1sq3ob-Ul957fGSCtU=",
+    "index_type": "normal",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 3,
+      "captured": 3,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "not_applicable"
+    },
+    "video_transcript": {
+      "status": "not_applicable"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "09-22"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "image_text",
+    "published_at"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ab283360000000014010952.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ab283360000000014010952.json"
+  }
+}

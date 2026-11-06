@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6adf2f600000000019032a84",
+  "url": "https://www.xiaohongshu.com/explore/6adf2f600000000019032a84",
+  "title": "转化率提升近10倍！15处Shopify优化拆解",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "我们在做Shopify品牌个案时候遇到很多同样的疑惑，人们想要提升转化率的时候第一反应往往是升级视觉、增加模块，或者直接更换一套Theme。\n但页面变得更精致之后，用户就一定更愿意下单吗？\n\t\n最近我们整理了 Kik 一个 3C 电子品牌的 Shopify 定制开发案例。\n通过重新梳理网站结构、产品信息与用户购买路径，品牌最终实现了转化率提升 10 倍。\n这次优化涉及 15 处页面改动，其中有几个方向尤其值得 Shopify 商家参考：\n① 重新组织 Homepage 导购路径\n② 重构 PDP 购买信息层级\n③ 将产品参数转化为使用场景\n④ 调整 Social Proof 的展示位置\n⑤ 优化 Mobile 端购买体验\n\t\n这些调整看起来分散，但背后的优化逻辑其实很一致：\n用户为什么没有继续浏览？\n为什么看过产品，却没有点击 Add to Cart？\n为什么已经产生购买兴趣，仍然需要反复寻找信息？\n每一个问题，都可能对应着网站里尚未解决的转化阻力。\n\t\n这也是为什么 Shopify CRO 不能只依赖视觉审美或竞品模板。\n从 Homepage 到 PDP，再到最终的购买决策，页面中的信息顺序、内容表达和操作路径，都可能影响用户的下一步行为。\n真正值得优化的，是用户从浏览到下单过程中，每一个可能产生犹豫的节点。\n这次我们将项目中的 15 处优化整理成 Before / After 对比，分享给正在做 Shopify 独立站设计与转化率优化的品牌。\n为此我们还另外准备了一个CRO Checklist，下一次做网站 Audit 时，可以逐项对照检查。\n评论获取资料：CRO\n\t\n#kikstartecom #shopify #跨境电商  #独立站 #ab测试",
+  "images": [],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "9",
+    "favorites": "20",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "34e13fe9995228cfc37eb273cff8b353079481b47ac766a013b5cbdb94f92597",
+  "errors": [
+    "video_blob_url: 视频为流媒体引用，未保存文件",
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 7天前 加拿大",
+    "index_xsec_token": "ABDsDe_zdGIV0b6Hlg8Go_kcuBkLC2GF0kNV9PIdAWdRU=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "url_missing"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 7天前 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript",
+      "video_url"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript",
+    "video_url"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6adf2f600000000019032a84.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6adf2f600000000019032a84.json"
+  }
+}

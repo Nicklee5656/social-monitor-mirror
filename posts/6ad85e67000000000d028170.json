@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6ad85e67000000000d028170",
+  "url": "https://www.xiaohongshu.com/explore/6ad85e67000000000d028170",
+  "title": "转化提升94%，智能独立站应突出哪些细节？",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "同样的产品，Shopify 产品页优化前后，转化率能差多少？\n之前，我们为智能眼镜品牌进行了 Shopify 独立站优化。\n从改版前的 0.32% 到改版后的 0.62%，转化率相对提升约94%。\n\t\n这次 PDP 优化，我们重点调整了以下几个方面👇\n① 重新设计产品首屏\n将 AR 眼镜的核心使用场景和关键卖点前置，结合动态视觉展示，让用户进入页面后更快理解产品价值。\n② 增加 3D 展示与 AR 虚拟试戴\n支持用户 360° 查看眼镜外观及佩戴效果，让原本抽象的科技产品变得更直观，降低线上购买的不确定性。\n③ 增加 Sticky Add to Cart\n在产品页加入跟随式加购按钮，让用户滚动浏览时也能快速找到购买入口，缩短从了解产品到加购的路径。\n④ 优化用户评价与信任展示\n升级评价系统，优先展示带图、最新及已验证用户的评价，并在关键位置补充安全支付、运输政策等信任信息。\n⑤ 增加产品型号对比与配件展示\n通过参数对比帮助用户快速区分不同型号，同时用图文展示包装内包含的配件，减少用户反复查找和咨询的成本。\n\t\n💡 对于 AR 眼镜这类需要一定理解成本的科技产品，PDP 优化的重点在于让用户更快看懂产品、建立信任，并顺利完成购买决策。\n这次的前后数据对比，也为我们持续优化 Shopify 购买体验提供了参考。\n📌 图片整理了改版前后的页面对比，值得收藏参考！\n注：转化率为改版前后对比数据，具体增长还可能受到流量及其他因素影响。\n#kikstartecom #shopify #独立站 #提高转化率 #跨境电商",
+  "images": [
+    {
+      "position": 1,
+      "source_url": "https://fe-platform.xhscdn.com/platform/104101l03241scdup0o06ftel2030k000000000cs6egji",
+      "extracted_text": null,
+      "extraction_status": "pending"
+    }
+  ],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "7",
+    "favorites": "7",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "86a4db6bc56cb0b2f61d5f07eccd1d46ee1b71f36ff02a9563a59b9dc25ee0e1",
+  "errors": [
+    "video_blob_url: 视频为流媒体引用，未保存文件",
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_ocr_pending: 图片文字未做 OCR"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 10-21 加拿大",
+    "index_xsec_token": "ABzSDhSy28cvYahbTTwfxnuNm6wfG8D1SXUSybH4nChgU=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 1,
+      "captured": 1,
+      "ocr_done": 0,
+      "status": "captured"
+    },
+    "image_text": {
+      "status": "missing",
+      "note": "图片文字未做 OCR"
+    },
+    "video": {
+      "status": "url_missing"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 10-21 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "image_text",
+      "published_at",
+      "video_transcript",
+      "video_url"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "image_text",
+    "published_at",
+    "video_transcript",
+    "video_url"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6ad85e67000000000d028170.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6ad85e67000000000d028170.json"
+  }
+}

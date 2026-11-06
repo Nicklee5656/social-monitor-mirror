@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6aec4d11000000001a01ee08",
+  "url": "https://www.xiaohongshu.com/explore/6aec4d11000000001a01ee08",
+  "title": "Shopify秋季版本更新，释放黑五关注3个信息",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "这次 Shopify 秋季更新中值得关注的3个变化👇\n🛍️ AI 正在连接商品发现和购买 顾客可以在支持的 AI 助手里寻找商品，并通过 Shop Pay 结账。品牌也能审核提供给 AI 的店铺信息。 黑五前，先检查配送时效、退换货政策和常见问题有没有写清楚。\n🤖 Sidekick 能处理更多运营工作 从多步骤任务、批量准备修改，到结合市场趋势给出推广建议，都值得关注。商家可以审核修改，再决定是否应用。\n🎨 网站设计和购物体验继续升级 Canvas 支持在同一画布里查看和调整店铺页面，目前仅向部分店铺开放抢先体验。 站内购物助手也能提供个性化推荐、从聊天中发起结账，并连接人工协助。\n具体画面和应用场景，视频里逐一讲清楚了📹\n📁 私信「CRO」，领取 Kik 独立站转化率检查清单。 或者想知道你的店铺黑五前该优先优化哪里，也欢迎预约店铺诊断。\n#kikstartecom  #shopify #dtc #独立站  #黑五",
+  "images": [],
+  "video": {
+    "source_url": null,
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "9",
+    "favorites": "5",
+    "comments": null
+  },
+  "collected_at": "2026-11-06T14:34:31+08:00",
+  "content_status": "complete",
+  "content_hash": "5c1783c4efe0da4ffebb420acb923fd81b2854af18fa9a639d85da10923a3a0f",
+  "errors": [
+    "video_blob_url: 视频为流媒体引用，未保存文件",
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "编辑于 昨天 17:37 加拿大",
+    "index_xsec_token": "ABCOZj2SK3Mj3UaJhZx8JS2dYNXs64DOBIXWD4loOMV2Y=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "url_missing"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "编辑于 昨天 17:37 加拿大"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript",
+      "video_url"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript",
+    "video_url"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6aec4d11000000001a01ee08.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6aec4d11000000001a01ee08.json"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "platform": "xiaohongshu",
+  "account_id": "6245580f000000001000fce7",
+  "post_id": "6abcb734000000000d00b945",
+  "url": "https://www.xiaohongshu.com/explore/6abcb734000000000d00b945",
+  "title": "黑五前必看-16个高转化独立站 Landing Page",
+  "published_at": null,
+  "content_type": "video",
+  "body_text": "Kik整理了 16 个值得参考的 Landing Page 案例：从限时优惠、免费赠品、Flash Sale，到品牌对比、用户口碑、临床研究、Founder Story……\n不同页面，对应的其实是不同的用户决策场景。\n如果你正在准备独立站黑五、圣诞或 Q4 Campaign，这 16 个案例可以直接拿来找思路。\n#kikstartecom #shopify #独立站建站 #落地页 #黑五",
+  "images": [],
+  "video": {
+    "source_url": "http://sns-video-v6.xhscdn.com/stream_glo/10001/110/114/0aeabcb42b13022e11037001a0f12c6d64_114.mp4?sign=0aba6de265922825e9871adc4c254712&t=6aedf241",
+    "transcript": null,
+    "transcript_status": "missing",
+    "subtitle": null,
+    "subtitle_status": "missing",
+    "poster_url": null
+  },
+  "metrics": {
+    "likes": "8",
+    "favorites": "13",
+    "comments": null
+  },
+  "collected_at": "2026-11-03T11:22:36+08:00",
+  "content_status": "complete",
+  "content_hash": "4a6a26cdc24c3be96c57b8043a11174107fc2846383fb15948aee2e0eca65bd4",
+  "errors": [
+    "video_transcript_not_implemented: 视频语音转录与字幕未实现",
+    "image_not_applicable"
+  ],
+  "extra": {
+    "author": "Kikstart Ecom 凯客数智",
+    "date_text": "09-30",
+    "index_xsec_token": "ABhlKvEiWwz4NtKkGHWyQRAfKjr6zQBkIPVz0xH-YqwzE=",
+    "index_type": "video",
+    "index_likes": null,
+    "published_at_note": "网页端仅显示相对/编辑时间，缺少绝对发布时间，已保留 date_text 原文"
+  },
+  "completeness": {
+    "level": "text_only",
+    "body_text": true,
+    "images": {
+      "expected": 0,
+      "captured": 0,
+      "ocr_done": 0,
+      "status": "not_applicable"
+    },
+    "image_text": {
+      "status": "not_applicable"
+    },
+    "video": {
+      "status": "captured"
+    },
+    "video_transcript": {
+      "status": "missing",
+      "note": "视频语音转录未执行"
+    },
+    "published_at": {
+      "status": "missing",
+      "note": "网页端仅提供相对/编辑时间，原文见 date_text",
+      "date_text": "09-30"
+    },
+    "all_materials_complete": false,
+    "gaps": [
+      "published_at",
+      "video_transcript"
+    ]
+  },
+  "completeness_level": "text_only",
+  "all_materials_complete": false,
+  "gaps": [
+    "published_at",
+    "video_transcript"
+  ],
+  "mirror": {
+    "dataset_version": "2026.11.06-2",
+    "content_fingerprint": "d5a5540b7526",
+    "post_url": "https://cdn.jsdelivr.net/gh/Nicklee5656/social-monitor-mirror@main/posts/6abcb734000000000d00b945.json",
+    "post_url_pages": "https://nicklee5656.github.io/social-monitor-mirror/posts/6abcb734000000000d00b945.json"
+  }
+}
